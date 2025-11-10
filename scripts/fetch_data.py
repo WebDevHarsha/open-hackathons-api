@@ -32,30 +32,11 @@ def main():
     client = MongoClient(mongodb_uri)
     
     try:
-        # Replace 'your_database' and 'your_collection' with your actual database and collection names
-        # You may need to adjust these based on your MongoDB structure
-        db = client.get_default_database()
+        # Connect to the 'dumpy' database and 'hackathons' collection
+        db = client['dumpy']
+        collection = db['hackathons']
         
-        # Try to find the hackathons collection (adjust the collection name as needed)
-        # Common names might be: 'hackathons', 'events', 'challenges', etc.
-        collection_name = None
-        for name in ['hackathons', 'events', 'challenges', 'devpost']:
-            if name in db.list_collection_names():
-                collection_name = name
-                break
-        
-        if not collection_name:
-            # If no common name found, use the first collection or default to 'hackathons'
-            collections = db.list_collection_names()
-            if collections:
-                collection_name = collections[0]
-                print(f"Using collection: {collection_name}")
-            else:
-                raise ValueError("No collections found in database")
-        
-        collection = db[collection_name]
-        
-        print(f"Fetching data from collection: {collection_name}")
+        print(f"Fetching data from database: dumpy, collection: hackathons")
         
         # Fetch all hackathons, sorted by date (newest first)
         # Filter for open hackathons if needed
