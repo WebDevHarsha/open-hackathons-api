@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Hackathons API</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        main {
+            padding: 2rem;
+        }
+        
+        .section {
+            margin-bottom: 2rem;
+        }
+        
+        h2 {
+            color: #667eea;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+        }
+        
+        .api-endpoint {
+            background: #f7f7f7;
+            border-left: 4px solid #667eea;
+            padding: 1rem;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            overflow-x: auto;
+            margin: 1rem 0;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+        
+        .stat-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            display: block;
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            margin-top: 0.5rem;
+        }
+        
+        .btn {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            text-decoration: none;
+            border-radius: 6px;
+            margin: 0.5rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+        
+        .hackathon-list {
+            display: grid;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .hackathon-card {
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 1rem;
+            transition: box-shadow 0.2s;
+        }
+        
+        .hackathon-card:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        
+        .hackathon-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 0.5rem;
+        }
+        
+        .hackathon-meta {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .themes {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.5rem;
+        }
+        
+        .theme-tag {
+            background: #f0f0f0;
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            color: #666;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+        }
+        
+        footer {
+            background: #f7f7f7;
+            padding: 1.5rem;
+            text-align: center;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 Open Hackathons API</h1>
+            <p class="subtitle">Up-to-date information about open hackathons</p>
+        </header>
+        
+        <main>
+            <div class="section">
+                <h2>📡 API Endpoint</h2>
+                <p>Access the latest hackathon data:</p>
+                <div class="api-endpoint" id="apiEndpoint">
+                    Loading...
+                </div>
+                <div style="text-align: center;">
+                    <a href="data.json" class="btn" target="_blank">View JSON Data</a>
+                    <a href="https://github.com/yourusername/open-hackathons-api" class="btn" target="_blank">GitHub Repository</a>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>📊 Statistics</h2>
+                <div class="stats">
+                    <div class="stat-card">
+                        <span class="stat-number" id="totalCount">-</span>
+                        <span class="stat-label">Total Hackathons</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-number" id="lastUpdated">-</span>
+                        <span class="stat-label">Last Updated</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>🎯 Featured Hackathons</h2>
+                <div id="hackathonList" class="hackathon-list">
+                    <div class="loading">Loading hackathons...</div>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Data updates daily at 6:00 AM UTC via GitHub Actions</p>
+        </footer>
+    </div>
+    
+    <script>
+        // Set API endpoint URL
+        const apiUrl = window.location.origin + window.location.pathname.replace(/\/$/, '') + '/data.json';
+        document.getElementById('apiEndpoint').textContent = apiUrl;
+        
+        // Fetch and display data
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                // Update statistics
+                document.getElementById('totalCount').textContent = data.count || 0;
+                
+                const lastUpdated = new Date(data.last_updated);
+                const timeAgo = getTimeAgo(lastUpdated);
+                document.getElementById('lastUpdated').textContent = timeAgo;
+                
+                // Display hackathons
+                const hackathonList = document.getElementById('hackathonList');
+                
+                if (!data.hackathons || data.hackathons.length === 0) {
+                    hackathonList.innerHTML = '<p style="text-align: center; color: #666;">No hackathons available yet. Check back soon!</p>';
+                    return;
+                }
+                
+                // Show first 10 hackathons
+                const displayHackathons = data.hackathons.slice(0, 10);
+                
+                hackathonList.innerHTML = displayHackathons.map(hackathon => `
+                    <div class="hackathon-card">
+                        <div class="hackathon-title">${hackathon.title || 'Untitled'}</div>
+                        <div class="hackathon-meta">
+                            <strong>${hackathon.organization_name || 'Unknown Organization'}</strong>
+                            ${hackathon.displayed_location ? ' • ' + hackathon.displayed_location : ''}
+                        </div>
+                        <div class="hackathon-meta">
+                            ${hackathon.submission_period_dates || ''}
+                            ${hackathon.time_left_to_submission ? ' • ' + hackathon.time_left_to_submission : ''}
+                        </div>
+                        ${hackathon.prizeText ? '<div class="hackathon-meta">Prize: ' + hackathon.prizeText.replace(/<[^>]*>/g, '') + '</div>' : ''}
+                        ${hackathon.themes && hackathon.themes.length > 0 ? `
+                            <div class="themes">
+                                ${hackathon.themes.map(theme => `<span class="theme-tag">${theme.name}</span>`).join('')}
+                            </div>
+                        ` : ''}
+                        ${hackathon.url ? `<div style="margin-top: 0.5rem;"><a href="${hackathon.url}" target="_blank" class="btn">View Details</a></div>` : ''}
+                    </div>
+                `).join('');
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+                document.getElementById('hackathonList').innerHTML = '<p style="text-align: center; color: #999;">Failed to load hackathons data.</p>';
+            });
+        
+        function getTimeAgo(date) {
+            const seconds = Math.floor((new Date() - date) / 1000);
+            
+            if (seconds < 60) return 'Just now';
+            if (seconds < 3600) return Math.floor(seconds / 60) + 'm ago';
+            if (seconds < 86400) return Math.floor(seconds / 3600) + 'h ago';
+            return Math.floor(seconds / 86400) + 'd ago';
+        }
+    </script>
+</body>
+</html>
