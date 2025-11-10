@@ -6,10 +6,8 @@ A simple API that provides up-to-date information about open hackathons from var
 
 Access the latest hackathon data at:
 ```
-https://username.github.io/open-hackathons-api/data.json
+https://WebDevHarsha.github.io/open-hackathons-api/data.json
 ```
-
-Replace `username` with your GitHub username.
 
 ## 📊 Data Format
 
