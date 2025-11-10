@@ -1,5 +1,126 @@
 {
-  "last_updated": "2025-11-10T00:00:00Z",
-  "count": 0,
-  "hackathons": []
+  "last_updated": "2025-11-10T17:10:12.164813Z",
+  "count": 4,
+  "hackathons": [
+    {
+      "_id": "6911476e29da70dc2da0be1d",
+      "id": 26926,
+      "url": "https://kiroween.devpost.com/",
+      "title": "Kiroween",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/879/417/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Kiro",
+      "isOpen": "open",
+      "submission_period_dates": "Oct 31 - Dec 05, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 1144,
+      "prizeText": "$<span data-currency-value>100,000</span>",
+      "time_left_to_submission": "26 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://kiroween.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6911476f29da70dc2da0be24",
+      "id": 27116,
+      "url": "https://bria-ai.devpost.com/",
+      "title": "FIBO Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/934/447/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Bria",
+      "isOpen": "open",
+      "submission_period_dates": "Nov 03 - Dec 15, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 376,
+      "prizeText": "$<span data-currency-value>25,000</span>",
+      "time_left_to_submission": "about 1 month left",
+      "themes": [
+        {
+          "id": 20,
+          "name": "E-commerce/Retail"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://bria-ai.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6911477029da70dc2da0be2c",
+      "id": 26833,
+      "url": "https://liquidmetal.devpost.com/",
+      "title": "The AI Champion Ship ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/832/297/datas/medium_square.gif",
+      "featured": true,
+      "organization_name": "LiquidMetalAI",
+      "isOpen": "open",
+      "submission_period_dates": "Oct 20 - Dec 08, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 1757,
+      "prizeText": "$<span data-currency-value>36,500</span>",
+      "time_left_to_submission": "28 days left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://liquidmetal.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6911477129da70dc2da0be3b",
+      "id": 26505,
+      "url": "https://run.devpost.com/",
+      "title": "Cloud Run Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/826/553/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Google",
+      "isOpen": "open",
+      "submission_period_dates": "Oct 06 - Nov 10, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 3320,
+      "prizeText": "$<span data-currency-value>50,000</span>",
+      "time_left_to_submission": "about 23 hours left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "start_a_submission_url": "https://run.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    }
+  ]
 }
