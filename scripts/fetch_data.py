@@ -2,6 +2,7 @@
 
 import json
 import os
+import re
 from datetime import datetime
 from pymongo import MongoClient
 from bson import ObjectId
@@ -17,6 +18,24 @@ def convert_mongodb_to_json(doc):
         return doc.isoformat()
     else:
         return doc
+
+def extract_prize_value(prize_text):
+    """Extract numeric value from prize text for sorting"""
+    if not prize_text:
+        return 0
+    # Remove HTML tags and extract numbers
+    clean_text = re.sub(r'<[^>]*>', '', prize_text)
+    # Try to find numbers
+    numbers = re.findall(r'[\d,]+', clean_text)
+    if numbers:
+        # Take the first number found, remove commas
+        return int(numbers[0].replace(',', ''))
+    return 0
+
+def save_json(filepath, data):
+    """Save data to JSON file"""
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
 def main():
     mongodb_uri = os.environ.get('MONGODB_URI')
@@ -37,19 +56,61 @@ def main():
         
         print(f"Found {len(hackathons)} hackathons")
         
-        data = {
-            "last_updated": datetime.utcnow().isoformat() + "Z",
-            "count": len(hackathons),
-            "hackathons": [convert_mongodb_to_json(doc) for doc in hackathons]
+        # Convert all hackathons to JSON format
+        converted_hackathons = [convert_mongodb_to_json(doc) for doc in hackathons]
+        
+        last_updated = datetime.utcnow().isoformat() + "Z"
+        output_dir = os.path.dirname(os.path.dirname(__file__))
+        
+        # 1. Save all hackathons (data.json)
+        data_all = {
+            "last_updated": last_updated,
+            "count": len(converted_hackathons),
+            "hackathons": converted_hackathons
         }
+        save_json(os.path.join(output_dir, 'data.json'), data_all)
+        print(f"✓ Saved data.json - {len(converted_hackathons)} hackathons")
         
-        output_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data.json')
+        # 2. Filter and save open hackathons (data-open.json)
+        open_hackathons = [h for h in converted_hackathons if h.get('isOpen') == 'open']
+        data_open = {
+            "last_updated": last_updated,
+            "count": len(open_hackathons),
+            "hackathons": open_hackathons
+        }
+        save_json(os.path.join(output_dir, 'data-open.json'), data_open)
+        print(f"✓ Saved data-open.json - {len(open_hackathons)} hackathons")
         
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+        # 3. Filter and save featured hackathons (data-featured.json)
+        featured_hackathons = [h for h in converted_hackathons if h.get('featured') == True]
+        data_featured = {
+            "last_updated": last_updated,
+            "count": len(featured_hackathons),
+            "hackathons": featured_hackathons
+        }
+        save_json(os.path.join(output_dir, 'data-featured.json'), data_featured)
+        print(f"✓ Saved data-featured.json - {len(featured_hackathons)} hackathons")
         
-        print(f"Data successfully saved to {output_path}")
-        print(f"Total hackathons: {len(hackathons)}")
+        # 4. Sort by prize and save (data-by-prize.json)
+        hackathons_with_prize = [h for h in converted_hackathons if h.get('prizeText')]
+        sorted_by_prize = sorted(
+            hackathons_with_prize,
+            key=lambda x: extract_prize_value(x.get('prizeText', '')),
+            reverse=True
+        )
+        data_by_prize = {
+            "last_updated": last_updated,
+            "count": len(sorted_by_prize),
+            "hackathons": sorted_by_prize
+        }
+        save_json(os.path.join(output_dir, 'data-by-prize.json'), data_by_prize)
+        print(f"✓ Saved data-by-prize.json - {len(sorted_by_prize)} hackathons")
+        
+        print(f"\n✅ All endpoints generated successfully!")
+        print(f"   Total: {len(converted_hackathons)}")
+        print(f"   Open: {len(open_hackathons)}")
+        print(f"   Featured: {len(featured_hackathons)}")
+        print(f"   With Prizes: {len(sorted_by_prize)}")
         
     finally:
         client.close()
