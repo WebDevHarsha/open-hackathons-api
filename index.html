@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Open Hackathons API</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        
         * {
             margin: 0;
             padding: 0;
@@ -12,202 +14,353 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             line-height: 1.6;
-            color: #333;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #e4e4e7;
+            background: #0a0a0a;
             min-height: 100vh;
-            padding: 2rem;
         }
         
         .container {
-            max-width: 900px;
+            max-width: 1200px;
             margin: 0 auto;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            overflow: hidden;
+            padding: 0 2rem;
         }
         
         header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 3rem 2rem;
-            text-align: center;
+            padding: 4rem 0 3rem;
+            border-bottom: 1px solid #27272a;
+        }
+        
+        .header-content {
+            max-width: 800px;
+        }
+        
+        .label {
+            display: inline-block;
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: #10b981;
+            letter-spacing: 0.05em;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
         }
         
         h1 {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            margin-bottom: 1rem;
+            font-weight: 700;
+            color: #fafafa;
+            line-height: 1.1;
+            letter-spacing: -0.02em;
         }
         
         .subtitle {
-            font-size: 1.2rem;
-            opacity: 0.9;
+            font-size: 1.125rem;
+            color: #a1a1aa;
+            font-weight: 400;
+            line-height: 1.7;
         }
         
         main {
-            padding: 2rem;
+            padding: 4rem 0;
         }
         
         .section {
-            margin-bottom: 2rem;
+            margin-bottom: 5rem;
         }
         
         h2 {
-            color: #667eea;
-            margin-bottom: 1rem;
-            font-size: 1.8rem;
+            font-size: 1.5rem;
+            color: #fafafa;
+            margin-bottom: 1.5rem;
+            font-weight: 600;
+            letter-spacing: -0.01em;
+        }
+        
+        .section-description {
+            color: #a1a1aa;
+            margin-bottom: 2rem;
+            font-size: 1rem;
+            line-height: 1.7;
         }
         
         .api-endpoint {
-            background: #f7f7f7;
-            border-left: 4px solid #667eea;
-            padding: 1rem;
-            border-radius: 4px;
-            font-family: 'Courier New', monospace;
+            background: #18181b;
+            border: 1px solid #27272a;
+            padding: 1.25rem 1.5rem;
+            border-radius: 12px;
+            font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+            font-size: 0.875rem;
             overflow-x: auto;
-            margin: 1rem 0;
+            margin: 2rem 0;
+            color: #10b981;
         }
         
         .stats {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1rem;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 1.5rem;
             margin: 2rem 0;
         }
         
         .stat-card {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 1.5rem;
-            border-radius: 8px;
-            text-align: center;
+            background: #18181b;
+            border: 1px solid #27272a;
+            padding: 2rem;
+            border-radius: 12px;
+            transition: border-color 0.2s, transform 0.2s;
+        }
+        
+        .stat-card:hover {
+            border-color: #3f3f46;
+            transform: translateY(-2px);
         }
         
         .stat-number {
             font-size: 2.5rem;
-            font-weight: bold;
+            font-weight: 700;
             display: block;
+            color: #fafafa;
+            margin-bottom: 0.5rem;
         }
         
         .stat-label {
-            font-size: 0.9rem;
-            opacity: 0.9;
-            margin-top: 0.5rem;
+            font-size: 0.875rem;
+            color: #71717a;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .button-group {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-top: 2rem;
         }
         
         .btn {
-            display: inline-block;
-            background: #667eea;
-            color: white;
+            display: inline-flex;
+            align-items: center;
+            background: #fafafa;
+            color: #0a0a0a;
             padding: 0.75rem 1.5rem;
             text-decoration: none;
-            border-radius: 6px;
-            margin: 0.5rem;
-            transition: transform 0.2s, box-shadow 0.2s;
+            border-radius: 8px;
+            font-weight: 500;
+            font-size: 0.9375rem;
+            transition: background 0.2s, transform 0.2s;
+            border: none;
+            cursor: pointer;
         }
         
         .btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+            background: #e4e4e7;
+            transform: translateY(-1px);
+        }
+        
+        .btn-secondary {
+            background: #18181b;
+            color: #fafafa;
+            border: 1px solid #27272a;
+        }
+        
+        .btn-secondary:hover {
+            background: #27272a;
+            border-color: #3f3f46;
         }
         
         .hackathon-list {
             display: grid;
             gap: 1rem;
-            margin-top: 1rem;
+            margin-top: 2rem;
         }
         
         .hackathon-card {
-            border: 1px solid #e0e0e0;
-            border-radius: 8px;
-            padding: 1rem;
-            transition: box-shadow 0.2s;
+            background: #18181b;
+            border: 1px solid #27272a;
+            border-radius: 12px;
+            padding: 1.75rem;
+            transition: border-color 0.2s, transform 0.2s;
         }
         
         .hackathon-card:hover {
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-color: #3f3f46;
+            transform: translateY(-2px);
         }
         
         .hackathon-title {
-            font-size: 1.2rem;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 0.5rem;
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #fafafa;
+            margin-bottom: 0.75rem;
+            line-height: 1.3;
         }
         
         .hackathon-meta {
-            color: #666;
-            font-size: 0.9rem;
+            color: #a1a1aa;
+            font-size: 0.9375rem;
             margin-bottom: 0.5rem;
+            line-height: 1.5;
+        }
+        
+        .hackathon-meta strong {
+            color: #e4e4e7;
+            font-weight: 500;
         }
         
         .themes {
             display: flex;
             flex-wrap: wrap;
             gap: 0.5rem;
-            margin-top: 0.5rem;
+            margin-top: 1rem;
         }
         
         .theme-tag {
-            background: #f0f0f0;
-            padding: 0.25rem 0.75rem;
-            border-radius: 12px;
-            font-size: 0.85rem;
-            color: #666;
+            background: #27272a;
+            padding: 0.375rem 0.875rem;
+            border-radius: 6px;
+            font-size: 0.8125rem;
+            color: #d4d4d8;
+            font-weight: 500;
+            border: 1px solid transparent;
+            transition: border-color 0.2s;
+        }
+        
+        .theme-tag:hover {
+            border-color: #3f3f46;
         }
         
         .loading {
             text-align: center;
-            padding: 2rem;
-            color: #666;
+            padding: 3rem 2rem;
+            color: #71717a;
+        }
+        
+        .prize-info {
+            margin-top: 0.75rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid #27272a;
+        }
+        
+        .prize-label {
+            font-size: 0.8125rem;
+            color: #71717a;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.25rem;
+        }
+        
+        .prize-value {
+            color: #10b981;
+            font-weight: 600;
+            font-size: 1rem;
         }
         
         footer {
-            background: #f7f7f7;
-            padding: 1.5rem;
-            text-align: center;
-            color: #666;
+            border-top: 1px solid #27272a;
+            padding: 2rem 0;
+            margin-top: 4rem;
+        }
+        
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            color: #71717a;
+            font-size: 0.875rem;
+        }
+        
+        .footer-links {
+            display: flex;
+            gap: 2rem;
+        }
+        
+        .footer-links a {
+            color: #a1a1aa;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        
+        .footer-links a:hover {
+            color: #fafafa;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 1.5rem;
+            }
+            
+            header {
+                padding: 3rem 0 2rem;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            main {
+                padding: 3rem 0;
+            }
+            
+            .section {
+                margin-bottom: 3rem;
+            }
+            
+            .stats {
+                grid-template-columns: 1fr;
+            }
+            
+            .footer-content {
+                flex-direction: column;
+                text-align: center;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>🚀 Open Hackathons API</h1>
-            <p class="subtitle">Up-to-date information about open hackathons</p>
+            <div class="header-content">
+                <span class="label">Developer Resources</span>
+                <h1>Open Hackathons API</h1>
+                <p class="subtitle">Access up-to-date information about open hackathons worldwide. Automatically updated daily via GitHub Actions at 6:00 AM UTC.</p>
+            </div>
         </header>
         
         <main>
             <div class="section">
-                <h2>📡 API Endpoint</h2>
-                <p>Access the latest hackathon data:</p>
+                <h2>API Endpoint</h2>
+                <p class="section-description">Access the latest hackathon data through our RESTful API endpoint:</p>
                 <div class="api-endpoint" id="apiEndpoint">
-                    Loading...
+                    Loading endpoint...
                 </div>
-                <div style="text-align: center;">
+                <div class="button-group">
                     <a href="data.json" class="btn" target="_blank">View JSON Data</a>
-                    <a href="https://github.com/WebDevHarsha/open-hackathons-api" class="btn" target="_blank">GitHub Repository</a>
+                    <a href="https://github.com/WebDevHarsha/open-hackathons-api" class="btn btn-secondary" target="_blank">GitHub Repository</a>
                 </div>
             </div>
             
             <div class="section">
-                <h2>📊 Statistics</h2>
+                <h2>Statistics</h2>
                 <div class="stats">
                     <div class="stat-card">
-                        <span class="stat-number" id="totalCount">-</span>
+                        <span class="stat-number" id="totalCount">—</span>
                         <span class="stat-label">Total Hackathons</span>
                     </div>
                     <div class="stat-card">
-                        <span class="stat-number" id="lastUpdated">-</span>
+                        <span class="stat-number" id="lastUpdated">—</span>
                         <span class="stat-label">Last Updated</span>
                     </div>
                 </div>
             </div>
             
             <div class="section">
-                <h2>🎯 Featured Hackathons</h2>
+                <h2>Featured Hackathons</h2>
+                <p class="section-description">Explore the latest open hackathons available right now:</p>
                 <div id="hackathonList" class="hackathon-list">
                     <div class="loading">Loading hackathons...</div>
                 </div>
@@ -215,61 +368,73 @@
         </main>
         
         <footer>
-            <p>Data updates daily at 6:00 AM UTC via GitHub Actions</p>
+            <div class="footer-content">
+                <p>&copy; 2025 Open Hackathons API</p>
+                <div class="footer-links">
+                    <a href="https://github.com/WebDevHarsha/open-hackathons-api" target="_blank">Documentation</a>
+                    <a href="https://github.com/WebDevHarsha/open-hackathons-api/issues" target="_blank">Report Issue</a>
+                </div>
+            </div>
         </footer>
     </div>
     
     <script>
-        // Set API endpoint URL
         const apiUrl = window.location.origin + window.location.pathname.replace(/\/$/, '') + '/data.json';
         document.getElementById('apiEndpoint').textContent = apiUrl;
         
-        // Fetch and display data
         fetch('data.json')
             .then(response => response.json())
             .then(data => {
-                // Update statistics
                 document.getElementById('totalCount').textContent = data.count || 0;
                 
                 const lastUpdated = new Date(data.last_updated);
                 const timeAgo = getTimeAgo(lastUpdated);
                 document.getElementById('lastUpdated').textContent = timeAgo;
                 
-                // Display hackathons
                 const hackathonList = document.getElementById('hackathonList');
                 
                 if (!data.hackathons || data.hackathons.length === 0) {
-                    hackathonList.innerHTML = '<p style="text-align: center; color: #666;">No hackathons available yet. Check back soon!</p>';
+                    hackathonList.innerHTML = '<div class="loading">No hackathons available yet. Check back soon!</div>';
                     return;
                 }
                 
-                // Show first 10 hackathons
                 const displayHackathons = data.hackathons.slice(0, 10);
                 
                 hackathonList.innerHTML = displayHackathons.map(hackathon => `
                     <div class="hackathon-card">
-                        <div class="hackathon-title">${hackathon.title || 'Untitled'}</div>
+                        <div class="hackathon-title">${hackathon.title || 'Untitled Hackathon'}</div>
                         <div class="hackathon-meta">
                             <strong>${hackathon.organization_name || 'Unknown Organization'}</strong>
                             ${hackathon.displayed_location ? ' • ' + hackathon.displayed_location : ''}
                         </div>
-                        <div class="hackathon-meta">
-                            ${hackathon.submission_period_dates || ''}
-                            ${hackathon.time_left_to_submission ? ' • ' + hackathon.time_left_to_submission : ''}
-                        </div>
-                        ${hackathon.prizeText ? '<div class="hackathon-meta">Prize: ' + hackathon.prizeText.replace(/<[^>]*>/g, '') + '</div>' : ''}
+                        ${hackathon.submission_period_dates ? `
+                            <div class="hackathon-meta">
+                                ${hackathon.submission_period_dates}
+                                ${hackathon.time_left_to_submission ? ' • ' + hackathon.time_left_to_submission : ''}
+                            </div>
+                        ` : ''}
+                        ${hackathon.prizeText ? `
+                            <div class="prize-info">
+                                <div class="prize-label">Prize Pool</div>
+                                <div class="prize-value">${hackathon.prizeText.replace(/<[^>]*>/g, '')}</div>
+                            </div>
+                        ` : ''}
                         ${hackathon.themes && hackathon.themes.length > 0 ? `
                             <div class="themes">
                                 ${hackathon.themes.map(theme => `<span class="theme-tag">${theme.name}</span>`).join('')}
                             </div>
                         ` : ''}
-                        ${hackathon.url ? `<div style="margin-top: 0.5rem;"><a href="${hackathon.url}" target="_blank" class="btn">View Details</a></div>` : ''}
+                        ${hackathon.url ? `
+                            <div class="button-group" style="margin-top: 1.25rem;">
+                                <a href="${hackathon.url}" target="_blank" class="btn btn-secondary">View Details →</a>
+                            </div>
+                        ` : ''}
                     </div>
                 `).join('');
             })
             .catch(error => {
                 console.error('Error loading data:', error);
-                document.getElementById('hackathonList').innerHTML = '<p style="text-align: center; color: #999;">Failed to load hackathons data.</p>';
+                document.getElementById('hackathonList').innerHTML = '<div class="loading">Failed to load hackathons data. Please try again later.</div>';
             });
         
         function getTimeAgo(date) {
