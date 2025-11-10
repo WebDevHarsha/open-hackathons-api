@@ -333,14 +333,48 @@
         
         <main>
             <div class="section">
-                <h2>API Endpoint</h2>
-                <p class="section-description">Access the latest hackathon data through our RESTful API endpoint:</p>
-                <div class="api-endpoint" id="apiEndpoint">
-                    Loading endpoint...
+                <h2>API Endpoints</h2>
+                <p class="section-description">Access hackathon data through our RESTful API endpoints:</p>
+                
+                <div style="margin: 2rem 0;">
+                    <h3 style="color: #a1a1aa; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">All Hackathons</h3>
+                    <div class="api-endpoint">
+                        <span id="apiEndpoint"></span>
+                    </div>
+                    <div class="button-group">
+                        <a href="data.json" class="btn" target="_blank">View JSON</a>
+                    </div>
                 </div>
-                <div class="button-group">
-                    <a href="data.json" class="btn" target="_blank">View JSON Data</a>
-                    <a href="https://github.com/WebDevHarsha/open-hackathons-api" class="btn btn-secondary" target="_blank">GitHub Repository</a>
+                
+                <div style="margin: 2rem 0;">
+                    <h3 style="color: #a1a1aa; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Open Hackathons Only</h3>
+                    <div class="api-endpoint">
+                        <span id="apiEndpointOpen"></span>
+                    </div>
+                    <div class="button-group">
+                        <a href="data-open.json" class="btn" target="_blank">View JSON</a>
+                    </div>
+                </div>
+                
+                <div style="margin: 2rem 0;">
+                    <h3 style="color: #a1a1aa; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Featured Hackathons</h3>
+                    <div class="api-endpoint">
+                        <span id="apiEndpointFeatured"></span>
+                    </div>
+                    <div class="button-group">
+                        <a href="data-featured.json" class="btn" target="_blank">View JSON</a>
+                    </div>
+                </div>
+                
+                <div style="margin: 2rem 0;">
+                    <h3 style="color: #a1a1aa; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Sorted by Prize Amount</h3>
+                    <div class="api-endpoint">
+                        <span id="apiEndpointPrize"></span>
+                    </div>
+                    <div class="button-group">
+                        <a href="data-by-prize.json" class="btn" target="_blank">View JSON</a>
+                        <a href="https://github.com/WebDevHarsha/open-hackathons-api" class="btn btn-secondary" target="_blank">GitHub Repository</a>
+                    </div>
                 </div>
             </div>
             
@@ -350,6 +384,10 @@
                     <div class="stat-card">
                         <span class="stat-number" id="totalCount">—</span>
                         <span class="stat-label">Total Hackathons</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-number" id="openCount">—</span>
+                        <span class="stat-label">Open Now</span>
                     </div>
                     <div class="stat-card">
                         <span class="stat-number" id="lastUpdated">—</span>
@@ -379,13 +417,23 @@
     </div>
     
     <script>
-        const apiUrl = window.location.origin + window.location.pathname.replace(/\/$/, '') + '/data.json';
-        document.getElementById('apiEndpoint').textContent = apiUrl;
+        const baseUrl = window.location.origin + window.location.pathname.replace(/\/$/, '');
         
-        fetch('data.json')
-            .then(response => response.json())
-            .then(data => {
+        // Set all endpoint URLs
+        document.getElementById('apiEndpoint').textContent = baseUrl + '/data.json';
+        document.getElementById('apiEndpointOpen').textContent = baseUrl + '/data-open.json';
+        document.getElementById('apiEndpointFeatured').textContent = baseUrl + '/data-featured.json';
+        document.getElementById('apiEndpointPrize').textContent = baseUrl + '/data-by-prize.json';
+        
+        // Fetch all data and open data
+        Promise.all([
+            fetch('data.json').then(r => r.json()),
+            fetch('data-open.json').then(r => r.json())
+        ])
+            .then(([data, openData]) => {
+                // Update statistics
                 document.getElementById('totalCount').textContent = data.count || 0;
+                document.getElementById('openCount').textContent = openData.count || 0;
                 
                 const lastUpdated = new Date(data.last_updated);
                 const timeAgo = getTimeAgo(lastUpdated);
@@ -398,7 +446,10 @@
                     return;
                 }
                 
-                const displayHackathons = data.hackathons.slice(0, 10);
+                // Display first 10 open hackathons, or all hackathons if less than 10
+                const displayHackathons = (openData.hackathons && openData.hackathons.length > 0 
+                    ? openData.hackathons 
+                    : data.hackathons).slice(0, 10);
                 
                 hackathonList.innerHTML = displayHackathons.map(hackathon => `
                     <div class="hackathon-card">
