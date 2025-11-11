@@ -2,11 +2,33 @@
 
 A simple API that provides up-to-date information about open hackathons from various platforms.
 
-## 🔗 API Endpoint
+## 🔗 API Endpoints
 
-Access the latest hackathon data at:
+Access the latest hackathon data through multiple endpoints:
+
+### All Hackathons
 ```
 https://WebDevHarsha.github.io/open-hackathons-api/data.json
+```
+
+### Online Hackathons
+```
+https://WebDevHarsha.github.io/open-hackathons-api/data-online.json
+```
+
+### Offline/In-Person Hackathons
+```
+https://WebDevHarsha.github.io/open-hackathons-api/data-offline.json
+```
+
+### Featured Hackathons
+```
+https://WebDevHarsha.github.io/open-hackathons-api/data-featured.json
+```
+
+### Sorted by Prize Amount
+```
+https://WebDevHarsha.github.io/open-hackathons-api/data-by-prize.json
 ```
 
 ## 📊 Data Format
@@ -58,7 +80,7 @@ The API returns a JSON object with the following structure:
 ### 1. Fork/Clone this Repository
 
 ```bash
-git clone https://github.com/username/open-hackathons-api.git
+git clone https://github.com/WebDevHarsha/open-hackathons-api.git
 cd open-hackathons-api
 ```
 
@@ -70,12 +92,15 @@ Add your MongoDB connection string as a GitHub secret:
 2. Navigate to **Secrets and variables** → **Actions**
 3. Click **New repository secret**
 4. Name: `MONGODB_URI`
-5. Value: Your MongoDB connection string (e.g., `mongodb+srv://username:password@cluster.mongodb.net/database`)
+5. Value: Your MongoDB connection string (e.g., `mongodb+srv://username:password@cluster.mongodb.net/dumpy`)
 
-### 3. Configure MongoDB Collection
+### 3. MongoDB Setup
 
-Update the `scripts/fetch_data.py` file if needed:
-- Modify the collection name if it's different from the common names (`hackathons`, `events`, `challenges`, `devpost`)
+The API fetches data from:
+- **Database**: `dumpy`
+- **Collection**: `hackathons`
+
+Update `scripts/fetch_data.py` if your database/collection names are different.
 - Adjust the query filters if you want to fetch specific hackathons only
 
 ### 4. Enable GitHub Pages
@@ -83,10 +108,10 @@ Update the `scripts/fetch_data.py` file if needed:
 1. Go to repository Settings
 2. Navigate to **Pages**
 3. Under **Source**, select **Deploy from a branch**
-4. Select the `main` branch and `/ (root)` folder
+4. Select the `master` branch and `/ (root)` folder
 5. Click **Save**
 
-Your API will be available at: `https://username.github.io/open-hackathons-api/data.json`
+Your API will be available at: `https://WebDevHarsha.github.io/open-hackathons-api/`
 
 ### 5. Test the Workflow
 
@@ -98,21 +123,32 @@ You can manually trigger the workflow:
 
 ## ⏰ Update Schedule
 
-The data is automatically updated every day at 6:00 AM UTC via GitHub Actions.
+The data is automatically updated every day at 12:00 AM UTC (midnight) via GitHub Actions.
 
 You can modify the schedule in `.github/workflows/update-data.yml`:
 
 ```yaml
 schedule:
-  - cron: '0 6 * * *'  # Daily at 6:00 AM UTC
+  - cron: '0 0 * * *'  # Daily at 12:00 AM UTC (midnight)
 ```
+
+## 📊 Available Endpoints
+
+| Endpoint | Description | Use Case |
+|----------|-------------|----------|
+| `data.json` | All hackathons | Get complete list of hackathons |
+| `data-online.json` | Online hackathons only | Filter for remote hackathons |
+| `data-offline.json` | In-person hackathons | Filter for local/physical hackathons |
+| `data-featured.json` | Featured hackathons | Highlighted or promoted hackathons |
+| `data-by-prize.json` | Sorted by prize amount | Find high-value competitions |
 
 ## 🚀 Usage Examples
 
 ### JavaScript/TypeScript
 
 ```javascript
-fetch('https://username.github.io/open-hackathons-api/data.json')
+// Fetch all hackathons
+fetch('https://WebDevHarsha.github.io/open-hackathons-api/data.json')
   .then(response => response.json())
   .then(data => {
     console.log(`Total hackathons: ${data.count}`);
@@ -121,6 +157,13 @@ fetch('https://username.github.io/open-hackathons-api/data.json')
       console.log(`${hackathon.title} - ${hackathon.organization_name}`);
     });
   });
+
+// Fetch only online hackathons
+fetch('https://WebDevHarsha.github.io/open-hackathons-api/data-online.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log(`Online hackathons: ${data.count}`);
+  });
 ```
 
 ### Python
@@ -128,7 +171,8 @@ fetch('https://username.github.io/open-hackathons-api/data.json')
 ```python
 import requests
 
-response = requests.get('https://username.github.io/open-hackathons-api/data.json')
+# Fetch all hackathons
+response = requests.get('https://WebDevHarsha.github.io/open-hackathons-api/data.json')
 data = response.json()
 
 print(f"Total hackathons: {data['count']}")
@@ -136,12 +180,24 @@ print(f"Last updated: {data['last_updated']}")
 
 for hackathon in data['hackathons']:
     print(f"{hackathon['title']} - {hackathon['organization_name']}")
+
+# Fetch hackathons by prize
+prize_response = requests.get('https://WebDevHarsha.github.io/open-hackathons-api/data-by-prize.json')
+prize_data = prize_response.json()
+print(f"Top prize: {prize_data['hackathons'][0]['prizeText']}")
 ```
 
 ### cURL
 
 ```bash
-curl https://username.github.io/open-hackathons-api/data.json
+# All hackathons
+curl https://WebDevHarsha.github.io/open-hackathons-api/data.json
+
+# Online only
+curl https://WebDevHarsha.github.io/open-hackathons-api/data-online.json
+
+# Offline only
+curl https://WebDevHarsha.github.io/open-hackathons-api/data-offline.json
 ```
 
 ## 📝 Data Fields
@@ -157,13 +213,23 @@ curl https://username.github.io/open-hackathons-api/data.json
 | `organization_name` | string | Organizing entity |
 | `isOpen` | string | Status (e.g., "open", "closed") |
 | `submission_period_dates` | string | Submission period |
-| `displayed_location` | string | Location |
+| `displayed_location` | string | Location (Online, or City/Country) |
 | `registrations_count` | number | Number of registrations |
 | `prizeText` | string | Prize information |
 | `time_left_to_submission` | string | Time remaining |
 | `themes` | array | Hackathon themes/categories |
 | `start_a_submission_url` | string | Submission URL |
-| `source` | string | Data source |
+| `source` | string | Data source (e.g., "devpost") |
+
+## 🎯 Features
+
+- ✅ **5 API Endpoints** - All, Online, Offline, Featured, By Prize
+- ✅ **Daily Updates** - Automatic data refresh at 6:00 AM UTC
+- ✅ **MongoDB Integration** - Direct database connection
+- ✅ **GitHub Actions** - Automated workflow
+- ✅ **GitHub Pages** - Free hosting
+- ✅ **RESTful JSON** - Clean, structured data format
+- ✅ **No Authentication** - Public API, free to use
 
 ## 🤝 Contributing
 
@@ -178,6 +244,7 @@ MIT License - feel free to use this API for your projects!
 - The data is cached and updated daily, so it may not reflect real-time changes
 - Ensure your MongoDB connection string has read permissions
 - The API is rate-limited by GitHub Pages (not by this application)
+- All hackathons in the database are currently open (active)
 
 ## 🐛 Troubleshooting
 
@@ -189,5 +256,9 @@ MIT License - feel free to use this API for your projects!
 - Verify MongoDB connection string is correct and has read permissions
 
 ### 404 error on GitHub Pages
-- Ensure GitHub Pages is enabled and pointing to the main branch
+- Ensure GitHub Pages is enabled and pointing to the `master` branch
 - Wait a few minutes after enabling GitHub Pages for the first time
+
+---
+
+Made with ❤️ by [WebDevHarsha](https://github.com/WebDevHarsha)
