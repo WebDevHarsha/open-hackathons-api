@@ -56,13 +56,11 @@ def main():
         
         print(f"Found {len(hackathons)} hackathons")
         
-        # Convert all hackathons to JSON format
         converted_hackathons = [convert_mongodb_to_json(doc) for doc in hackathons]
         
         last_updated = datetime.utcnow().isoformat() + "Z"
         output_dir = os.path.dirname(os.path.dirname(__file__))
         
-        # 1. Save all hackathons (data.json)
         data_all = {
             "last_updated": last_updated,
             "count": len(converted_hackathons),
@@ -71,17 +69,26 @@ def main():
         save_json(os.path.join(output_dir, 'data.json'), data_all)
         print(f"✓ Saved data.json - {len(converted_hackathons)} hackathons")
         
-        # 2. Filter and save open hackathons (data-open.json)
-        open_hackathons = [h for h in converted_hackathons if h.get('isOpen') == 'open']
-        data_open = {
+        online_hackathons = [h for h in converted_hackathons 
+                            if h.get('displayed_location', '').strip().lower() == 'online']
+        data_online = {
             "last_updated": last_updated,
-            "count": len(open_hackathons),
-            "hackathons": open_hackathons
+            "count": len(online_hackathons),
+            "hackathons": online_hackathons
         }
-        save_json(os.path.join(output_dir, 'data-open.json'), data_open)
-        print(f"✓ Saved data-open.json - {len(open_hackathons)} hackathons")
+        save_json(os.path.join(output_dir, 'data-online.json'), data_online)
+        print(f"✓ Saved data-online.json - {len(online_hackathons)} hackathons")
         
-        # 3. Filter and save featured hackathons (data-featured.json)
+        offline_hackathons = [h for h in converted_hackathons 
+                             if h.get('displayed_location', '').strip().lower() not in ['online', '']]
+        data_offline = {
+            "last_updated": last_updated,
+            "count": len(offline_hackathons),
+            "hackathons": offline_hackathons
+        }
+        save_json(os.path.join(output_dir, 'data-offline.json'), data_offline)
+        print(f"✓ Saved data-offline.json - {len(offline_hackathons)} hackathons")
+        
         featured_hackathons = [h for h in converted_hackathons if h.get('featured') == True]
         data_featured = {
             "last_updated": last_updated,
@@ -91,7 +98,6 @@ def main():
         save_json(os.path.join(output_dir, 'data-featured.json'), data_featured)
         print(f"✓ Saved data-featured.json - {len(featured_hackathons)} hackathons")
         
-        # 4. Sort by prize and save (data-by-prize.json)
         hackathons_with_prize = [h for h in converted_hackathons if h.get('prizeText')]
         sorted_by_prize = sorted(
             hackathons_with_prize,
@@ -108,7 +114,8 @@ def main():
         
         print(f"\n✅ All endpoints generated successfully!")
         print(f"   Total: {len(converted_hackathons)}")
-        print(f"   Open: {len(open_hackathons)}")
+        print(f"   Online: {len(online_hackathons)}")
+        print(f"   Offline: {len(offline_hackathons)}")
         print(f"   Featured: {len(featured_hackathons)}")
         print(f"   With Prizes: {len(sorted_by_prize)}")
         
