@@ -1,0 +1,169 @@
+openapi: 3.1.0
+info:
+  title: Open Hackathons API
+  version: "1.0.0"
+  description: |
+    REST API exposing hackathon listings in various categories: all, online, offline, featured, by-prize.
+  termsOfService: https://webdevharsha.github.io/open-hackathons-api/terms
+  contact:
+    name: WebDev Harsha
+    url: https://webdevharsha.github.io
+    email: support@webdevharsha.github.io
+
+servers:
+  - url: https://webdevharsha.github.io/open-hackathons-api
+    description: Production server
+
+paths:
+  /data.json:
+    get:
+      summary: Get all hackathons
+      responses:
+        '200':
+          description: List of all hackathons
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HackathonResponse'
+  /data-online.json:
+    get:
+      summary: Get online hackathons
+      responses:
+        '200':
+          description: List of hackathons which are online
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HackathonResponse'
+  /data-offline.json:
+    get:
+      summary: Get offline (in-person) hackathons
+      responses:
+        '200':
+          description: List of hackathons which are offline/in-person
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HackathonResponse'
+  /data-featured.json:
+    get:
+      summary: Get featured hackathons
+      responses:
+        '200':
+          description: List of hackathons marked as featured
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HackathonResponse'
+  /data-by-prize.json:
+    get:
+      summary: Get hackathons sorted by prize or with prize filtering
+      responses:
+        '200':
+          description: List of hackathons sorted or filtered by prize amount
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HackathonResponse'
+
+components:
+  schemas:
+    Theme:
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 5
+        name:
+          type: string
+          example: "AR/VR"
+      required:
+        - id
+        - name
+
+    Hackathon:
+      type: object
+      properties:
+        _id:
+          type: string
+          description: Internal unique identifier
+          example: "69151d2dd48c6323c17aa876"
+        id:
+          type: integer
+          description: External hackathon id
+          example: 27228
+        url:
+          type: string
+          format: uri
+          example: "https://start-developer-competition.devpost.com/"
+        title:
+          type: string
+          example: "Meta Horizon Start Developer Competition"
+        thumbnail_url:
+          type: string
+          example: "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/936/745/datas/medium_square.png"
+        featured:
+          type: boolean
+          example: true
+        organization_name:
+          type: string
+          example: "Meta"
+        isOpen:
+          type: string
+          description: “open” or other status
+          example: "open"
+        submission_period_dates:
+          type: string
+          example: "Nov 05 - Dec 09, 2025"
+        displayed_location:
+          type: string
+          example: "Online"
+        registrations_count:
+          type: integer
+          example: 1096
+        prizeText:
+          type: string
+          description: Prize as HTML-embedded text
+          example: "$<span data-currency-value>1,500,000</span>"
+        time_left_to_submission:
+          type: string
+          example: "27 days left"
+        themes:
+          type: array
+          items:
+            $ref: "#/components/schemas/Theme"
+        start_a_submission_url:
+          type: string
+          format: uri
+          example: "https://start-developer-competition.devpost.com/challenges/start_a_submission"
+        source:
+          type: string
+          example: "devpost"
+      required:
+        - _id
+        - id
+        - url
+        - title
+        - organization_name
+        - isOpen
+        - displayed_location
+        - source
+
+    HackathonResponse:
+      type: object
+      properties:
+        last_updated:
+          type: string
+          format: date-time
+          example: "2025-11-13T00:56:24.186216Z"
+        count:
+          type: integer
+          example: 4
+        hackathons:
+          type: array
+          items:
+            $ref: "#/components/schemas/Hackathon"
+      required:
+        - last_updated
+        - count
+        - hackathons
