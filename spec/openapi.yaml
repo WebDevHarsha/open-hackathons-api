@@ -1,23 +1,35 @@
 openapi: 3.1.0
+
 info:
   title: Open Hackathons API
   version: "1.0.0"
   description: |
-    REST API exposing hackathon listings in various categories: all, online, offline, featured, by-prize.
+    A lightweight REST API providing real-time hackathon listings from multiple platforms.
+    Includes categorized endpoints for all hackathons, online events, offline events,
+    featured hackathons, and prize-sorted listings.
   termsOfService: https://webdevharsha.github.io/open-hackathons-api/terms
   contact:
     name: WebDev Harsha
     url: https://webdevharsha.github.io
     email: support@webdevharsha.github.io
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
 
 servers:
   - url: https://webdevharsha.github.io/open-hackathons-api
     description: Production server
 
+tags:
+  - name: Hackathons
+    description: Endpoints returning hackathon listings
+
 paths:
   /data.json:
     get:
+      tags: [Hackathons]
       summary: Get all hackathons
+      operationId: getAllHackathons
       responses:
         '200':
           description: List of all hackathons
@@ -25,42 +37,63 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/HackathonResponse'
+              examples:
+                sample:
+                  value:
+                    last_updated: "2025-11-13T00:56:24.186216Z"
+                    count: 4
+                    hackathons:
+                      - id: 27228
+                        title: "Meta Horizon Start Developer Competition"
+                        displayed_location: "Online"
+
   /data-online.json:
     get:
+      tags: [Hackathons]
       summary: Get online hackathons
+      operationId: getOnlineHackathons
       responses:
         '200':
-          description: List of hackathons which are online
+          description: List of online hackathons
           content:
             application/json:
               schema:
                 $ref: '#/components/schemas/HackathonResponse'
+
   /data-offline.json:
     get:
+      tags: [Hackathons]
       summary: Get offline (in-person) hackathons
+      operationId: getOfflineHackathons
       responses:
         '200':
-          description: List of hackathons which are offline/in-person
+          description: List of offline events
           content:
             application/json:
               schema:
                 $ref: '#/components/schemas/HackathonResponse'
+
   /data-featured.json:
     get:
+      tags: [Hackathons]
       summary: Get featured hackathons
+      operationId: getFeaturedHackathons
       responses:
         '200':
-          description: List of hackathons marked as featured
+          description: List of featured hackathons
           content:
             application/json:
               schema:
                 $ref: '#/components/schemas/HackathonResponse'
+
   /data-by-prize.json:
     get:
-      summary: Get hackathons sorted by prize or with prize filtering
+      tags: [Hackathons]
+      summary: Get hackathons sorted by prize
+      operationId: getPrizeSortedHackathons
       responses:
         '200':
-          description: List of hackathons sorted or filtered by prize amount
+          description: Hackathons sorted or filtered by prize amount
           content:
             application/json:
               schema:
@@ -70,6 +103,7 @@ components:
   schemas:
     Theme:
       type: object
+      description: A theme or category associated with a hackathon.
       properties:
         id:
           type: integer
@@ -83,6 +117,7 @@ components:
 
     Hackathon:
       type: object
+      description: A single hackathon listing.
       properties:
         _id:
           type: string
@@ -90,7 +125,7 @@ components:
           example: "69151d2dd48c6323c17aa876"
         id:
           type: integer
-          description: External hackathon id
+          description: External hackathon ID from the source platform
           example: 27228
         url:
           type: string
@@ -110,7 +145,6 @@ components:
           example: "Meta"
         isOpen:
           type: string
-          description: “open” or other status
           example: "open"
         submission_period_dates:
           type: string
@@ -123,7 +157,6 @@ components:
           example: 1096
         prizeText:
           type: string
-          description: Prize as HTML-embedded text
           example: "$<span data-currency-value>1,500,000</span>"
         time_left_to_submission:
           type: string
@@ -131,7 +164,7 @@ components:
         themes:
           type: array
           items:
-            $ref: "#/components/schemas/Theme"
+            $ref: '#/components/schemas/Theme'
         start_a_submission_url:
           type: string
           format: uri
@@ -151,6 +184,7 @@ components:
 
     HackathonResponse:
       type: object
+      description: Standard response object for hackathon endpoints.
       properties:
         last_updated:
           type: string
@@ -162,7 +196,7 @@ components:
         hackathons:
           type: array
           items:
-            $ref: "#/components/schemas/Hackathon"
+            $ref: '#/components/schemas/Hackathon'
       required:
         - last_updated
         - count
