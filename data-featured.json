@@ -1,125 +1,129 @@
 {
-  "last_updated": "2025-11-11T00:56:31.781932Z",
+  "last_updated": "2025-11-13T00:56:24.186216Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "6911476e29da70dc2da0be1d",
-      "id": 26926,
-      "url": "https://kiroween.devpost.com/",
-      "title": "Kiroween",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/879/417/datas/medium_square.png",
+      "_id": "69151d2dd48c6323c17aa876",
+      "id": 27228,
+      "url": "https://start-developer-competition.devpost.com/",
+      "title": "Meta Horizon Start Developer Competition",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/936/745/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Kiro",
+      "organization_name": "Meta",
       "isOpen": "open",
-      "submission_period_dates": "Oct 31 - Dec 05, 2025",
+      "submission_period_dates": "Nov 05 - Dec 09, 2025",
       "displayed_location": "Online",
-      "registrations_count": 1144,
-      "prizeText": "$<span data-currency-value>100,000</span>",
-      "time_left_to_submission": "26 days left",
+      "registrations_count": 1096,
+      "prizeText": "$<span data-currency-value>1,500,000</span>",
+      "time_left_to_submission": "27 days left",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 5,
+          "name": "AR/VR"
         },
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 26,
+          "name": "Mobile"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "start_a_submission_url": "https://kiroween.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://start-developer-competition.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "6911476f29da70dc2da0be24",
-      "id": 27116,
-      "url": "https://bria-ai.devpost.com/",
-      "title": "FIBO Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/934/447/datas/medium_square.png",
+      "_id": "69151d2dd48c6323c17aa877",
+      "id": 27131,
+      "url": "https://mhcp-mobile-innovation.devpost.com/",
+      "title": "Meta Horizon Creator Competition: Mobile Innovation",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/915/502/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Bria",
+      "organization_name": "Meta",
       "isOpen": "open",
-      "submission_period_dates": "Nov 03 - Dec 15, 2025",
+      "submission_period_dates": "Nov 03 - Dec 08, 2025",
       "displayed_location": "Online",
-      "registrations_count": 376,
-      "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "about 1 month left",
+      "registrations_count": 366,
+      "prizeText": "$<span data-currency-value>1,500,000</span>",
+      "time_left_to_submission": "26 days left",
       "themes": [
         {
-          "id": 20,
-          "name": "E-commerce/Retail"
+          "id": 5,
+          "name": "AR/VR"
         },
         {
           "id": 4,
           "name": "Gaming"
         },
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 26,
+          "name": "Mobile"
         }
       ],
-      "start_a_submission_url": "https://bria-ai.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://mhcp-mobile-innovation.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "6911477029da70dc2da0be2c",
-      "id": 26833,
-      "url": "https://liquidmetal.devpost.com/",
-      "title": "The AI Champion Ship ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/832/297/datas/medium_square.gif",
+      "_id": "69151d31d48c6323c17aa893",
+      "id": 26579,
+      "url": "https://ebpf-summit-2025.devpost.com/",
+      "title": "eBPF Summit: Hackathon Edition 2025",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/811/617/datas/medium_square.png",
       "featured": true,
-      "organization_name": "LiquidMetalAI",
+      "organization_name": "Isovalent @Cisco",
       "isOpen": "open",
-      "submission_period_dates": "Oct 20 - Dec 08, 2025",
+      "submission_period_dates": "Oct 13 - Nov 29, 2025",
       "displayed_location": "Online",
-      "registrations_count": 1757,
-      "prizeText": "$<span data-currency-value>36,500</span>",
-      "time_left_to_submission": "28 days left",
+      "registrations_count": 459,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "17 days left",
       "themes": [
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 9,
+          "name": "Cybersecurity"
         },
         {
           "id": 22,
           "name": "Open Ended"
         }
       ],
-      "start_a_submission_url": "https://liquidmetal.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://ebpf-summit-2025.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "6911477129da70dc2da0be3b",
-      "id": 26505,
-      "url": "https://run.devpost.com/",
-      "title": "Cloud Run Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/826/553/datas/medium_square.png",
+      "_id": "69151d31d48c6323c17aa894",
+      "id": 26246,
+      "url": "https://arm-ai-developer-challenge.devpost.com/",
+      "title": "Arm AI Developer Challenge ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/810/706/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Google",
+      "organization_name": "arm",
       "isOpen": "open",
-      "submission_period_dates": "Oct 06 - Nov 10, 2025",
+      "submission_period_dates": "Oct 06 - Dec 04, 2025",
       "displayed_location": "Online",
-      "registrations_count": 3320,
-      "prizeText": "$<span data-currency-value>50,000</span>",
-      "time_left_to_submission": "about 23 hours left",
+      "registrations_count": 1070,
+      "prizeText": "$<span data-currency-value>15,000</span>",
+      "time_left_to_submission": "21 days left",
       "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
         {
           "id": 6,
           "name": "Machine Learning/AI"
         },
         {
-          "id": 17,
-          "name": "Low/No Code"
+          "id": 26,
+          "name": "Mobile"
         }
       ],
-      "start_a_submission_url": "https://run.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://arm-ai-developer-challenge.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
