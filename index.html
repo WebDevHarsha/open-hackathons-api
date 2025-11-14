@@ -795,13 +795,26 @@
 response = requests.get('${dataUrl}')
 data = response.json()
 
+print(f"Total Hackathons: {data['count']}")
+print(f"Last Updated: {data['last_updated']}\\n")
+
 # Display hackathon information
 for hackathon in data['hackathons']:
     print(f"Title: {hackathon['title']}")
     print(f"Organization: {hackathon['organization_name']}")
+    print(f"URL: {hackathon['url']}")
     print(f"Location: {hackathon['displayed_location']}")
+    print(f"Dates: {hackathon['submission_period_dates']}")
     print(f"Prize: {hackathon.get('prizeText', 'N/A')}")
-    print("-" * 50)`
+    print(f"Registrations: {hackathon.get('registrations_count', 0)}")
+    print(f"Status: {hackathon['isOpen']}")
+    
+    # Display themes
+    if hackathon.get('themes'):
+        themes = ', '.join([t['name'] for t in hackathon['themes']])
+        print(f"Themes: {themes}")
+    
+    print("-" * 60)`
             },
             javascript: {
                 name: 'JavaScript (Node.js)',
@@ -813,12 +826,26 @@ async function getHackathons() {
         const response = await fetch('${dataUrl}');
         const data = await response.json();
         
+        console.log(\`Total Hackathons: \${data.count}\`);
+        console.log(\`Last Updated: \${data.last_updated}\\n\`);
+        
         data.hackathons.forEach(hackathon => {
             console.log(\`Title: \${hackathon.title}\`);
             console.log(\`Organization: \${hackathon.organization_name}\`);
+            console.log(\`URL: \${hackathon.url}\`);
             console.log(\`Location: \${hackathon.displayed_location}\`);
+            console.log(\`Dates: \${hackathon.submission_period_dates}\`);
             console.log(\`Prize: \${hackathon.prizeText || 'N/A'}\`);
-            console.log('-'.repeat(50));
+            console.log(\`Registrations: \${hackathon.registrations_count || 0}\`);
+            console.log(\`Status: \${hackathon.isOpen}\`);
+            
+            // Display themes
+            if (hackathon.themes && hackathon.themes.length > 0) {
+                const themes = hackathon.themes.map(t => t.name).join(', ');
+                console.log(\`Themes: \${themes}\`);
+            }
+            
+            console.log('-'.repeat(60));
         });
     } catch (error) {
         console.error('Error fetching hackathons:', error);
@@ -829,13 +856,27 @@ getHackathons();`
             },
             typescript: {
                 name: 'TypeScript',
-                code: `interface Hackathon {
+                code: `interface Theme {
+    id: number;
+    name: string;
+}
+
+interface Hackathon {
+    _id: string;
+    id: number;
     title: string;
+    url: string;
+    thumbnail_url: string;
     organization_name: string;
     displayed_location: string;
-    prizeText?: string;
-    url: string;
     submission_period_dates: string;
+    isOpen: string;
+    prizeText?: string;
+    registrations_count?: number;
+    time_left_to_submission?: string;
+    themes?: Theme[];
+    featured: boolean;
+    source: string;
 }
 
 interface HackathonData {
@@ -849,12 +890,23 @@ async function getHackathons(): Promise<void> {
         const response = await fetch('${dataUrl}');
         const data: HackathonData = await response.json();
         
+        console.log(\`Total Hackathons: \${data.count}\`);
+        console.log(\`Last Updated: \${data.last_updated}\\n\`);
+        
         data.hackathons.forEach((hackathon: Hackathon) => {
             console.log(\`Title: \${hackathon.title}\`);
             console.log(\`Organization: \${hackathon.organization_name}\`);
             console.log(\`Location: \${hackathon.displayed_location}\`);
+            console.log(\`Dates: \${hackathon.submission_period_dates}\`);
             console.log(\`Prize: \${hackathon.prizeText || 'N/A'}\`);
-            console.log('-'.repeat(50));
+            console.log(\`Status: \${hackathon.isOpen}\`);
+            
+            if (hackathon.themes && hackathon.themes.length > 0) {
+                const themes = hackathon.themes.map(t => t.name).join(', ');
+                console.log(\`Themes: \${themes}\`);
+            }
+            
+            console.log('-'.repeat(60));
         });
     } catch (error) {
         console.error('Error fetching hackathons:', error);
@@ -870,14 +922,27 @@ fetch('${dataUrl}')
     .then(response => response.json())
     .then(data => {
         console.log(\`Total Hackathons: \${data.count}\`);
-        console.log(\`Last Updated: \${data.last_updated}\`);
+        console.log(\`Last Updated: \${data.last_updated}\\n\`);
         
         data.hackathons.forEach(hackathon => {
             console.log(\`\\nTitle: \${hackathon.title}\`);
             console.log(\`Organization: \${hackathon.organization_name}\`);
+            console.log(\`URL: \${hackathon.url}\`);
             console.log(\`Location: \${hackathon.displayed_location}\`);
+            console.log(\`Dates: \${hackathon.submission_period_dates}\`);
+            console.log(\`Status: \${hackathon.isOpen}\`);
+            
             if (hackathon.prizeText) {
                 console.log(\`Prize: \${hackathon.prizeText}\`);
+            }
+            
+            if (hackathon.registrations_count) {
+                console.log(\`Registrations: \${hackathon.registrations_count}\`);
+            }
+            
+            if (hackathon.themes && hackathon.themes.length > 0) {
+                const themes = hackathon.themes.map(t => t.name).join(', ');
+                console.log(\`Themes: \${themes}\`);
             }
         });
     })
@@ -908,11 +973,26 @@ echo "Last Updated: " . $data['last_updated'] . "\\n\\n";
 foreach ($data['hackathons'] as $hackathon) {
     echo "Title: " . $hackathon['title'] . "\\n";
     echo "Organization: " . $hackathon['organization_name'] . "\\n";
+    echo "URL: " . $hackathon['url'] . "\\n";
     echo "Location: " . $hackathon['displayed_location'] . "\\n";
+    echo "Dates: " . $hackathon['submission_period_dates'] . "\\n";
+    echo "Status: " . $hackathon['isOpen'] . "\\n";
+    
     if (isset($hackathon['prizeText'])) {
         echo "Prize: " . strip_tags($hackathon['prizeText']) . "\\n";
     }
-    echo str_repeat("-", 50) . "\\n";
+    
+    if (isset($hackathon['registrations_count'])) {
+        echo "Registrations: " . $hackathon['registrations_count'] . "\\n";
+    }
+    
+    // Display themes
+    if (isset($hackathon['themes']) && count($hackathon['themes']) > 0) {
+        $themes = array_map(function($t) { return $t['name']; }, $hackathon['themes']);
+        echo "Themes: " . implode(', ', $themes) . "\\n";
+    }
+    
+    echo str_repeat("-", 60) . "\\n";
 }
 ?>`
             },
@@ -927,12 +1007,27 @@ import (
     "net/http"
 )
 
+type Theme struct {
+    ID   int    \`json:"id"\`
+    Name string \`json:"name"\`
+}
+
 type Hackathon struct {
-    Title            string \`json:"title"\`
-    OrganizationName string \`json:"organization_name"\`
-    DisplayedLocation string \`json:"displayed_location"\`
-    PrizeText        string \`json:"prizeText"\`
-    URL              string \`json:"url"\`
+    ID                    string  \`json:"_id"\`
+    NumericID             int     \`json:"id"\`
+    Title                 string  \`json:"title"\`
+    URL                   string  \`json:"url"\`
+    ThumbnailURL          string  \`json:"thumbnail_url"\`
+    OrganizationName      string  \`json:"organization_name"\`
+    DisplayedLocation     string  \`json:"displayed_location"\`
+    SubmissionPeriodDates string  \`json:"submission_period_dates"\`
+    IsOpen                string  \`json:"isOpen"\`
+    PrizeText             string  \`json:"prizeText"\`
+    RegistrationsCount    int     \`json:"registrations_count"\`
+    TimeLeftToSubmission  string  \`json:"time_left_to_submission"\`
+    Themes                []Theme \`json:"themes"\`
+    Featured              bool    \`json:"featured"\`
+    Source                string  \`json:"source"\`
 }
 
 type Response struct {
@@ -953,11 +1048,21 @@ func main() {
     var data Response
     json.Unmarshal(body, &data)
     
+    fmt.Printf("Total Hackathons: %d\\n", data.Count)
+    fmt.Printf("Last Updated: %s\\n\\n", data.LastUpdated)
+    
     for _, hackathon := range data.Hackathons {
         fmt.Printf("Title: %s\\n", hackathon.Title)
         fmt.Printf("Organization: %s\\n", hackathon.OrganizationName)
         fmt.Printf("Location: %s\\n", hackathon.DisplayedLocation)
-        fmt.Println("--------------------------------------------------")
+        fmt.Printf("Dates: %s\\n", hackathon.SubmissionPeriodDates)
+        fmt.Printf("Status: %s\\n", hackathon.IsOpen)
+        
+        if hackathon.PrizeText != "" {
+            fmt.Printf("Prize: %s\\n", hackathon.PrizeText)
+        }
+        
+        fmt.Println("------------------------------------------------------------")
     }
 }`
             },
@@ -978,9 +1083,20 @@ puts ""
 data['hackathons'].each do |hackathon|
   puts "Title: #{hackathon['title']}"
   puts "Organization: #{hackathon['organization_name']}"
+  puts "URL: #{hackathon['url']}"
   puts "Location: #{hackathon['displayed_location']}"
+  puts "Dates: #{hackathon['submission_period_dates']}"
+  puts "Status: #{hackathon['isOpen']}"
   puts "Prize: #{hackathon['prizeText'] || 'N/A'}"
-  puts "-" * 50
+  puts "Registrations: #{hackathon['registrations_count'] || 0}"
+  
+  # Display themes
+  if hackathon['themes'] && hackathon['themes'].length > 0
+    themes = hackathon['themes'].map { |t| t['name'] }.join(', ')
+    puts "Themes: #{themes}"
+  end
+  
+  puts "-" * 60
 end`
             },
             java: {
@@ -1007,15 +1123,46 @@ public class HackathonFetcher {
             JSONArray hackathons = data.getJSONArray("hackathons");
             
             System.out.println("Total Hackathons: " + data.getInt("count"));
+            System.out.println("Last Updated: " + data.getString("last_updated"));
+            System.out.println();
             
             for (int i = 0; i < hackathons.length(); i++) {
                 JSONObject hackathon = hackathons.getJSONObject(i);
+                
                 System.out.println("Title: " + hackathon.getString("title"));
                 System.out.println("Organization: " + 
                     hackathon.getString("organization_name"));
+                System.out.println("URL: " + hackathon.getString("url"));
                 System.out.println("Location: " + 
                     hackathon.getString("displayed_location"));
-                System.out.println("-".repeat(50));
+                System.out.println("Dates: " + 
+                    hackathon.getString("submission_period_dates"));
+                System.out.println("Status: " + hackathon.getString("isOpen"));
+                
+                if (hackathon.has("prizeText")) {
+                    System.out.println("Prize: " + hackathon.getString("prizeText"));
+                }
+                
+                if (hackathon.has("registrations_count")) {
+                    System.out.println("Registrations: " + 
+                        hackathon.getInt("registrations_count"));
+                }
+                
+                // Display themes
+                if (hackathon.has("themes")) {
+                    JSONArray themes = hackathon.getJSONArray("themes");
+                    if (themes.length() > 0) {
+                        System.out.print("Themes: ");
+                        for (int j = 0; j < themes.length(); j++) {
+                            JSONObject theme = themes.getJSONObject(j);
+                            System.out.print(theme.getString("name"));
+                            if (j < themes.length() - 1) System.out.print(", ");
+                        }
+                        System.out.println();
+                    }
+                }
+                
+                System.out.println("-".repeat(60));
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -1049,8 +1196,30 @@ class Program
             {
                 Console.WriteLine($"Title: {hackathon[\"title\"]}");
                 Console.WriteLine($"Organization: {hackathon[\"organization_name\"]}");
+                Console.WriteLine($"URL: {hackathon[\"url\"]}");
                 Console.WriteLine($"Location: {hackathon[\"displayed_location\"]}");
-                Console.WriteLine(new string('-', 50));
+                Console.WriteLine($"Dates: {hackathon[\"submission_period_dates\"]}");
+                Console.WriteLine($"Status: {hackathon[\"isOpen\"]}");
+                
+                if (hackathon[\"prizeText\"] != null)
+                {
+                    Console.WriteLine($"Prize: {hackathon[\"prizeText\"]}");
+                }
+                
+                if (hackathon[\"registrations_count\"] != null)
+                {
+                    Console.WriteLine($"Registrations: {hackathon[\"registrations_count\"]}");
+                }
+                
+                // Display themes
+                if (hackathon[\"themes\"] != null && hackathon[\"themes\"].HasValues)
+                {
+                    var themes = string.Join(", ", 
+                        hackathon[\"themes\"].Select(t => t[\"name\"]));
+                    Console.WriteLine($"Themes: {themes}");
+                }
+                
+                Console.WriteLine(new string('-', 60));
             }
         }
         catch (Exception ex)
