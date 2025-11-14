@@ -85,16 +85,49 @@
             line-height: 1.7;
         }
         
+        .endpoint-wrapper {
+            position: relative;
+            margin: 2rem 0;
+        }
+        
         .api-endpoint {
             background: #18181b;
             border: 1px solid #27272a;
             padding: 1.25rem 1.5rem;
+            padding-right: 4rem;
             border-radius: 12px;
             font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
             font-size: 0.875rem;
             overflow-x: auto;
-            margin: 2rem 0;
             color: #10b981;
+            position: relative;
+        }
+        
+        .copy-btn {
+            position: absolute;
+            right: 0.75rem;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #27272a;
+            border: 1px solid #3f3f46;
+            color: #a1a1aa;
+            padding: 0.5rem 0.875rem;
+            border-radius: 6px;
+            font-size: 0.8125rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+        
+        .copy-btn:hover {
+            background: #3f3f46;
+            color: #fafafa;
+        }
+        
+        .copy-btn.copied {
+            background: #10b981;
+            color: #0a0a0a;
+            border-color: #10b981;
         }
         
         .stats {
@@ -338,8 +371,11 @@
                 
                 <div style="margin: 2rem 0;">
                     <h3 style="color: #a1a1aa; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">All Hackathons</h3>
-                    <div class="api-endpoint">
-                        <span id="apiEndpoint"></span>
+                    <div class="endpoint-wrapper">
+                        <div class="api-endpoint">
+                            <span id="apiEndpoint"></span>
+                        </div>
+                        <button class="copy-btn" onclick="copyToClipboard('apiEndpoint', this)">Copy</button>
                     </div>
                     <div class="button-group">
                         <a href="data.json" class="btn" target="_blank">View JSON</a>
@@ -348,8 +384,11 @@
                 
                 <div style="margin: 2rem 0;">
                     <h3 style="color: #a1a1aa; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Online Hackathons</h3>
-                    <div class="api-endpoint">
-                        <span id="apiEndpointOnline"></span>
+                    <div class="endpoint-wrapper">
+                        <div class="api-endpoint">
+                            <span id="apiEndpointOnline"></span>
+                        </div>
+                        <button class="copy-btn" onclick="copyToClipboard('apiEndpointOnline', this)">Copy</button>
                     </div>
                     <div class="button-group">
                         <a href="data-online.json" class="btn" target="_blank">View JSON</a>
@@ -358,8 +397,11 @@
                 
                 <div style="margin: 2rem 0;">
                     <h3 style="color: #a1a1aa; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Offline Hackathons</h3>
-                    <div class="api-endpoint">
-                        <span id="apiEndpointOffline"></span>
+                    <div class="endpoint-wrapper">
+                        <div class="api-endpoint">
+                            <span id="apiEndpointOffline"></span>
+                        </div>
+                        <button class="copy-btn" onclick="copyToClipboard('apiEndpointOffline', this)">Copy</button>
                     </div>
                     <div class="button-group">
                         <a href="data-offline.json" class="btn" target="_blank">View JSON</a>
@@ -368,8 +410,11 @@
                 
                 <div style="margin: 2rem 0;">
                     <h3 style="color: #a1a1aa; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Featured Hackathons</h3>
-                    <div class="api-endpoint">
-                        <span id="apiEndpointFeatured"></span>
+                    <div class="endpoint-wrapper">
+                        <div class="api-endpoint">
+                            <span id="apiEndpointFeatured"></span>
+                        </div>
+                        <button class="copy-btn" onclick="copyToClipboard('apiEndpointFeatured', this)">Copy</button>
                     </div>
                     <div class="button-group">
                         <a href="data-featured.json" class="btn" target="_blank">View JSON</a>
@@ -378,8 +423,11 @@
                 
                 <div style="margin: 2rem 0;">
                     <h3 style="color: #a1a1aa; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem;">Sorted by Prize Amount</h3>
-                    <div class="api-endpoint">
-                        <span id="apiEndpointPrize"></span>
+                    <div class="endpoint-wrapper">
+                        <div class="api-endpoint">
+                            <span id="apiEndpointPrize"></span>
+                        </div>
+                        <button class="copy-btn" onclick="copyToClipboard('apiEndpointPrize', this)">Copy</button>
                     </div>
                     <div class="button-group">
                         <a href="data-by-prize.json" class="btn" target="_blank">View JSON</a>
@@ -510,6 +558,20 @@
             if (seconds < 3600) return Math.floor(seconds / 60) + 'm ago';
             if (seconds < 86400) return Math.floor(seconds / 3600) + 'h ago';
             return Math.floor(seconds / 86400) + 'd ago';
+        }
+        
+        function copyToClipboard(elementId, button) {
+            const text = document.getElementById(elementId).textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                button.textContent = 'Copied!';
+                button.classList.add('copied');
+                setTimeout(() => {
+                    button.textContent = 'Copy';
+                    button.classList.remove('copied');
+                }, 2000);
+            }).catch(err => {
+                console.error('Failed to copy:', err);
+            });
         }
     </script>
 </body>
