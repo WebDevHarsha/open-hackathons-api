@@ -1,9 +1,9 @@
 {
-  "last_updated": "2025-11-13T00:56:24.186216Z",
+  "last_updated": "2025-11-14T00:56:11.746504Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "69151d2dd48c6323c17aa876",
+      "_id": "69166ea0b7e0b2626dc15f11",
       "id": 27228,
       "url": "https://start-developer-competition.devpost.com/",
       "title": "Meta Horizon Start Developer Competition",
@@ -13,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 05 - Dec 09, 2025",
       "displayed_location": "Online",
-      "registrations_count": 1096,
+      "registrations_count": 1231,
       "prizeText": "$<span data-currency-value>1,500,000</span>",
-      "time_left_to_submission": "27 days left",
+      "time_left_to_submission": "26 days left",
       "themes": [
         {
           "id": 5,
@@ -34,7 +34,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69151d2dd48c6323c17aa877",
+      "_id": "69166ea0b7e0b2626dc15f12",
       "id": 27131,
       "url": "https://mhcp-mobile-innovation.devpost.com/",
       "title": "Meta Horizon Creator Competition: Mobile Innovation",
@@ -44,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 03 - Dec 08, 2025",
       "displayed_location": "Online",
-      "registrations_count": 366,
+      "registrations_count": 462,
       "prizeText": "$<span data-currency-value>1,500,000</span>",
-      "time_left_to_submission": "26 days left",
+      "time_left_to_submission": "25 days left",
       "themes": [
         {
           "id": 5,
@@ -65,38 +65,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69151d31d48c6323c17aa893",
-      "id": 26579,
-      "url": "https://ebpf-summit-2025.devpost.com/",
-      "title": "eBPF Summit: Hackathon Edition 2025",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/811/617/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "Isovalent @Cisco",
-      "isOpen": "open",
-      "submission_period_dates": "Oct 13 - Nov 29, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 459,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "17 days left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "start_a_submission_url": "https://ebpf-summit-2025.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69151d31d48c6323c17aa894",
+      "_id": "69166ea4b7e0b2626dc15f2d",
       "id": 26246,
       "url": "https://arm-ai-developer-challenge.devpost.com/",
       "title": "Arm AI Developer Challenge ",
@@ -106,9 +75,9 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 06 - Dec 04, 2025",
       "displayed_location": "Online",
-      "registrations_count": 1070,
+      "registrations_count": 1090,
       "prizeText": "$<span data-currency-value>15,000</span>",
-      "time_left_to_submission": "21 days left",
+      "time_left_to_submission": "20 days left",
       "themes": [
         {
           "id": 7,
@@ -124,6 +93,37 @@
         }
       ],
       "start_a_submission_url": "https://arm-ai-developer-challenge.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69166ea4b7e0b2626dc15f2e",
+      "id": 26579,
+      "url": "https://ebpf-summit-2025.devpost.com/",
+      "title": "eBPF Summit: Hackathon Edition 2025",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/811/617/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Isovalent @Cisco",
+      "isOpen": "open",
+      "submission_period_dates": "Oct 13 - Nov 29, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 462,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "16 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://ebpf-summit-2025.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
