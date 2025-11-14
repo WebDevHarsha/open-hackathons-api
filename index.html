@@ -130,6 +130,215 @@
             border-color: #10b981;
         }
         
+        .code-examples {
+            margin-top: 2rem;
+        }
+        
+        .language-selector {
+            margin-bottom: 1.5rem;
+        }
+
+        .language-selector label {
+            display: block;
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #a1a1aa;
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Custom language select */
+        .language-select {
+            position: relative;
+            width: 100%;
+            max-width: 420px;
+            user-select: none;
+        }
+
+        .language-select .selected {
+            display: flex;
+            align-items: center;
+            gap: 0.875rem;
+            padding: 0.875rem 1.125rem;
+            background: linear-gradient(135deg, #18181b 0%, #1a1a1e 100%);
+            border: 1px solid #27272a;
+            border-radius: 10px;
+            color: #fafafa;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-weight: 500;
+            font-size: 0.9375rem;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .language-select .selected:hover {
+            border-color: #3f3f46;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+            transform: translateY(-1px);
+        }
+
+        .language-select .selected:active {
+            transform: translateY(0);
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        .language-icon {
+            width: 22px;
+            height: 22px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .language-select .caret {
+            margin-left: auto;
+            color: #a1a1aa;
+            font-size: 1rem;
+            transition: transform 0.2s ease;
+        }
+
+        .language-select.open .caret {
+            transform: rotate(180deg);
+        }
+
+        .language-list {
+            position: absolute;
+            top: calc(100% + 0.5rem);
+            left: 0;
+            right: 0;
+            background: #0f0f10;
+            border: 1px solid #27272a;
+            border-radius: 10px;
+            max-height: 320px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            z-index: 20;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.4);
+            opacity: 0;
+            transform: translateY(-10px);
+            pointer-events: none;
+            transition: opacity 0.2s ease, transform 0.2s ease;
+        }
+
+        .language-select.open .language-list {
+            opacity: 1;
+            transform: translateY(0);
+            pointer-events: all;
+        }
+
+        .language-list::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .language-list::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .language-list::-webkit-scrollbar-thumb {
+            background: #27272a;
+            border-radius: 4px;
+        }
+
+        .language-list::-webkit-scrollbar-thumb:hover {
+            background: #3f3f46;
+        }
+
+        .language-option {
+            display: flex;
+            gap: 0.875rem;
+            align-items: center;
+            padding: 0.75rem 1.125rem;
+            color: #d4d4d8;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            font-size: 0.9375rem;
+            font-weight: 500;
+            border-left: 3px solid transparent;
+        }
+
+        .language-option:hover {
+            background: linear-gradient(90deg, #18181b 0%, #1a1a1e 100%);
+            color: #fafafa;
+            border-left-color: #10b981;
+            padding-left: calc(1.125rem - 3px);
+        }
+
+        .language-option:active {
+            background: #1f1f23;
+        }
+
+        .language-option.selected {
+            background: #18181b;
+            color: #10b981;
+            border-left-color: #10b981;
+        }
+        
+        .code-card {
+            background: #18181b;
+            border: 1px solid #27272a;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        
+        .code-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 1.5rem;
+            background: #0f0f10;
+            border-bottom: 1px solid #27272a;
+        }
+        
+        .code-language {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #fafafa;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .code-copy-btn {
+            background: #27272a;
+            border: 1px solid #3f3f46;
+            color: #a1a1aa;
+            padding: 0.375rem 0.75rem;
+            border-radius: 6px;
+            font-size: 0.8125rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+        
+        .code-copy-btn:hover {
+            background: #3f3f46;
+            color: #fafafa;
+        }
+        
+        .code-copy-btn.copied {
+            background: #10b981;
+            color: #0a0a0a;
+            border-color: #10b981;
+        }
+        
+        .code-block {
+            padding: 1.5rem;
+            overflow-x: auto;
+        }
+        
+        .code-block pre {
+            margin: 0;
+            font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            color: #e4e4e7;
+        }
+        
+        .code-block code {
+            color: #e4e4e7;
+        }
+        
         .stats {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -462,10 +671,92 @@
             </div>
             
             <div class="section">
-                <h2>Featured Hackathons</h2>
-                <p class="section-description">Explore the latest open hackathons available right now:</p>
-                <div id="hackathonList" class="hackathon-list">
-                    <div class="loading">Loading hackathons...</div>
+                <h2>Code Examples</h2>
+                <p class="section-description">Use these code snippets to integrate the API into your projects:</p>
+                
+                <div class="code-examples">
+                    <div class="language-selector">
+                        <label>Select Language:</label>
+                        <div class="language-select" id="languageSelect">
+                            <div class="selected" onclick="toggleLanguageList()">
+                                <span class="language-icon" id="selectedIcon"></span>
+                                <span id="selectedLanguageName">Python</span>
+                                <span class="caret">▾</span>
+                            </div>
+                            <div class="language-list" id="languageList">
+                                <div class="language-option" data-lang="python" onclick="selectLanguage('python')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#3776AB" d="M14.25.18l.9.2.73.26.59.3.45.32.34.34.25.34.16.33.1.3.04.26.02.2-.01.13V8.5l-.05.63-.13.55-.21.46-.26.38-.3.31-.33.25-.35.19-.35.14-.33.1-.3.07-.26.04-.21.02H8.77l-.69.05-.59.14-.5.22-.41.27-.33.32-.27.35-.2.36-.15.37-.1.35-.07.32-.04.27-.02.21v3.06H3.17l-.21-.03-.28-.07-.32-.12-.35-.18-.36-.26-.36-.36-.35-.46-.32-.59-.28-.73-.21-.88-.14-1.05-.05-1.23.06-1.22.16-1.04.24-.87.32-.71.36-.57.4-.44.42-.33.42-.24.4-.16.36-.1.32-.05.24-.01h.16l.06.01h8.16v-.83H6.18l-.01-2.75-.02-.37.05-.34.11-.31.17-.28.25-.26.31-.23.38-.2.44-.18.51-.15.58-.12.64-.1.71-.06.77-.04.84-.02 1.27.05zm-6.3 1.98l-.23.33-.08.41.08.41.23.34.33.22.41.09.41-.09.33-.22.23-.34.08-.41-.08-.41-.23-.33-.33-.22-.41-.09-.41.09zm13.09 3.95l.28.06.32.12.35.18.36.27.36.35.35.47.32.59.28.73.21.88.14 1.04.05 1.23-.06 1.23-.16 1.04-.24.86-.32.71-.36.57-.4.45-.42.33-.42.24-.4.16-.36.09-.32.05-.24.02-.16-.01h-8.22v.82h5.84l.01 2.76.02.36-.05.34-.11.31-.17.29-.25.25-.31.24-.38.2-.44.17-.51.15-.58.13-.64.09-.71.07-.77.04-.84.01-1.27-.04-1.07-.14-.9-.2-.73-.25-.59-.3-.45-.33-.34-.34-.25-.34-.16-.33-.1-.3-.04-.25-.02-.2.01-.13v-5.34l.05-.64.13-.54.21-.46.26-.38.3-.32.33-.24.35-.2.35-.14.33-.1.3-.06.26-.04.21-.02.13-.01h5.84l.69-.05.59-.14.5-.21.41-.28.33-.32.27-.35.2-.36.15-.36.1-.35.07-.32.04-.28.02-.21V6.07h2.09l.14.01zm-6.47 14.25l-.23.33-.08.41.08.41.23.33.33.23.41.08.41-.08.33-.23.23-.33.08-.41-.08-.41-.23-.33-.33-.23-.41-.08-.41.08z"/></svg>
+                                    </span>
+                                    <span>Python</span>
+                                </div>
+                                <div class="language-option" data-lang="javascript" onclick="selectLanguage('javascript')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#F7DF1E" d="M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z"/></svg>
+                                    </span>
+                                    <span>JavaScript (Node.js)</span>
+                                </div>
+                                <div class="language-option" data-lang="typescript" onclick="selectLanguage('typescript')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#3178C6" d="M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z"/></svg>
+                                    </span>
+                                    <span>TypeScript</span>
+                                </div>
+                                <div class="language-option" data-lang="fetch" onclick="selectLanguage('fetch')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#61DAFB" d="M12 10.11c1.03 0 1.87.84 1.87 1.89 0 1-.84 1.85-1.87 1.85S10.13 13 10.13 12c0-1.05.84-1.89 1.87-1.89M7.37 20c.63.38 2.01-.2 3.6-1.7-.52-.59-1.03-1.23-1.51-1.9a22.7 22.7 0 0 1-2.4-.36c-.51 2.14-.32 3.61.31 3.96m.71-5.74l-.29-.51c-.11.29-.22.58-.29.86.27.06.57.11.88.16l-.3-.51m6.54-.76l.81-1.5-.81-1.5c-.3-.53-.62-1-.91-1.47C13.17 9 12.6 9 12 9s-1.17 0-1.71.03c-.29.47-.61.94-.91 1.47L8.57 12l.81 1.5c.3.53.62 1 .91 1.47.54.03 1.11.03 1.71.03s1.17 0 1.71-.03c.29-.47.61-.94.91-1.47M12 6.78c-.19.22-.39.45-.59.72h1.18c-.2-.27-.4-.5-.59-.72m0 10.44c.19-.22.39-.45.59-.72h-1.18c.2.27.4.5.59.72M16.62 4c-.62-.38-2 .2-3.59 1.7.52.59 1.03 1.23 1.51 1.9.82.08 1.63.2 2.4.36.51-2.14.32-3.61-.32-3.96m-.7 5.74l.29.51c.11-.29.22-.58.29-.86-.27-.06-.57-.11-.88-.16l.3.51m1.45-7.05c1.47.84 1.63 3.05 1.01 5.63 2.54.75 4.37 1.99 4.37 3.68s-1.83 2.93-4.37 3.68c.62 2.58.46 4.79-1.01 5.63-1.46.84-3.45-.12-5.37-1.95-1.92 1.83-3.91 2.79-5.38 1.95-1.46-.84-1.62-3.05-1-5.63-2.54-.75-4.37-1.99-4.37-3.68s1.83-2.93 4.37-3.68c-.62-2.58-.46-4.79 1-5.63 1.47-.84 3.46.12 5.38 1.95 1.92-1.83 3.91-2.79 5.37-1.95M17.08 12c.34.75.64 1.5.89 2.26 2.1-.63 3.28-1.53 3.28-2.26s-1.18-1.63-3.28-2.26c-.25.76-.55 1.51-.89 2.26M6.92 12c-.34-.75-.64-1.5-.89-2.26-2.1.63-3.28 1.53-3.28 2.26s1.18 1.63 3.28 2.26c.25-.76.55-1.51.89-2.26m9.81 4.26c.19-.59.35-1.19.49-1.79l-.29.51c-.3.53-.62 1-.91 1.47.54-.05 1.08-.13 1.71-.19m-9.46 0c.63.06 1.17.14 1.71.19-.29-.47-.61-.94-.91-1.47l-.29-.51c.14.6.3 1.2.49 1.79m.51-12.52c-.51 2.14-.32 3.61.31 3.96.62.38 2-.2 3.59-1.7-.52-.59-1.03-1.23-1.51-1.9-.82-.08-1.63-.2-2.39-.36z"/></svg>
+                                    </span>
+                                    <span>JavaScript (Fetch API)</span>
+                                </div>
+                                <div class="language-option" data-lang="curl" onclick="selectLanguage('curl')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="3" fill="#073551"/><text x="12" y="16" font-size="9" text-anchor="middle" fill="#fff" font-family="monospace" font-weight="bold">cURL</text></svg>
+                                    </span>
+                                    <span>cURL</span>
+                                </div>
+                                <div class="language-option" data-lang="php" onclick="selectLanguage('php')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><ellipse cx="12" cy="12" rx="11" ry="7" fill="#777BB4"/><path fill="#fff" d="M7.5 11.5h.9c.4 0 .7-.3.7-.7v-.1c0-.4-.3-.7-.7-.7h-.9v1.5zm-.5-2.2h1.4c.7 0 1.3.6 1.3 1.3v.1c0 .7-.6 1.3-1.3 1.3H7.5v1h-.5v-3.7zm5.5 0h.9c.4 0 .7.3.7.7v.1c0 .4-.3.7-.7.7h-.9v-1.5zm-.5 2.2h1.4c.7 0 1.3-.6 1.3-1.3v-.1c0-.7-.6-1.3-1.3-1.3H12v3.7h.5v-1zm3.5-2.2h.5v1.5h1.5v.5H16v1.2h-.5v-3.2z"/></svg>
+                                    </span>
+                                    <span>PHP</span>
+                                </div>
+                                <div class="language-option" data-lang="go" onclick="selectLanguage('go')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#00ADD8" d="M1.811 10.231c-.047 0-.058-.023-.035-.059l.246-.315c.023-.035.081-.058.128-.058h4.172c.046 0 .058.035.035.07l-.199.303c-.023.036-.082.07-.117.07zM.047 11.306c-.047 0-.059-.023-.035-.058l.245-.316c.023-.035.082-.058.129-.058h5.328c.047 0 .07.035.058.07l-.093.28c-.012.047-.058.07-.105.07zm2.828 1.075c-.047 0-.059-.035-.035-.07l.163-.292c.023-.035.07-.07.117-.07h2.337c.047 0 .07.035.07.082l-.023.28c0 .047-.047.082-.082.082zm12.129-2.36c-.736.187-1.239.327-1.963.514-.176.046-.187.058-.34-.117-.174-.199-.303-.327-.548-.444-.737-.362-1.45-.257-2.115.175-.795.514-1.204 1.274-1.192 2.22.011.935.654 1.706 1.577 1.835.795.105 1.46-.175 1.987-.77.105-.13.198-.27.315-.434H10.47c-.245 0-.315-.07-.315-.31v-1.04c0-.245.07-.315.315-.315h4.6c.245 0 .315.07.315.315v.896c0 .748-.128 1.461-.525 2.104-.736 1.192-1.789 1.894-3.171 2.011-1.286.105-2.42-.315-3.333-1.239-.795-.795-1.204-1.776-1.192-2.88.012-1.239.537-2.267 1.474-3.066.936-.795 2.021-1.146 3.23-1.028 1.192.117 2.208.537 2.991 1.427.07.082.14.164.198.257.07.105.023.152-.082.175zm-10.483-.48c-.175-.059-.328-.047-.445.07-.105.093-.164.246-.175.398-.035.433.187.656.619.656 2.22 0 4.44 0 6.66 0h.047c.315-.023.515-.245.515-.562 0-.316-.211-.55-.526-.585-.07-.012-.14-.012-.21-.012zm15.959.327c-.187.035-.281-.059-.398-.187-.21-.21-.42-.432-.654-.619-.247-.199-.515-.362-.818-.47-.537-.174-1.074-.14-1.599.082-.455.187-.818.491-1.063.912-.28.48-.315 1.004-.07 1.507.21.42.537.723.96.912.13.059.28.105.42.129.352.058.679.023.99-.117.375-.164.69-.398.96-.691.07-.093.128-.198.21-.327.023-.035.07-.082.117-.082h1.416c.176 0 .281.082.281.245 0 .093-.035.175-.082.257-.607 1.088-1.461 1.835-2.582 2.174-1.075.327-2.163.281-3.216-.198-1.145-.526-1.859-1.426-2.115-2.701-.14-.796-.058-1.569.362-2.29.457-.781 1.168-1.274 2.045-1.485.898-.21 1.789-.152 2.676.128.723.233 1.311.631 1.789 1.192.07.093.128.175.175.269.07.117.023.21-.117.257z"/></svg>
+                                    </span>
+                                    <span>Go</span>
+                                </div>
+                                <div class="language-option" data-lang="ruby" onclick="selectLanguage('ruby')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#CC342D" d="M20.156.083c3.033.525 3.893 2.598 3.829 4.77L24 4.822 22.635 22.71 4.89 23.926h.016C3.433 23.864.15 23.729 0 19.139l1.645-3 2.819 6.586.503 1.063 2.367.098.1-9.374-.999-.12L.48 9.061C1.655 5.408 3.669 2.502 7.15 1.019l.043-.01.018.008.96-.487L9.793.35 11.5.17h.48c.266 0 .5.009.8.022l.531.03v-.01z"/><path fill="#fff" d="M8.185 1.019C11.667-.464 13.681 2.442 14.856 6.095l-6.671 9.331-.999-.12L.48 9.061C1.655 5.408 3.669 2.502 7.15 1.019z"/><path fill="#9B111E" d="M7.185 10.306l6.671-9.331c.33.946.576 1.99.729 3.139l-6.7 6.192z"/></svg>
+                                    </span>
+                                    <span>Ruby</span>
+                                </div>
+                                <div class="language-option" data-lang="java" onclick="selectLanguage('java')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#5382A1" d="M8.851 18.56s-.917.534.653.714c1.902.218 2.874.187 4.969-.211 0 0 .552.346 1.321.646-4.699 2.013-10.633-.118-6.943-1.149M8.276 15.933s-1.028.761.542.924c2.032.209 3.636.227 6.413-.308 0 0 .384.389.987.602-5.679 1.661-12.007.13-7.942-1.218M13.116 11.475c1.158 1.333-.304 2.533-.304 2.533s2.939-1.518 1.589-3.418c-1.261-1.772-2.228-2.652 3.007-5.688 0-.001-8.216 2.051-4.292 6.573M19.33 20.504s.679.559-.747.991c-2.712.822-11.288 1.069-13.669.033-.856-.373.75-.89 1.254-.998.527-.114.828-.093.828-.093-.953-.671-6.156 1.317-2.643 1.887 9.58 1.553 17.462-.7 14.977-1.82M9.292 13.21s-4.362 1.036-1.544 1.412c1.189.159 3.561.123 5.77-.062 1.806-.152 3.618-.477 3.618-.477s-.637.272-1.098.587c-4.429 1.165-12.986.623-10.522-.568 2.082-1.006 3.776-.892 3.776-.892M17.116 17.584c4.503-2.34 2.421-4.589.968-4.285-.355.074-.515.138-.515.138s.132-.207.385-.297c2.875-1.011 5.086 2.981-.928 4.562 0-.001.07-.062.09-.118M14.401 0s2.494 2.494-2.365 6.33c-3.896 3.077-.888 4.832-.001 6.836-2.274-2.053-3.943-3.858-2.824-5.539 1.644-2.469 6.197-3.665 5.19-7.627M9.734 23.924c4.322.277 10.959-.153 11.116-2.198 0 0-.302.775-3.572 1.391-3.688.694-8.239.613-10.937.168 0-.001.553.457 3.393.639"/></svg>
+                                    </span>
+                                    <span>Java</span>
+                                </div>
+                                <div class="language-option" data-lang="csharp" onclick="selectLanguage('csharp')">
+                                    <span class="language-icon">
+                                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#239120" d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zM9.426 7.12a5.55 5.55 0 0 1 1.985.38v1.181a4.5 4.5 0 0 0-2.025-.566 2.445 2.445 0 0 0-1.827.669 2.5 2.5 0 0 0-.655 1.8 2.38 2.38 0 0 0 .668 1.753 2.4 2.4 0 0 0 1.814.7 4.265 4.265 0 0 0 2.065-.639v1.23a5.85 5.85 0 0 1-2.105.447 3.515 3.515 0 0 1-2.716-1.1 4.12 4.12 0 0 1-1.015-2.932 4.66 4.66 0 0 1 .446-2.058 3.215 3.215 0 0 1 1.324-1.406A3.675 3.675 0 0 1 9.425 7.12zm6.694.174v1.124h-1.327v4.85h-1.258v-4.85h-1.336V7.294zm2.217 0l.955 3.517.976-3.517h1.621v5.974h-1.062V9.307l-1.109 3.961h-.877l-1.095-3.947v3.947h-1.045V7.294z"/></svg>
+                                    </span>
+                                    <span>C#</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="code-card">
+                        <div class="code-header">
+                            <span class="code-language" id="currentLanguage">Python</span>
+                            <button class="code-copy-btn" onclick="copyCode(this, 'code-display')">Copy</button>
+                        </div>
+                        <div class="code-block">
+                            <pre id="code-display"><code id="code-content"></code></pre>
+                        </div>
+                    </div>
                 </div>
             </div>
         </main>
@@ -484,11 +775,295 @@
     <script>
         const baseUrl = window.location.origin + window.location.pathname.replace(/\/$/, '');
         
-        document.getElementById('apiEndpoint').textContent = baseUrl + '/data.json';
-        document.getElementById('apiEndpointOnline').textContent = baseUrl + '/data-online.json';
+        const dataUrl = baseUrl + '/data.json';
+        const dataUrlOnline = baseUrl + '/data-online.json';
+        const dataUrlPrize = baseUrl + '/data-by-prize.json';
+        
+        document.getElementById('apiEndpoint').textContent = dataUrl;
+        document.getElementById('apiEndpointOnline').textContent = dataUrlOnline;
         document.getElementById('apiEndpointOffline').textContent = baseUrl + '/data-offline.json';
         document.getElementById('apiEndpointFeatured').textContent = baseUrl + '/data-featured.json';
-        document.getElementById('apiEndpointPrize').textContent = baseUrl + '/data-by-prize.json';
+        document.getElementById('apiEndpointPrize').textContent = dataUrlPrize;
+        
+        // Code examples for different languages
+        const codeExamples = {
+            python: {
+                name: 'Python',
+                code: `import requests
+
+# Fetch all hackathons
+response = requests.get('${dataUrl}')
+data = response.json()
+
+# Display hackathon information
+for hackathon in data['hackathons']:
+    print(f"Title: {hackathon['title']}")
+    print(f"Organization: {hackathon['organization_name']}")
+    print(f"Location: {hackathon['displayed_location']}")
+    print(f"Prize: {hackathon.get('prizeText', 'N/A')}")
+    print("-" * 50)`
+            },
+            javascript: {
+                name: 'JavaScript (Node.js)',
+                code: `const fetch = require('node-fetch');
+
+// Fetch all hackathons
+async function getHackathons() {
+    try {
+        const response = await fetch('${dataUrl}');
+        const data = await response.json();
+        
+        data.hackathons.forEach(hackathon => {
+            console.log(\`Title: \${hackathon.title}\`);
+            console.log(\`Organization: \${hackathon.organization_name}\`);
+            console.log(\`Location: \${hackathon.displayed_location}\`);
+            console.log(\`Prize: \${hackathon.prizeText || 'N/A'}\`);
+            console.log('-'.repeat(50));
+        });
+    } catch (error) {
+        console.error('Error fetching hackathons:', error);
+    }
+}
+
+getHackathons();`
+            },
+            typescript: {
+                name: 'TypeScript',
+                code: `interface Hackathon {
+    title: string;
+    organization_name: string;
+    displayed_location: string;
+    prizeText?: string;
+    url: string;
+    submission_period_dates: string;
+}
+
+interface HackathonData {
+    count: number;
+    hackathons: Hackathon[];
+    last_updated: string;
+}
+
+async function getHackathons(): Promise<void> {
+    try {
+        const response = await fetch('${dataUrl}');
+        const data: HackathonData = await response.json();
+        
+        data.hackathons.forEach((hackathon: Hackathon) => {
+            console.log(\`Title: \${hackathon.title}\`);
+            console.log(\`Organization: \${hackathon.organization_name}\`);
+            console.log(\`Location: \${hackathon.displayed_location}\`);
+            console.log(\`Prize: \${hackathon.prizeText || 'N/A'}\`);
+            console.log('-'.repeat(50));
+        });
+    } catch (error) {
+        console.error('Error fetching hackathons:', error);
+    }
+}
+
+getHackathons();`
+            },
+            fetch: {
+                name: 'JavaScript (Fetch API)',
+                code: `// Fetch all hackathons using Fetch API
+fetch('${dataUrl}')
+    .then(response => response.json())
+    .then(data => {
+        console.log(\`Total Hackathons: \${data.count}\`);
+        console.log(\`Last Updated: \${data.last_updated}\`);
+        
+        data.hackathons.forEach(hackathon => {
+            console.log(\`\\nTitle: \${hackathon.title}\`);
+            console.log(\`Organization: \${hackathon.organization_name}\`);
+            console.log(\`Location: \${hackathon.displayed_location}\`);
+            if (hackathon.prizeText) {
+                console.log(\`Prize: \${hackathon.prizeText}\`);
+            }
+        });
+    })
+    .catch(error => console.error('Error:', error));`
+            },
+            curl: {
+                name: 'cURL',
+                code: `# Fetch all hackathons
+curl ${dataUrl}
+
+# Fetch online hackathons only
+curl ${dataUrlOnline}
+
+# Fetch hackathons sorted by prize
+curl ${dataUrlPrize}`
+            },
+            php: {
+                name: 'PHP',
+                code: `<?php
+// Fetch all hackathons
+$url = '${dataUrl}';
+$response = file_get_contents($url);
+$data = json_decode($response, true);
+
+echo "Total Hackathons: " . $data['count'] . "\\n";
+echo "Last Updated: " . $data['last_updated'] . "\\n\\n";
+
+foreach ($data['hackathons'] as $hackathon) {
+    echo "Title: " . $hackathon['title'] . "\\n";
+    echo "Organization: " . $hackathon['organization_name'] . "\\n";
+    echo "Location: " . $hackathon['displayed_location'] . "\\n";
+    if (isset($hackathon['prizeText'])) {
+        echo "Prize: " . strip_tags($hackathon['prizeText']) . "\\n";
+    }
+    echo str_repeat("-", 50) . "\\n";
+}
+?>`
+            },
+            go: {
+                name: 'Go',
+                code: `package main
+
+import (
+    "encoding/json"
+    "fmt"
+    "io/ioutil"
+    "net/http"
+)
+
+type Hackathon struct {
+    Title            string \`json:"title"\`
+    OrganizationName string \`json:"organization_name"\`
+    DisplayedLocation string \`json:"displayed_location"\`
+    PrizeText        string \`json:"prizeText"\`
+    URL              string \`json:"url"\`
+}
+
+type Response struct {
+    Count       int          \`json:"count"\`
+    Hackathons  []Hackathon  \`json:"hackathons"\`
+    LastUpdated string       \`json:"last_updated"\`
+}
+
+func main() {
+    resp, err := http.Get("${dataUrl}")
+    if err != nil {
+        fmt.Println("Error:", err)
+        return
+    }
+    defer resp.Body.Close()
+    
+    body, _ := ioutil.ReadAll(resp.Body)
+    var data Response
+    json.Unmarshal(body, &data)
+    
+    for _, hackathon := range data.Hackathons {
+        fmt.Printf("Title: %s\\n", hackathon.Title)
+        fmt.Printf("Organization: %s\\n", hackathon.OrganizationName)
+        fmt.Printf("Location: %s\\n", hackathon.DisplayedLocation)
+        fmt.Println("--------------------------------------------------")
+    }
+}`
+            },
+            ruby: {
+                name: 'Ruby',
+                code: `require 'net/http'
+require 'json'
+
+# Fetch all hackathons
+uri = URI('${dataUrl}')
+response = Net::HTTP.get(uri)
+data = JSON.parse(response)
+
+puts "Total Hackathons: #{data['count']}"
+puts "Last Updated: #{data['last_updated']}"
+puts ""
+
+data['hackathons'].each do |hackathon|
+  puts "Title: #{hackathon['title']}"
+  puts "Organization: #{hackathon['organization_name']}"
+  puts "Location: #{hackathon['displayed_location']}"
+  puts "Prize: #{hackathon['prizeText'] || 'N/A'}"
+  puts "-" * 50
+end`
+            },
+            java: {
+                name: 'Java',
+                code: `import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import org.json.JSONObject;
+import org.json.JSONArray;
+
+public class HackathonFetcher {
+    public static void main(String[] args) {
+        try {
+            HttpClient client = HttpClient.newHttpClient();
+            HttpRequest request = HttpRequest.newBuilder()
+                .uri(URI.create("${dataUrl}"))
+                .build();
+            
+            HttpResponse<String> response = client.send(request,
+                HttpResponse.BodyHandlers.ofString());
+            
+            JSONObject data = new JSONObject(response.body());
+            JSONArray hackathons = data.getJSONArray("hackathons");
+            
+            System.out.println("Total Hackathons: " + data.getInt("count"));
+            
+            for (int i = 0; i < hackathons.length(); i++) {
+                JSONObject hackathon = hackathons.getJSONObject(i);
+                System.out.println("Title: " + hackathon.getString("title"));
+                System.out.println("Organization: " + 
+                    hackathon.getString("organization_name"));
+                System.out.println("Location: " + 
+                    hackathon.getString("displayed_location"));
+                System.out.println("-".repeat(50));
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}`
+            },
+            csharp: {
+                name: 'C#',
+                code: `using System;
+using System.Net.Http;
+using System.Threading.Tasks;
+using Newtonsoft.Json.Linq;
+
+class Program
+{
+    static async Task Main(string[] args)
+    {
+        using var client = new HttpClient();
+        
+        try
+        {
+            var response = await client.GetStringAsync("${dataUrl}");
+            var data = JObject.Parse(response);
+            
+            Console.WriteLine($"Total Hackathons: {data[\"count\"]}");
+            Console.WriteLine($"Last Updated: {data[\"last_updated\"]}");
+            Console.WriteLine();
+            
+            foreach (var hackathon in data[\"hackathons\"])
+            {
+                Console.WriteLine($"Title: {hackathon[\"title\"]}");
+                Console.WriteLine($"Organization: {hackathon[\"organization_name\"]}");
+                Console.WriteLine($"Location: {hackathon[\"displayed_location\"]}");
+                Console.WriteLine(new string('-', 50));
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error: {ex.Message}");
+        }
+    }
+}`
+            }
+        };
+        
+        // Initialize with Python code
+        changeLanguage('python');
         
         Promise.all([
             fetch('data.json').then(r => r.json()),
@@ -503,52 +1078,9 @@
                 const lastUpdated = new Date(data.last_updated);
                 const timeAgo = getTimeAgo(lastUpdated);
                 document.getElementById('lastUpdated').textContent = timeAgo;
-                
-                const hackathonList = document.getElementById('hackathonList');
-                
-                if (!data.hackathons || data.hackathons.length === 0) {
-                    hackathonList.innerHTML = '<div class="loading">No hackathons available yet. Check back soon!</div>';
-                    return;
-                }
-                
-                // Display first 10 hackathons from all data
-                const displayHackathons = data.hackathons.slice(0, 10);
-                
-                hackathonList.innerHTML = displayHackathons.map(hackathon => `
-                    <div class="hackathon-card">
-                        <div class="hackathon-title">${hackathon.title || 'Untitled Hackathon'}</div>
-                        <div class="hackathon-meta">
-                            <strong>${hackathon.organization_name || 'Unknown Organization'}</strong>
-                            ${hackathon.displayed_location ? ' • ' + hackathon.displayed_location : ''}
-                        </div>
-                        ${hackathon.submission_period_dates ? `
-                            <div class="hackathon-meta">
-                                ${hackathon.submission_period_dates}
-                                ${hackathon.time_left_to_submission ? ' • ' + hackathon.time_left_to_submission : ''}
-                            </div>
-                        ` : ''}
-                        ${hackathon.prizeText ? `
-                            <div class="prize-info">
-                                <div class="prize-label">Prize Pool</div>
-                                <div class="prize-value">${hackathon.prizeText.replace(/<[^>]*>/g, '')}</div>
-                            </div>
-                        ` : ''}
-                        ${hackathon.themes && hackathon.themes.length > 0 ? `
-                            <div class="themes">
-                                ${hackathon.themes.map(theme => `<span class="theme-tag">${theme.name}</span>`).join('')}
-                            </div>
-                        ` : ''}
-                        ${hackathon.url ? `
-                            <div class="button-group" style="margin-top: 1.25rem;">
-                                <a href="${hackathon.url}" target="_blank" class="btn btn-secondary">View Details →</a>
-                            </div>
-                        ` : ''}
-                    </div>
-                `).join('');
             })
             .catch(error => {
                 console.error('Error loading data:', error);
-                document.getElementById('hackathonList').innerHTML = '<div class="loading">Failed to load hackathons data. Please try again later.</div>';
             });
         
         function getTimeAgo(date) {
@@ -559,6 +1091,49 @@
             if (seconds < 86400) return Math.floor(seconds / 3600) + 'h ago';
             return Math.floor(seconds / 86400) + 'd ago';
         }
+        
+        function changeLanguage(language) {
+            const example = codeExamples[language];
+            if (example) {
+                document.getElementById('currentLanguage').textContent = example.name;
+                document.getElementById('code-content').textContent = example.code;
+                
+                // Update selected display
+                const selectedName = document.getElementById('selectedLanguageName');
+                if (selectedName) {
+                    selectedName.textContent = example.name;
+                }
+                
+                // Update active state in list
+                document.querySelectorAll('.language-option').forEach(opt => {
+                    opt.classList.remove('selected');
+                    if (opt.getAttribute('data-lang') === language) {
+                        opt.classList.add('selected');
+                        // Copy icon to selected display
+                        const icon = opt.querySelector('.language-icon').cloneNode(true);
+                        document.getElementById('selectedIcon').innerHTML = icon.innerHTML;
+                    }
+                });
+            }
+        }
+        
+        function toggleLanguageList() {
+            const select = document.getElementById('languageSelect');
+            select.classList.toggle('open');
+        }
+        
+        function selectLanguage(lang) {
+            changeLanguage(lang);
+            document.getElementById('languageSelect').classList.remove('open');
+        }
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+            const select = document.getElementById('languageSelect');
+            if (select && !select.contains(e.target)) {
+                select.classList.remove('open');
+            }
+        });
         
         function copyToClipboard(elementId, button) {
             const text = document.getElementById(elementId).textContent;
@@ -571,6 +1146,21 @@
                 }, 2000);
             }).catch(err => {
                 console.error('Failed to copy:', err);
+            });
+        }
+        
+        function copyCode(button, codeId) {
+            const codeElement = document.getElementById(codeId);
+            const text = codeElement.textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                button.textContent = 'Copied!';
+                button.classList.add('copied');
+                setTimeout(() => {
+                    button.textContent = 'Copy';
+                    button.classList.remove('copied');
+                }, 2000);
+            }).catch(err => {
+                console.error('Failed to copy code:', err);
             });
         }
     </script>
