@@ -1,9 +1,40 @@
 {
-  "last_updated": "2025-11-18T00:55:53.816560Z",
-  "count": 4,
+  "last_updated": "2025-11-19T00:55:45.741957Z",
+  "count": 5,
   "hackathons": [
     {
-      "_id": "691bb4850a9139f5fb24d5db",
+      "_id": "691d0629e238a5a70fdbbc4b",
+      "id": 26958,
+      "url": "https://ai-by-the-bay-hackathon-26958.devpost.com/",
+      "title": "Hack the Bay | AI By the Bay hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/974/959/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "ai by the bay",
+      "isOpen": "open",
+      "submission_period_dates": "Nov 18 - 19, 2025",
+      "displayed_location": "Oakland Scottish Rite Center",
+      "registrations_count": 50,
+      "prizeText": "$<span data-currency-value>4,000</span>",
+      "time_left_to_submission": "about 19 hours left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        }
+      ],
+      "start_a_submission_url": "https://ai-by-the-bay-hackathon-26958.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "691d0629e238a5a70fdbbc4d",
       "id": 27037,
       "url": "https://yelp-ai.devpost.com/",
       "title": "Yelp AI API Hackathon",
@@ -13,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 10 - Dec 17, 2025",
       "displayed_location": "Online",
-      "registrations_count": 61,
+      "registrations_count": 77,
       "prizeText": "$<span data-currency-value>5,000</span>",
-      "time_left_to_submission": "30 days left",
+      "time_left_to_submission": "29 days left",
       "themes": [
         {
           "id": 6,
@@ -26,7 +57,7 @@
       "source": "devpost"
     },
     {
-      "_id": "691bb4870a9139f5fb24d5ec",
+      "_id": "691d062be238a5a70fdbbc5f",
       "id": 26833,
       "url": "https://liquidmetal.devpost.com/",
       "title": "The AI Champion Ship ",
@@ -36,9 +67,9 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 20 - Dec 08, 2025",
       "displayed_location": "Online",
-      "registrations_count": 2009,
+      "registrations_count": 2065,
       "prizeText": "$<span data-currency-value>36,500</span>",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "themes": [
         {
           "id": 6,
@@ -57,7 +88,7 @@
       "source": "devpost"
     },
     {
-      "_id": "691bb4870a9139f5fb24d5ee",
+      "_id": "691d062be238a5a70fdbbc61",
       "id": 26828,
       "url": "https://hackthetrack.devpost.com/",
       "title": "Hack the Track presented by Toyota GR",
@@ -67,9 +98,9 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 15 - Nov 24, 2025",
       "displayed_location": "Online",
-      "registrations_count": 1977,
+      "registrations_count": 2046,
       "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 28,
@@ -84,7 +115,7 @@
       "source": "devpost"
     },
     {
-      "_id": "691bb4890a9139f5fb24d5f2",
+      "_id": "691d062de238a5a70fdbbc65",
       "id": 26711,
       "url": "https://codegeistxawr.devpost.com/",
       "title": "Codegeist 2025: Atlassian Williams Racing Edition",
@@ -94,7 +125,7 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 27 - Dec 22, 2025",
       "displayed_location": "Online",
-      "registrations_count": 1804,
+      "registrations_count": 1842,
       "prizeText": "$<span data-currency-value>120,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
