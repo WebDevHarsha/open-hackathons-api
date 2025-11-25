@@ -1,117 +1,129 @@
 {
-  "last_updated": "2025-11-24T00:59:48.478404Z",
+  "last_updated": "2025-11-25T00:55:18.181979Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "69239d9d5004821da3190797",
-      "id": 27037,
-      "url": "https://yelp-ai.devpost.com/",
-      "title": "Yelp AI API Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/939/597/datas/medium_square.png",
+      "_id": "6924ef20fe8ae4638fc15ce3",
+      "id": 27314,
+      "url": "https://mnee-eth.devpost.com/",
+      "title": "MNEE Hackathon: Programmable Money for Agents, Commerce, and Automated Finance",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/973/628/datas/medium_square.png",
       "featured": true,
-      "organization_name": "yelp",
+      "organization_name": "MNEE, LLC",
       "isOpen": "open",
-      "submission_period_dates": "Nov 10 - Dec 17, 2025",
+      "submission_period_dates": "Nov 17, 2025 - Jan 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 142,
-      "prizeText": "$<span data-currency-value>5,000</span>",
-      "time_left_to_submission": "24 days left",
+      "registrations_count": 183,
+      "prizeText": "$<span data-currency-value>50,000</span>",
+      "time_left_to_submission": "about 2 months left",
       "themes": [
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "start_a_submission_url": "https://yelp-ai.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69239d9f5004821da31907aa",
-      "id": 26833,
-      "url": "https://liquidmetal.devpost.com/",
-      "title": "The AI Champion Ship ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/832/297/datas/medium_square.gif",
-      "featured": true,
-      "organization_name": "LiquidMetalAI",
-      "isOpen": "open",
-      "submission_period_dates": "Oct 20 - Dec 08, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 2292,
-      "prizeText": "$<span data-currency-value>36,500</span>",
-      "time_left_to_submission": "14 days left",
-      "themes": [
+          "id": 1,
+          "name": "Blockchain"
+        },
         {
           "id": 6,
           "name": "Machine Learning/AI"
         },
         {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 4,
+          "name": "Gaming"
         }
       ],
-      "start_a_submission_url": "https://liquidmetal.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://mnee-eth.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69239d9f5004821da31907ac",
-      "id": 26828,
-      "url": "https://hackthetrack.devpost.com/",
-      "title": "Hack the Track presented by Toyota GR",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/810/498/datas/medium_square.png",
+      "_id": "6924ef22fe8ae4638fc15cee",
+      "id": 27287,
+      "url": "https://tableau2025.devpost.com/",
+      "title": "Tableau Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/972/211/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Toyota Gazoo Racing",
+      "organization_name": "Tableau",
       "isOpen": "open",
-      "submission_period_dates": "Oct 15 - Nov 24, 2025",
+      "submission_period_dates": "Nov 12, 2025 - Jan 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 2231,
-      "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "1 day left",
+      "registrations_count": 557,
+      "prizeText": "$<span data-currency-value>45,000</span>",
+      "time_left_to_submission": "about 2 months left",
       "themes": [
         {
           "id": 28,
           "name": "Databases"
         },
         {
-          "id": 7,
-          "name": "IoT"
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "start_a_submission_url": "https://hackthetrack.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://tableau2025.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69239d9f5004821da31907b1",
-      "id": 26711,
-      "url": "https://codegeistxawr.devpost.com/",
-      "title": "Codegeist 2025: Atlassian Williams Racing Edition",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/810/298/datas/medium_square.png",
+      "_id": "6924ef23fe8ae4638fc15cf6",
+      "id": 26926,
+      "url": "https://kiroween.devpost.com/",
+      "title": "Kiroween",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/879/417/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Atlassian",
+      "organization_name": "Kiro",
       "isOpen": "open",
-      "submission_period_dates": "Oct 27 - Dec 22, 2025",
+      "submission_period_dates": "Oct 31 - Dec 05, 2025",
       "displayed_location": "Online",
-      "registrations_count": 2023,
-      "prizeText": "$<span data-currency-value>120,000</span>",
-      "time_left_to_submission": "29 days left",
+      "registrations_count": 2890,
+      "prizeText": "$<span data-currency-value>100,000</span>",
+      "time_left_to_submission": "11 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://kiroween.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6924ef24fe8ae4638fc15cfd",
+      "id": 26670,
+      "url": "https://ai-partner-catalyst.devpost.com/",
+      "title": "AI Partner Catalyst: Accelerate Innovation",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/873/594/datas/medium_square.jpg",
+      "featured": true,
+      "organization_name": "Google",
+      "isOpen": "open",
+      "submission_period_dates": "Nov 17 - Dec 31, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 1036,
+      "prizeText": "$<span data-currency-value>75,000</span>",
+      "time_left_to_submission": "about 1 month left",
       "themes": [
         {
           "id": 6,
           "name": "Machine Learning/AI"
         },
         {
-          "id": 21,
-          "name": "Enterprise"
+          "id": 28,
+          "name": "Databases"
         },
         {
-          "id": 11,
-          "name": "Productivity"
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "start_a_submission_url": "https://codegeistxawr.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://ai-partner-catalyst.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
