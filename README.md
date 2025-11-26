@@ -2,6 +2,19 @@
 
 A simple API that provides up-to-date information about open hackathons from various platforms.
 
+
+## Live API Index
+
+View all available JSON files directly from GitHub Pages:  
+👉 **https://webdevharsha.github.io/open-hackathons-api/**
+
+## Official API Documentation
+
+Interactive and developer-friendly API reference:  
+👉 **https://bump.sh/void/doc/open-hackathons-api/**
+
+This documentation includes endpoint schemas, field definitions, and response examples.
+
 ## 🔗 API Endpoints
 
 Access the latest hackathon data through multiple endpoints:
