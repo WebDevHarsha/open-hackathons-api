@@ -1,9 +1,55 @@
 {
-  "last_updated": "2025-12-13T00:55:39.449616Z",
-  "count": 98,
+  "last_updated": "2025-12-14T01:03:27.569026Z",
+  "count": 102,
   "hackathons": [
     {
-      "_id": "693caa2fa688fe4f1064de72",
+      "_id": "693dfb98d3c675b1a7f0d070",
+      "id": 27841,
+      "url": "https://hack-the-halls.devpost.com/",
+      "title": "Hack the Halls",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/088/770/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Google Developer Group Kutaisi",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 13 - 14, 2025",
+      "displayed_location": "Kutaisi International University",
+      "registrations_count": 25,
+      "prizeText": "$<span data-currency-value>1,405</span>",
+      "time_left_to_submission": "about 7 hours left",
+      "themes": [
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "start_a_submission_url": "https://hack-the-halls.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "693dfb98d3c675b1a7f0d071",
+      "id": 27745,
+      "url": "https://sicca-frostbyte.devpost.com/",
+      "title": "SICCA FROSTBYTE",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/065/883/datas/medium_square.jpeg",
+      "featured": false,
+      "organization_name": "higher institute of computer science ",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 13 - 14, 2025",
+      "displayed_location": "institut supérieur d'informatique kef",
+      "registrations_count": 1,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 16 hours left",
+      "themes": [
+        {
+          "id": 4,
+          "name": "Gaming"
+        }
+      ],
+      "start_a_submission_url": "https://sicca-frostbyte.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "693dfb98d3c675b1a7f0d073",
       "id": 27821,
       "url": "https://bitsxlamarato-2025.devpost.com/",
       "title": "bitsxlaMarató 2025",
@@ -13,9 +59,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 12 - 14, 2025",
       "displayed_location": " FIB",
-      "registrations_count": 18,
+      "registrations_count": 31,
       "prizeText": "€<span data-currency-value>500</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 12 hours left",
       "themes": [
         {
           "id": 23,
@@ -34,7 +80,38 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa30a688fe4f1064de83",
+      "_id": "693dfb98d3c675b1a7f0d075",
+      "id": 27812,
+      "url": "https://one-shot-one-app.devpost.com/",
+      "title": "Single Shot Hackathon by Berrry.app",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/084/875/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Berrry Computer",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 13, 2025",
+      "displayed_location": "Homebrew Club",
+      "registrations_count": 15,
+      "prizeText": "$<span data-currency-value>1,750</span>",
+      "time_left_to_submission": "about 4 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "start_a_submission_url": "https://one-shot-one-app.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "693dfb99d3c675b1a7f0d081",
       "id": 27748,
       "url": "https://ety.devpost.com/",
       "title": "ety.ai Moonshot Hackathon",
@@ -44,9 +121,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 06 - 22, 2025",
       "displayed_location": "ITD Ukraine",
-      "registrations_count": 22,
+      "registrations_count": 23,
       "prizeText": "$<span data-currency-value>750</span>",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "themes": [
         {
           "id": 1,
@@ -65,34 +142,7 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa31a688fe4f1064de8b",
-      "id": 27693,
-      "url": "https://code-collab.devpost.com/",
-      "title": "Code Collab",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 12 - 14, 2025",
-      "displayed_location": "Shankara Institute of Technology",
-      "registrations_count": 3,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "1 day left",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 2,
-          "name": "DevOps"
-        }
-      ],
-      "start_a_submission_url": "https://code-collab.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "693caa31a688fe4f1064de8c",
+      "_id": "693dfb9bd3c675b1a7f0d08a",
       "id": 27694,
       "url": "https://dev-meet.devpost.com/",
       "title": "Dev Meet",
@@ -104,7 +154,7 @@
       "displayed_location": "Arya College Of Engineering & IT",
       "registrations_count": 13,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 12 hours left",
       "themes": [
         {
           "id": 1,
@@ -123,7 +173,38 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa33a688fe4f1064de8d",
+      "_id": "693dfb9bd3c675b1a7f0d08b",
+      "id": 27696,
+      "url": "https://code-nova.devpost.com/",
+      "title": "Code Nova",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 13 - 16, 2025",
+      "displayed_location": "Amity University, Jaipur",
+      "registrations_count": 2,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "2 days left",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://code-nova.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "693dfb9bd3c675b1a7f0d08d",
       "id": 27699,
       "url": "https://hacker-s-meetup.devpost.com/",
       "title": "Hacker,s Meetup",
@@ -133,9 +214,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 12 - 15, 2025",
       "displayed_location": "JK Lakshmipat University,Jaipur",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 1,
@@ -154,7 +235,34 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa33a688fe4f1064de96",
+      "_id": "693dfb9bd3c675b1a7f0d08e",
+      "id": 27693,
+      "url": "https://code-collab.devpost.com/",
+      "title": "Code Collab",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 12 - 14, 2025",
+      "displayed_location": "Shankara Institute of Technology",
+      "registrations_count": 4,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 12 hours left",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        }
+      ],
+      "start_a_submission_url": "https://code-collab.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "693dfb9cd3c675b1a7f0d098",
       "id": 27412,
       "url": "https://orangegamejam.devpost.com/",
       "title": "The Orange Game Jam",
@@ -166,7 +274,7 @@
       "displayed_location": "UCF Downtown Campus",
       "registrations_count": 9,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 23,
@@ -185,7 +293,7 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa33a688fe4f1064de97",
+      "_id": "693dfb9cd3c675b1a7f0d099",
       "id": 27570,
       "url": "https://innerve-x.devpost.com/",
       "title": "Innerve X",
@@ -195,9 +303,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 20 - Dec 15, 2025",
       "displayed_location": "Army Institute Of Technology, Pune",
-      "registrations_count": 149,
+      "registrations_count": 159,
       "prizeText": "₹ <span data-currency-value>305,000</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 1,
@@ -216,7 +324,7 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa33a688fe4f1064de9a",
+      "_id": "693dfb9ed3c675b1a7f0d09d",
       "id": 27549,
       "url": "https://algosquest-2025.devpost.com/",
       "title": "AlgosQuest 2025",
@@ -226,9 +334,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 19 - Dec 15, 2025",
       "displayed_location": "Online/New delhi",
-      "registrations_count": 101,
+      "registrations_count": 107,
       "prizeText": "₹ <span data-currency-value>225,000</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 1,
@@ -247,7 +355,7 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa35a688fe4f1064de9f",
+      "_id": "693dfb9ed3c675b1a7f0d0a1",
       "id": 27529,
       "url": "https://brown-deep-learning-day-f25.devpost.com/",
       "title": "Deep Learning Day Fall 2025",
@@ -257,9 +365,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 16 - Dec 14, 2025",
       "displayed_location": "Sayles Hall",
-      "registrations_count": 129,
+      "registrations_count": 128,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 23,
@@ -278,62 +386,8 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa36a688fe4f1064deaa",
-      "id": 27214,
-      "url": "https://ese1110f25.devpost.com/",
-      "title": "ESE 1110 Fall 2025 (Deliwala)",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "featured": false,
-      "organization_name": "university of pennsylvania",
-      "isOpen": "open",
-      "submission_period_dates": "Oct 29 - Dec 15, 2025",
-      "displayed_location": "Moore building ",
-      "registrations_count": 75,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "3 days left",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "start_a_submission_url": "https://ese1110f25.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "693caa36a688fe4f1064deae",
-      "id": 26217,
-      "url": "https://griddb-iot-hackathon.devpost.com/",
-      "title": "GridDB Cloud IoT Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/868/403/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Toshiba India",
-      "isOpen": "open",
-      "submission_period_dates": "Oct 20 - Dec 21, 2025",
-      "displayed_location": "Hotel Davanam Sarovar Portico Suites",
-      "registrations_count": 222,
-      "prizeText": "$<span data-currency-value>5,000</span>",
-      "time_left_to_submission": "8 days left",
-      "themes": [
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        }
-      ],
-      "start_a_submission_url": "https://griddb-iot-hackathon.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "693caa36a688fe4f1064deb1",
-      "id": 84622,
+      "_id": "693dfb9ed3c675b1a7f0d0a3",
+      "id": 15328,
       "url": "https://events.mlh.io/events/12943",
       "title": "Global Hack Week: AI/ML",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/480/thumb/hero.jpg?1758624453",
@@ -344,7 +398,7 @@
       "displayed_location": "Everywhere, Online",
       "registrations_count": null,
       "prizeText": null,
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "themes": [],
       "start_a_submission_url": "https://events.mlh.io/events/12943",
       "source": "mlh",
@@ -354,8 +408,8 @@
       "mlh_end_date": "2025-12-18"
     },
     {
-      "_id": "693caa36a688fe4f1064deb2",
-      "id": 60492,
+      "_id": "693dfb9ed3c675b1a7f0d0a4",
+      "id": 95369,
       "url": "https://luma.com/MLHAIHackathonNYC",
       "title": "Hack with MLH and DigitalOcean: NYC",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/558/thumb/IG__option_2_color_3.jpg?1764738981",
@@ -366,7 +420,7 @@
       "displayed_location": "Brooklyn, New York",
       "registrations_count": null,
       "prizeText": null,
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "ends today",
       "themes": [],
       "start_a_submission_url": "https://luma.com/MLHAIHackathonNYC",
       "source": "mlh",
@@ -376,8 +430,8 @@
       "mlh_end_date": "2025-12-13"
     },
     {
-      "_id": "693caa36a688fe4f1064deb3",
-      "id": 10181,
+      "_id": "693dfb9ed3c675b1a7f0d0a5",
+      "id": 50887,
       "url": "https://pechacks.org/",
       "title": "PEC Hacks 3.0",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/494/thumb/MLH_EVENT_SPLASH.png?1761732324",
@@ -398,8 +452,8 @@
       "mlh_end_date": "2025-12-28"
     },
     {
-      "_id": "693caa36a688fe4f1064deb4",
-      "id": 98692,
+      "_id": "693dfb9ed3c675b1a7f0d0a6",
+      "id": 70737,
       "url": "https://events.mlh.io/events/13143",
       "title": "Hacks for Hackers",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/484/thumb/social-instagram.jpg?1761566447",
@@ -420,8 +474,8 @@
       "mlh_end_date": "2026-01-04"
     },
     {
-      "_id": "693caa36a688fe4f1064deb5",
-      "id": 58232,
+      "_id": "693dfb9ed3c675b1a7f0d0a7",
+      "id": 19473,
       "url": "https://events.mlh.io/events/13277",
       "title": "Global Hack Week: Beginners",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/485/thumb/IG.jpg?1760525764",
@@ -442,8 +496,8 @@
       "mlh_end_date": "2026-01-15"
     },
     {
-      "_id": "693caa36a688fe4f1064deb6",
-      "id": 95541,
+      "_id": "693dfb9ed3c675b1a7f0d0a8",
+      "id": 57387,
       "url": "https://www.shehacks.ca/",
       "title": "SheHacks+ 10",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/538/thumb/Screenshot_2025-10-15_163246.png?1764013760",
@@ -454,7 +508,7 @@
       "displayed_location": "London, Ontario",
       "registrations_count": null,
       "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
+      "time_left_to_submission": "about 4 weeks left",
       "themes": [],
       "start_a_submission_url": "https://www.shehacks.ca/",
       "source": "mlh",
@@ -464,8 +518,8 @@
       "mlh_end_date": "2026-01-11"
     },
     {
-      "_id": "693caa36a688fe4f1064deb7",
-      "id": 82254,
+      "_id": "693dfb9ed3c675b1a7f0d0a9",
+      "id": 64311,
       "url": "https://www.deltahacks.com/",
       "title": "DeltaHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/355/thumb/Copy_of_Backsplash.png?1750432939",
@@ -476,7 +530,7 @@
       "displayed_location": "Hamilton, Ontario",
       "registrations_count": null,
       "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
+      "time_left_to_submission": "about 4 weeks left",
       "themes": [],
       "start_a_submission_url": "https://www.deltahacks.com/",
       "source": "mlh",
@@ -486,8 +540,8 @@
       "mlh_end_date": "2026-01-11"
     },
     {
-      "_id": "693caa36a688fe4f1064deb8",
-      "id": 69965,
+      "_id": "693dfb9ed3c675b1a7f0d0aa",
+      "id": 28469,
       "url": "https://sbhacks.com/",
       "title": "SB Hacks XII",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/542/thumb/sbhacks_xii_MLH_Banner_300x300.png?1765210372",
@@ -498,7 +552,7 @@
       "displayed_location": "Isla Vista, California",
       "registrations_count": null,
       "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
+      "time_left_to_submission": "about 4 weeks left",
       "themes": [],
       "start_a_submission_url": "https://sbhacks.com/",
       "source": "mlh",
@@ -508,8 +562,8 @@
       "mlh_end_date": "2026-01-11"
     },
     {
-      "_id": "693caa36a688fe4f1064deb9",
-      "id": 64387,
+      "_id": "693dfb9ed3c675b1a7f0d0ab",
+      "id": 79170,
       "url": "https://cruzhacks.com/",
       "title": "CruzHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/549/thumb/CruzHacks_Splash__3_.png?1764017283",
@@ -530,8 +584,8 @@
       "mlh_end_date": "2026-01-18"
     },
     {
-      "_id": "693caa36a688fe4f1064deba",
-      "id": 39723,
+      "_id": "693dfb9ed3c675b1a7f0d0ac",
+      "id": 65116,
       "url": "https://uofthacks.com/",
       "title": "UofTHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/498/thumb/Screenshot_2025-11-26_at_9.36.14%E2%80%AFAM.png?1764167974",
@@ -552,8 +606,8 @@
       "mlh_end_date": "2026-01-18"
     },
     {
-      "_id": "693caa36a688fe4f1064debb",
-      "id": 23895,
+      "_id": "693dfb9ed3c675b1a7f0d0ad",
+      "id": 349,
       "url": "https://www.uottahack.ca/",
       "title": "uOttaHack 8",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/541/thumb/MLH_thumbnail.png?1764096423",
@@ -574,8 +628,8 @@
       "mlh_end_date": "2026-01-18"
     },
     {
-      "_id": "693caa36a688fe4f1064debc",
-      "id": 1667,
+      "_id": "693dfb9ed3c675b1a7f0d0ae",
+      "id": 78322,
       "url": "https://hackbi.org/",
       "title": "Hack BI",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/377/thumb/IMG_1718_%281%29.JPG?1751977469",
@@ -596,8 +650,8 @@
       "mlh_end_date": "2026-01-18"
     },
     {
-      "_id": "693caa36a688fe4f1064debd",
-      "id": 15422,
+      "_id": "693dfb9ed3c675b1a7f0d0af",
+      "id": 87514,
       "url": "https://hackville.io/",
       "title": "Hackville",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/548/thumb/Event_Backsplash.png?1764016091",
@@ -618,8 +672,8 @@
       "mlh_end_date": "2026-01-18"
     },
     {
-      "_id": "693caa36a688fe4f1064debe",
-      "id": 91860,
+      "_id": "693dfb9ed3c675b1a7f0d0b0",
+      "id": 65003,
       "url": "https://mchacks.ca/",
       "title": "McHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/364/thumb/mchacks-backsplash.png?1753700512",
@@ -640,8 +694,8 @@
       "mlh_end_date": "2026-01-18"
     },
     {
-      "_id": "693caa36a688fe4f1064debf",
-      "id": 63491,
+      "_id": "693dfb9ed3c675b1a7f0d0b1",
+      "id": 37384,
       "url": "https://nexhacks.com",
       "title": "NexHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/564/thumb/nexhacksbackground.png?1765469924",
@@ -662,8 +716,8 @@
       "mlh_end_date": "2026-01-18"
     },
     {
-      "_id": "693caa36a688fe4f1064dec0",
-      "id": 54902,
+      "_id": "693dfb9ed3c675b1a7f0d0b2",
+      "id": 29303,
       "url": "https://nwhacks.io/",
       "title": "nwHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/374/thumb/backsplash_updated.png?1763581410",
@@ -684,8 +738,8 @@
       "mlh_end_date": "2026-01-18"
     },
     {
-      "_id": "693caa36a688fe4f1064dec1",
-      "id": 4493,
+      "_id": "693dfb9ed3c675b1a7f0d0b3",
+      "id": 49936,
       "url": "https://hoyahacks.georgetown.domains/",
       "title": "Hoya Hacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/351/thumb/Screen_Shot_2025-06-18_at_10.49.45_AM.png?1750258394",
@@ -706,8 +760,8 @@
       "mlh_end_date": "2026-01-25"
     },
     {
-      "_id": "693caa36a688fe4f1064dec2",
-      "id": 249,
+      "_id": "693dfb9ed3c675b1a7f0d0b4",
+      "id": 73590,
       "url": "https://datathon.rice.edu/",
       "title": "Rice Datathon",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/536/thumb/Datathon_Logo_300px__300px.png?1763585499",
@@ -728,8 +782,8 @@
       "mlh_end_date": "2026-01-25"
     },
     {
-      "_id": "693caa36a688fe4f1064dec3",
-      "id": 25653,
+      "_id": "693dfb9ed3c675b1a7f0d0b5",
+      "id": 62494,
       "url": "https://xi.swamphacks.com/",
       "title": "SwampHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/497/thumb/mlh_large_center.png?1762203516",
@@ -750,8 +804,8 @@
       "mlh_end_date": "2026-01-25"
     },
     {
-      "_id": "693caa36a688fe4f1064dec4",
-      "id": 13508,
+      "_id": "693dfb9ed3c675b1a7f0d0b6",
+      "id": 93297,
       "url": "https://www.conuhacks.io/",
       "title": "ConUHacks X",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/388/thumb/Hack_Concordia_%2812%29.png?1765487309",
@@ -772,8 +826,8 @@
       "mlh_end_date": "2026-01-25"
     },
     {
-      "_id": "693caa36a688fe4f1064dec5",
-      "id": 20610,
+      "_id": "693dfb9ed3c675b1a7f0d0b7",
+      "id": 61107,
       "url": "https://th26.tamuhack.org",
       "title": "TAMUhack",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/545/thumb/TH26_Backsplash.png?1764603683",
@@ -794,8 +848,8 @@
       "mlh_end_date": "2026-01-25"
     },
     {
-      "_id": "693caa36a688fe4f1064dec6",
-      "id": 98491,
+      "_id": "693dfb9ed3c675b1a7f0d0b8",
+      "id": 55409,
       "url": "https://ellehacks.com/",
       "title": "ElleHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/380/thumb/Event_Backsplash_-_300x300px_-_ElleHacks.png?1751285094",
@@ -816,8 +870,8 @@
       "mlh_end_date": "2026-02-01"
     },
     {
-      "_id": "693caa36a688fe4f1064dec7",
-      "id": 39743,
+      "_id": "693dfb9ed3c675b1a7f0d0b9",
+      "id": 59582,
       "url": "https://www.innerve.tech/",
       "title": "Innerve",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/562/thumb/innerve_banner.png?1765199563",
@@ -838,8 +892,8 @@
       "mlh_end_date": "2026-01-31"
     },
     {
-      "_id": "693caa36a688fe4f1064dec8",
-      "id": 26313,
+      "_id": "693dfb9ed3c675b1a7f0d0ba",
+      "id": 39414,
       "url": "https://hackatbrown.org/",
       "title": "Hack@Brown",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/553/thumb/h_b_2026.png?1764082671",
@@ -860,8 +914,8 @@
       "mlh_end_date": "2026-02-01"
     },
     {
-      "_id": "693caa36a688fe4f1064dec9",
-      "id": 55848,
+      "_id": "693dfb9ed3c675b1a7f0d0bb",
+      "id": 69314,
       "url": "https://main--hackviolet.netlify.app/",
       "title": "HackViolet",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/346/thumb/Hackviolet_MLH_backsplash__2x.png?1750765877",
@@ -882,8 +936,8 @@
       "mlh_end_date": "2026-02-01"
     },
     {
-      "_id": "693caa36a688fe4f1064deca",
-      "id": 1380,
+      "_id": "693dfb9ed3c675b1a7f0d0bc",
+      "id": 75354,
       "url": "https://hackathon.utra.ca/",
       "title": "UTRA Hacks 2026",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/400/thumb/image_%289%29.png?1751900629",
@@ -904,8 +958,8 @@
       "mlh_end_date": "2026-02-01"
     },
     {
-      "_id": "693caa36a688fe4f1064decb",
-      "id": 74836,
+      "_id": "693dfb9ed3c675b1a7f0d0bd",
+      "id": 69453,
       "url": "https://mac-a-thon.gdscmcmasteru.ca/",
       "title": "Mac-a-Thon",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/563/thumb/300x300__1_.png?1765469249",
@@ -926,8 +980,8 @@
       "mlh_end_date": "2026-02-08"
     },
     {
-      "_id": "693caa36a688fe4f1064decc",
-      "id": 31607,
+      "_id": "693dfb9ed3c675b1a7f0d0be",
+      "id": 70940,
       "url": "https://qhacks.io/",
       "title": "QHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/369/thumb/Screen_Shot_2025-06-25_at_3.40.50_PM.png?1750880873",
@@ -948,8 +1002,8 @@
       "mlh_end_date": "2026-02-08"
     },
     {
-      "_id": "693caa36a688fe4f1064decd",
-      "id": 34497,
+      "_id": "693dfb9ed3c675b1a7f0d0bf",
+      "id": 36141,
       "url": "https://11.ugahacks.com",
       "title": "UGAHacks 11",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/471/thumb/Event_Backsplash.png?1758137736",
@@ -970,8 +1024,8 @@
       "mlh_end_date": "2026-02-08"
     },
     {
-      "_id": "693caa36a688fe4f1064dece",
-      "id": 40100,
+      "_id": "693dfb9ed3c675b1a7f0d0c0",
+      "id": 47039,
       "url": "https://26-devfest.netlify.app/",
       "title": "DevFest",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/359/thumb/Backsplash_%281%29.png?1750447421",
@@ -992,8 +1046,8 @@
       "mlh_end_date": "2026-02-08"
     },
     {
-      "_id": "693caa36a688fe4f1064decf",
-      "id": 44964,
+      "_id": "693dfb9ed3c675b1a7f0d0c1",
+      "id": 21829,
       "url": "https://innovateherhacks.org/",
       "title": "InnovateHer",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/560/thumb/Backsplash.png?1764786838",
@@ -1014,8 +1068,8 @@
       "mlh_end_date": "2026-02-08"
     },
     {
-      "_id": "693caa36a688fe4f1064ded0",
-      "id": 80405,
+      "_id": "693dfb9ed3c675b1a7f0d0c2",
+      "id": 99406,
       "url": "https://www.qwerhacks.com/",
       "title": "QWER Hacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/363/thumb/Screen_Shot_2025-06-24_at_7.27.06_AM.png?1750764595",
@@ -1036,8 +1090,8 @@
       "mlh_end_date": "2026-02-08"
     },
     {
-      "_id": "693caa36a688fe4f1064ded1",
-      "id": 44597,
+      "_id": "693dfb9ed3c675b1a7f0d0c3",
+      "id": 61781,
       "url": "https://events.mlh.io/events/13382",
       "title": "Global Hack Week: Data",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/533/thumb/hero.jpg?1763119787",
@@ -1058,8 +1112,8 @@
       "mlh_end_date": "2026-02-19"
     },
     {
-      "_id": "693caa36a688fe4f1064ded2",
-      "id": 31495,
+      "_id": "693dfb9ed3c675b1a7f0d0c4",
+      "id": 74704,
       "url": "https://sfhacks.io",
       "title": "SFHacks 2026",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/381/thumb/MLH_Banner__%281%29.png?1751462433",
@@ -1080,8 +1134,8 @@
       "mlh_end_date": "2026-02-15"
     },
     {
-      "_id": "693caa36a688fe4f1064ded3",
-      "id": 56289,
+      "_id": "693dfb9ed3c675b1a7f0d0c5",
+      "id": 27405,
       "url": "https://hackncstate.org/",
       "title": "Hack_NCState",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/354/thumb/Hack_NCState_Logo_300x300.png?1750424780",
@@ -1102,8 +1156,8 @@
       "mlh_end_date": "2026-02-15"
     },
     {
-      "_id": "693caa36a688fe4f1064ded4",
-      "id": 29154,
+      "_id": "693dfb9ed3c675b1a7f0d0c6",
+      "id": 32637,
       "url": "https://hacklytics.io/",
       "title": "Hacklytics",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/379/thumb/backsplash_%282%29.png?1751034157",
@@ -1124,8 +1178,8 @@
       "mlh_end_date": "2026-02-22"
     },
     {
-      "_id": "693caa36a688fe4f1064ded5",
-      "id": 29410,
+      "_id": "693dfb9ed3c675b1a7f0d0c7",
+      "id": 41278,
       "url": "https://wsu-acm.github.io/crimsoncode/",
       "title": "CrimsonCode Hackathon",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/532/thumb/cch_mlh_300x300.png?1762379457",
@@ -1146,8 +1200,8 @@
       "mlh_end_date": "2026-02-22"
     },
     {
-      "_id": "693caa36a688fe4f1064ded6",
-      "id": 69036,
+      "_id": "693dfb9ed3c675b1a7f0d0c8",
+      "id": 62288,
       "url": "https://ruhackhers.org",
       "title": "HackHERS",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/356/thumb/Backsplash_%285%29.png?1750441264",
@@ -1168,8 +1222,8 @@
       "mlh_end_date": "2026-02-22"
     },
     {
-      "_id": "693caa36a688fe4f1064ded7",
-      "id": 15336,
+      "_id": "693dfb9ed3c675b1a7f0d0c9",
+      "id": 74006,
       "url": "https://hackaturi.com/",
       "title": "Hack@URI ",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/496/thumb/hackaturieventbanner.png?1761943952",
@@ -1190,8 +1244,8 @@
       "mlh_end_date": "2026-02-22"
     },
     {
-      "_id": "693caa36a688fe4f1064ded8",
-      "id": 53412,
+      "_id": "693dfb9ed3c675b1a7f0d0ca",
+      "id": 49051,
       "url": "https://pearlhacks.com/",
       "title": "Pearl Hacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/395/thumb/Pearl_Hacks_Backsplash.png?1751895453",
@@ -1212,8 +1266,8 @@
       "mlh_end_date": "2026-02-22"
     },
     {
-      "_id": "693caa36a688fe4f1064ded9",
-      "id": 4353,
+      "_id": "693dfb9ed3c675b1a7f0d0cb",
+      "id": 19686,
       "url": "https://www.henhackshackathon.com/",
       "title": "HenHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/365/thumb/backlash_%281%29.png?1750776953",
@@ -1234,8 +1288,8 @@
       "mlh_end_date": "2026-03-01"
     },
     {
-      "_id": "693caa36a688fe4f1064deda",
-      "id": 61376,
+      "_id": "693dfb9ed3c675b1a7f0d0cc",
+      "id": 32689,
       "url": "https://wichacks.io",
       "title": "WiCHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/382/thumb/wichacks2026_backsplash_mlh.png?1751463035",
@@ -1256,8 +1310,8 @@
       "mlh_end_date": "2026-03-01"
     },
     {
-      "_id": "693caa36a688fe4f1064dedb",
-      "id": 46337,
+      "_id": "693dfb9ed3c675b1a7f0d0cd",
+      "id": 21474,
       "url": "https://cmd-f.nwplus.io/",
       "title": "cmd-f 2026",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/367/thumb/Backsplash_cmd-f.png?1750787919",
@@ -1278,8 +1332,8 @@
       "mlh_end_date": "2026-03-08"
     },
     {
-      "_id": "693caa36a688fe4f1064dedc",
-      "id": 41146,
+      "_id": "693dfb9ed3c675b1a7f0d0ce",
+      "id": 96334,
       "url": "https://www.rockethacks.org/",
       "title": "Rockethacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/571/thumb/Backsplash_RH_2026.jpg?1765561136",
@@ -1300,8 +1354,8 @@
       "mlh_end_date": "2026-03-15"
     },
     {
-      "_id": "693caa36a688fe4f1064dedd",
-      "id": 39266,
+      "_id": "693dfb9ed3c675b1a7f0d0cf",
+      "id": 73940,
       "url": "https://khe.io/",
       "title": "Kent Hack Enough",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/385/thumb/300xBackground.png?1751488138",
@@ -1322,8 +1376,8 @@
       "mlh_end_date": "2026-03-29"
     },
     {
-      "_id": "693caa36a688fe4f1064dede",
-      "id": 89170,
+      "_id": "693dfb9ed3c675b1a7f0d0d0",
+      "id": 67500,
       "url": "https://revolutionuc.com/",
       "title": "RevolutionUC",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/396/thumb/Unknown.png?1751895644",
@@ -1344,8 +1398,8 @@
       "mlh_end_date": "2026-03-29"
     },
     {
-      "_id": "693caa36a688fe4f1064dedf",
-      "id": 82094,
+      "_id": "693dfb9ed3c675b1a7f0d0d1",
+      "id": 51707,
       "url": "https://www.hackbyte.in/",
       "title": "HackByte 4.0",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/312/thumb/hb4_topaligned_sqr.png?1748952558",
@@ -1366,8 +1420,8 @@
       "mlh_end_date": "2026-04-05"
     },
     {
-      "_id": "693caa36a688fe4f1064dee0",
-      "id": 97928,
+      "_id": "693dfb9ed3c675b1a7f0d0d2",
+      "id": 39755,
       "url": "https://diamondhacks.acmucsd.com/",
       "title": "DiamondHacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/348/thumb/Screen_Shot_2025-06-16_at_12.17.23_PM.png?1750090760",
@@ -1388,8 +1442,8 @@
       "mlh_end_date": "2026-04-05"
     },
     {
-      "_id": "693caa36a688fe4f1064dee1",
-      "id": 73183,
+      "_id": "693dfb9ed3c675b1a7f0d0d3",
+      "id": 88457,
       "url": "https://bit.camp/",
       "title": "Bitcamp",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/383/thumb/Bitcamp_Logo.png?1751463705",
@@ -1410,8 +1464,8 @@
       "mlh_end_date": "2026-04-12"
     },
     {
-      "_id": "693caa36a688fe4f1064dee2",
-      "id": 93069,
+      "_id": "693dfb9ed3c675b1a7f0d0d4",
+      "id": 29071,
       "url": "https://www.wehackutd.com",
       "title": "WEHack",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/360/thumb/logo__7_.png?1750453101",
@@ -1432,8 +1486,8 @@
       "mlh_end_date": "2026-04-12"
     },
     {
-      "_id": "693caa36a688fe4f1064dee3",
-      "id": 48715,
+      "_id": "693dfb9ed3c675b1a7f0d0d5",
+      "id": 47458,
       "url": "https://lahacks.com/",
       "title": "LA Hacks",
       "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/537/thumb/backsplash.png?1764010034",
@@ -1454,7 +1508,61 @@
       "mlh_end_date": "2026-04-26"
     },
     {
-      "_id": "693caa37a688fe4f1064dee7",
+      "_id": "693dfba1d3c675b1a7f0d0df",
+      "id": 27214,
+      "url": "https://ese1110f25.devpost.com/",
+      "title": "ESE 1110 Fall 2025 (Deliwala)",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "featured": false,
+      "organization_name": "university of pennsylvania",
+      "isOpen": "open",
+      "submission_period_dates": "Oct 29 - Dec 15, 2025",
+      "displayed_location": "Moore building ",
+      "registrations_count": 75,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "2 days left",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "start_a_submission_url": "https://ese1110f25.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "693dfba1d3c675b1a7f0d0e3",
+      "id": 26217,
+      "url": "https://griddb-iot-hackathon.devpost.com/",
+      "title": "GridDB Cloud IoT Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/868/403/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Toshiba India",
+      "isOpen": "open",
+      "submission_period_dates": "Oct 20 - Dec 21, 2025",
+      "displayed_location": "Hotel Davanam Sarovar Portico Suites",
+      "registrations_count": 226,
+      "prizeText": "$<span data-currency-value>5,000</span>",
+      "time_left_to_submission": "7 days left",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        }
+      ],
+      "start_a_submission_url": "https://griddb-iot-hackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "693dfba1d3c675b1a7f0d0e8",
       "id": 26914,
       "url": "https://pytorch-dendritic-optimization.devpost.com/",
       "title": "PyTorch Dendritic Optimization Hackathon",
@@ -1464,9 +1572,9 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 24, 2025 - Jan 05, 2026",
       "displayed_location": "Fronteir Tower",
-      "registrations_count": 108,
+      "registrations_count": 110,
       "prizeText": "$<span data-currency-value>18,500</span>",
-      "time_left_to_submission": "24 days left",
+      "time_left_to_submission": "23 days left",
       "themes": [
         {
           "id": 7,
@@ -1481,7 +1589,7 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa37a688fe4f1064dee9",
+      "_id": "693dfba1d3c675b1a7f0d0ea",
       "id": 26694,
       "url": "https://ese4500f25.devpost.com/",
       "title": "2025-2026 Fall ESE Senior Design",
@@ -1493,7 +1601,7 @@
       "displayed_location": "Philadelphia, PA, USA",
       "registrations_count": 94,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "themes": [
         {
           "id": 5,
@@ -1512,7 +1620,7 @@
       "source": "devpost"
     },
     {
-      "_id": "693caa3ca688fe4f1064deef",
+      "_id": "693dfba7d3c675b1a7f0d0f0",
       "id": "ethindia-villa",
       "url": "https://ethindia-villa.devfolio.co/",
       "title": "ETHIndiaVilla",
@@ -1531,7 +1639,7 @@
       "devfolio_slug": "ethindia-villa"
     },
     {
-      "_id": "693caa3ca688fe4f1064def0",
+      "_id": "693dfba7d3c675b1a7f0d0f1",
       "id": "haulout",
       "url": "https://haulout.devfolio.co/",
       "title": "Haulout",
@@ -1550,7 +1658,7 @@
       "devfolio_slug": "haulout"
     },
     {
-      "_id": "693caa3ca688fe4f1064def1",
+      "_id": "693dfba7d3c675b1a7f0d0f2",
       "id": "ethdenver2026",
       "url": "https://ethdenver2026.devfolio.co/",
       "title": "ETHDenver 2026",
@@ -1569,7 +1677,7 @@
       "devfolio_slug": "ethdenver2026"
     },
     {
-      "_id": "693caa3ca688fe4f1064def2",
+      "_id": "693dfba7d3c675b1a7f0d0f3",
       "id": "ethindia-villa",
       "url": "https://ethindia-villa.devfolio.co/",
       "title": "ETHIndiaVilla",
@@ -1588,7 +1696,7 @@
       "devfolio_slug": "ethindia-villa"
     },
     {
-      "_id": "693caa3ca688fe4f1064def3",
+      "_id": "693dfba7d3c675b1a7f0d0f4",
       "id": "haulout",
       "url": "https://haulout.devfolio.co/",
       "title": "Haulout",
@@ -1607,7 +1715,7 @@
       "devfolio_slug": "haulout"
     },
     {
-      "_id": "693caa3ca688fe4f1064def4",
+      "_id": "693dfba7d3c675b1a7f0d0f5",
       "id": "ethdenver2026",
       "url": "https://ethdenver2026.devfolio.co/",
       "title": "ETHDenver 2026",
@@ -1626,45 +1734,7 @@
       "devfolio_slug": "ethdenver2026"
     },
     {
-      "_id": "693caa3ca688fe4f1064def5",
-      "id": "devfolio-student-hackathon-grants",
-      "url": "https://devfolio-student-hackathon-grants.devfolio.co/",
-      "title": "Devfolio Student Hackathon Grants",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://devfolio-student-hackathon-grants.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "devfolio-student-hackathon-grants"
-    },
-    {
-      "_id": "693caa3ca688fe4f1064def6",
-      "id": "skill-climax-v10",
-      "url": "https://skill-climax-v10.devfolio.co/",
-      "title": "Skill Climax V1.0",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://skill-climax-v10.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "skill-climax-v10"
-    },
-    {
-      "_id": "693caa3ca688fe4f1064def7",
+      "_id": "693dfba7d3c675b1a7f0d0f6",
       "id": "innerve-x",
       "url": "https://innerve-x.devfolio.co/",
       "title": "Innerve X",
@@ -1683,7 +1753,26 @@
       "devfolio_slug": "innerve-x"
     },
     {
-      "_id": "693caa3ca688fe4f1064def8",
+      "_id": "693dfba7d3c675b1a7f0d0f7",
+      "id": "skill-climax-v10",
+      "url": "https://skill-climax-v10.devfolio.co/",
+      "title": "Skill Climax V1.0",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://skill-climax-v10.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "skill-climax-v10"
+    },
+    {
+      "_id": "693dfba7d3c675b1a7f0d0f8",
       "id": "hackxios2k25",
       "url": "https://hackxios2k25.devfolio.co/",
       "title": "Hackxios 2K25",
@@ -1702,7 +1791,7 @@
       "devfolio_slug": "hackxios2k25"
     },
     {
-      "_id": "693caa3ca688fe4f1064def9",
+      "_id": "693dfba7d3c675b1a7f0d0f9",
       "id": "winter-of-code-5",
       "url": "https://winter-of-code-5.devfolio.co/",
       "title": "Winter of Code 5.0",
@@ -1721,7 +1810,7 @@
       "devfolio_slug": "winter-of-code-5"
     },
     {
-      "_id": "693caa3ca688fe4f1064defa",
+      "_id": "693dfba7d3c675b1a7f0d0fa",
       "id": "hack-space-1",
       "url": "https://hack-space-1.devfolio.co/",
       "title": "Hack Space 2025",
@@ -1740,7 +1829,7 @@
       "devfolio_slug": "hack-space-1"
     },
     {
-      "_id": "693caa3ca688fe4f1064defb",
+      "_id": "693dfba7d3c675b1a7f0d0fb",
       "id": "genai-hackathon-chandigarh-2025",
       "url": "https://genai-hackathon-chandigarh-2025.devfolio.co/",
       "title": "GenAI Hackathon - Chandigarh 2025",
@@ -1759,45 +1848,7 @@
       "devfolio_slug": "genai-hackathon-chandigarh-2025"
     },
     {
-      "_id": "693caa3ca688fe4f1064defc",
-      "id": "duhacks5",
-      "url": "https://duhacks5.devfolio.co/",
-      "title": "DUHacks 5.0",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://duhacks5.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "duhacks5"
-    },
-    {
-      "_id": "693caa3ca688fe4f1064defd",
-      "id": "defy-26",
-      "url": "https://defy-26.devfolio.co/",
-      "title": "DeFy'26",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://defy-26.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "defy-26"
-    },
-    {
-      "_id": "693caa3ca688fe4f1064defe",
+      "_id": "693dfba7d3c675b1a7f0d0fc",
       "id": "winterspark",
       "url": "https://winterspark.devfolio.co/",
       "title": "WinterSpark",
@@ -1816,7 +1867,45 @@
       "devfolio_slug": "winterspark"
     },
     {
-      "_id": "693caa3ca688fe4f1064deff",
+      "_id": "693dfba7d3c675b1a7f0d0fd",
+      "id": "duhacks5",
+      "url": "https://duhacks5.devfolio.co/",
+      "title": "DUHacks 5.0",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://duhacks5.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "duhacks5"
+    },
+    {
+      "_id": "693dfba7d3c675b1a7f0d0fe",
+      "id": "defy-26",
+      "url": "https://defy-26.devfolio.co/",
+      "title": "DeFy'26",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://defy-26.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "defy-26"
+    },
+    {
+      "_id": "693dfba7d3c675b1a7f0d0ff",
       "id": "codequest-2025",
       "url": "https://codequest-2025.devfolio.co/",
       "title": "CodeQuest 2025",
@@ -1835,26 +1924,7 @@
       "devfolio_slug": "codequest-2025"
     },
     {
-      "_id": "693caa3ca688fe4f1064df00",
-      "id": "brainwave2",
-      "url": "https://brainwave2.devfolio.co/",
-      "title": "brAInwave 2.0",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://brainwave2.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "brainwave2"
-    },
-    {
-      "_id": "693caa3ca688fe4f1064df01",
+      "_id": "693dfba7d3c675b1a7f0d100",
       "id": "hacknitr7",
       "url": "https://hacknitr7.devfolio.co/",
       "title": "HackNITR 7.0",
@@ -1873,7 +1943,26 @@
       "devfolio_slug": "hacknitr7"
     },
     {
-      "_id": "693caa3ca688fe4f1064df02",
+      "_id": "693dfba7d3c675b1a7f0d101",
+      "id": "brainwave2",
+      "url": "https://brainwave2.devfolio.co/",
+      "title": "brAInwave 2.0",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://brainwave2.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "brainwave2"
+    },
+    {
+      "_id": "693dfba7d3c675b1a7f0d102",
       "id": "hacksprint2",
       "url": "https://hacksprint2.devfolio.co/",
       "title": "Hacksprint 2.0",
@@ -1892,7 +1981,7 @@
       "devfolio_slug": "hacksprint2"
     },
     {
-      "_id": "693caa3ca688fe4f1064df03",
+      "_id": "693dfba7d3c675b1a7f0d103",
       "id": "code-kalari",
       "url": "https://code-kalari.devfolio.co/",
       "title": "Code Kalari",
@@ -1911,7 +2000,7 @@
       "devfolio_slug": "code-kalari"
     },
     {
-      "_id": "693caa3ca688fe4f1064df04",
+      "_id": "693dfba7d3c675b1a7f0d104",
       "id": "hack-technique2026",
       "url": "https://hack-technique2026.devfolio.co/",
       "title": "Hack Technique 2026",
@@ -1930,7 +2019,7 @@
       "devfolio_slug": "hack-technique2026"
     },
     {
-      "_id": "693caa3ca688fe4f1064df05",
+      "_id": "693dfba7d3c675b1a7f0d105",
       "id": "ethdenver2026",
       "url": "https://ethdenver2026.devfolio.co/",
       "title": "ETHDenver 2026",
@@ -1949,26 +2038,7 @@
       "devfolio_slug": "ethdenver2026"
     },
     {
-      "_id": "693caa3ca688fe4f1064df06",
-      "id": "hack-nocturne-2",
-      "url": "https://hack-nocturne-2.devfolio.co/",
-      "title": "Hack-Nocturne 2.O",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://hack-nocturne-2.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "hack-nocturne-2"
-    },
-    {
-      "_id": "693caa3ca688fe4f1064df07",
+      "_id": "693dfba7d3c675b1a7f0d106",
       "id": "hackfiesta",
       "url": "https://hackfiesta.devfolio.co/",
       "title": "HackFiesta",
@@ -1987,7 +2057,26 @@
       "devfolio_slug": "hackfiesta"
     },
     {
-      "_id": "693caa3ca688fe4f1064df08",
+      "_id": "693dfba7d3c675b1a7f0d107",
+      "id": "hack-nocturne-2",
+      "url": "https://hack-nocturne-2.devfolio.co/",
+      "title": "Hack-Nocturne 2.O",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://hack-nocturne-2.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "hack-nocturne-2"
+    },
+    {
+      "_id": "693dfba7d3c675b1a7f0d108",
       "id": "build-and-connect-jharkhand",
       "url": "https://build-and-connect-jharkhand.devfolio.co/",
       "title": "Build & Connect Jharkhand",
@@ -2006,7 +2095,26 @@
       "devfolio_slug": "build-and-connect-jharkhand"
     },
     {
-      "_id": "693caa3ca688fe4f1064df09",
+      "_id": "693dfba7d3c675b1a7f0d109",
+      "id": "beachhack-season-7",
+      "url": "https://beachhack-season-7.devfolio.co/",
+      "title": "BeachHack Season 7",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://beachhack-season-7.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "beachhack-season-7"
+    },
+    {
+      "_id": "693dfba7d3c675b1a7f0d10a",
       "id": "devshouse26",
       "url": "https://devshouse26.devfolio.co/",
       "title": "DevsHouse '26",
@@ -2025,7 +2133,7 @@
       "devfolio_slug": "devshouse26"
     },
     {
-      "_id": "693caa3ca688fe4f1064df0a",
+      "_id": "693dfba7d3c675b1a7f0d10b",
       "id": "ethmumbai2026",
       "url": "https://ethmumbai2026.devfolio.co/",
       "title": "ETHMumbai 2026",
@@ -2044,7 +2152,7 @@
       "devfolio_slug": "ethmumbai2026"
     },
     {
-      "_id": "693caa3ca688fe4f1064df0b",
+      "_id": "693dfba7d3c675b1a7f0d10c",
       "id": "diversion2k26",
       "url": "https://diversion2k26.devfolio.co/",
       "title": "Diversion 2K26",
@@ -2063,10 +2171,10 @@
       "devfolio_slug": "diversion2k26"
     },
     {
-      "_id": "693caa3ca688fe4f1064df0c",
-      "id": "hacknwin-3",
-      "url": "https://hacknwin-3.devfolio.co/",
-      "title": "Hack-N-Win 3.0",
+      "_id": "693dfba7d3c675b1a7f0d10d",
+      "id": "cloudcraft-hackathon",
+      "url": "https://cloudcraft-hackathon.devfolio.co/",
+      "title": "CloudCraft Hackathon",
       "thumbnail_url": null,
       "featured": false,
       "organization_name": "Devfolio",
@@ -2077,12 +2185,12 @@
       "prizeText": null,
       "time_left_to_submission": null,
       "themes": [],
-      "start_a_submission_url": "https://hacknwin-3.devfolio.co/",
+      "start_a_submission_url": "https://cloudcraft-hackathon.devfolio.co/",
       "source": "devfolio",
-      "devfolio_slug": "hacknwin-3"
+      "devfolio_slug": "cloudcraft-hackathon"
     },
     {
-      "_id": "693caa3ca688fe4f1064df0d",
+      "_id": "693dfba7d3c675b1a7f0d10e",
       "id": "glytch",
       "url": "https://glytch.devfolio.co/",
       "title": "𝙂𝙇𝙔𝙏𝘾𝙃",
@@ -2101,7 +2209,7 @@
       "devfolio_slug": "glytch"
     },
     {
-      "_id": "693caa3ca688fe4f1064df0e",
+      "_id": "693dfba7d3c675b1a7f0d10f",
       "id": "mahiber-connect-hackathon",
       "url": "https://mahiber-connect-hackathon.devfolio.co/",
       "title": "Mahiber Connect Hackathon",
@@ -2120,7 +2228,7 @@
       "devfolio_slug": "mahiber-connect-hackathon"
     },
     {
-      "_id": "693caa3ca688fe4f1064df0f",
+      "_id": "693dfba7d3c675b1a7f0d110",
       "id": "technocrats-hackathon",
       "url": "https://technocrats-hackathon.devfolio.co/",
       "title": "Technocrats Hackathon",
@@ -2139,7 +2247,7 @@
       "devfolio_slug": "technocrats-hackathon"
     },
     {
-      "_id": "693caa3ca688fe4f1064df10",
+      "_id": "693dfba7d3c675b1a7f0d111",
       "id": "emerge",
       "url": "https://emerge.devfolio.co/",
       "title": "Emerge",
