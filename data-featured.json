@@ -1,121 +1,160 @@
 {
-  "last_updated": "2025-12-15T01:01:26.277842Z",
-  "count": 4,
+  "last_updated": "2025-12-16T00:59:41.116597Z",
+  "count": 5,
   "hackathons": [
     {
-      "_id": "693f4d207fb05e4b4f13c0cd",
-      "id": 27438,
-      "url": "https://lmaedgehackathon.devpost.com/",
-      "title": "LMA EDGE Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/032/944/datas/medium_square.png",
+      "_id": "69409ebe2284cf0fae37ac36",
+      "id": 27474,
+      "url": "https://hex-a-thon.devpost.com/",
+      "title": "Hex-a-thon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/051/792/datas/medium_square.jpg",
       "featured": true,
-      "organization_name": "LMA",
+      "organization_name": "Hex",
       "isOpen": "open",
-      "submission_period_dates": "Dec 01, 2025 - Jan 14, 2026",
+      "submission_period_dates": "Dec 09, 2025 - Jan 22, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1053,
-      "prizeText": "$<span data-currency-value>25,000</span>",
+      "registrations_count": 188,
+      "prizeText": "$<span data-currency-value>10,000</span>",
       "time_left_to_submission": "about 1 month left",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "start_a_submission_url": "https://lmaedgehackathon.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "693f4d237fb05e4b4f13c0e8",
-      "id": 27287,
-      "url": "https://tableau2025.devpost.com/",
-      "title": "Tableau Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/972/211/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "Tableau",
-      "isOpen": "open",
-      "submission_period_dates": "Nov 12, 2025 - Jan 12, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 1308,
-      "prizeText": "$<span data-currency-value>45,000</span>",
-      "time_left_to_submission": "29 days left",
       "themes": [
         {
           "id": 28,
           "name": "Databases"
         },
         {
-          "id": 21,
-          "name": "Enterprise"
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://hex-a-thon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69409ebe2284cf0fae37ac39",
+      "id": 27748,
+      "url": "https://ety.devpost.com/",
+      "title": "ety.ai Moonshot Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/059/279/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "ety.ai",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 06 - 22, 2025",
+      "displayed_location": "ITD Ukraine",
+      "registrations_count": 26,
+      "prizeText": "$<span data-currency-value>750</span>",
+      "time_left_to_submission": "6 days left",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 19,
+          "name": "Education"
         },
         {
           "id": 6,
           "name": "Machine Learning/AI"
         }
       ],
-      "start_a_submission_url": "https://tableau2025.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://ety.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "693f4d237fb05e4b4f13c0e9",
-      "id": 27037,
-      "url": "https://yelp-ai.devpost.com/",
-      "title": "Yelp AI API Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/939/597/datas/medium_square.png",
+      "_id": "69409ec22284cf0fae37ac51",
+      "id": 27327,
+      "url": "https://baiduernieai.devpost.com/",
+      "title": "ERNIE AI Developer Challenge",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/980/532/datas/medium_square.png",
       "featured": true,
-      "organization_name": "yelp",
+      "organization_name": "Baidu",
       "isOpen": "open",
-      "submission_period_dates": "Nov 10 - Dec 17, 2025",
+      "submission_period_dates": "Nov 18 - Dec 23, 2025",
       "displayed_location": "Online",
-      "registrations_count": 285,
-      "prizeText": "$<span data-currency-value>5,000</span>",
-      "time_left_to_submission": "3 days left",
+      "registrations_count": 950,
+      "prizeText": "$<span data-currency-value>10,000</span>",
+      "time_left_to_submission": "8 days left",
       "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
         {
           "id": 6,
           "name": "Machine Learning/AI"
         }
       ],
-      "start_a_submission_url": "https://yelp-ai.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://baiduernieai.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "693f4d257fb05e4b4f13c120",
-      "id": 27116,
-      "url": "https://bria-ai.devpost.com/",
-      "title": "FIBO Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/934/447/datas/medium_square.png",
+      "_id": "69409ec22284cf0fae37ac55",
+      "id": 27314,
+      "url": "https://mnee-eth.devpost.com/",
+      "title": "MNEE Hackathon: Programmable Money for Agents, Commerce, and Automated Finance",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/973/628/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Bria",
+      "organization_name": "MNEE, LLC",
       "isOpen": "open",
-      "submission_period_dates": "Nov 03 - Dec 15, 2025",
+      "submission_period_dates": "Nov 17, 2025 - Jan 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1132,
-      "prizeText": "$<span data-currency-value>30,000</span>",
-      "time_left_to_submission": "1 day left",
+      "registrations_count": 534,
+      "prizeText": "$<span data-currency-value>50,000</span>",
+      "time_left_to_submission": "28 days left",
       "themes": [
         {
-          "id": 20,
-          "name": "E-commerce/Retail"
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
         },
         {
           "id": 4,
           "name": "Gaming"
-        },
+        }
+      ],
+      "start_a_submission_url": "https://mnee-eth.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69409ec42284cf0fae37ac61",
+      "id": 26670,
+      "url": "https://ai-partner-catalyst.devpost.com/",
+      "title": "AI Partner Catalyst: Accelerate Innovation",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/873/594/datas/medium_square.jpg",
+      "featured": true,
+      "organization_name": "Google",
+      "isOpen": "open",
+      "submission_period_dates": "Nov 17 - Dec 31, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 4550,
+      "prizeText": "$<span data-currency-value>75,000</span>",
+      "time_left_to_submission": "16 days left",
+      "themes": [
         {
           "id": 6,
           "name": "Machine Learning/AI"
+        },
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "start_a_submission_url": "https://bria-ai.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://ai-partner-catalyst.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
