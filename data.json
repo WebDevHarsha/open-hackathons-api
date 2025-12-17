@@ -1,9 +1,102 @@
 {
-  "last_updated": "2025-12-16T00:59:41.116597Z",
+  "last_updated": "2025-12-17T00:54:59.337219Z",
   "count": 155,
   "hackathons": [
     {
-      "_id": "69409ebd2284cf0fae37ac29",
+      "_id": "6941f02d9030097f60e58276",
+      "id": 27736,
+      "url": "https://healthy-diet.devpost.com/",
+      "title": "Healthy Diet",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/097/616/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "presentme",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 16 - 31, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 2,
+      "prizeText": "£<span data-currency-value>0</span>",
+      "time_left_to_submission": "15 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://healthy-diet.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02d9030097f60e58277",
+      "id": 26224,
+      "url": "https://cjcp-hacks-fall2025.devpost.com/",
+      "title": "CJCP Hacks - 25-26",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/684/745/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "CJCP - CS Club",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 16, 2025 - Feb 16, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 2,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "2 months left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 20,
+          "name": "E-commerce/Retail"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        }
+      ],
+      "start_a_submission_url": "https://cjcp-hacks-fall2025.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02d9030097f60e58278",
+      "id": 27656,
+      "url": "https://tuya-ai-innovators-hackathon.devpost.com/",
+      "title": "Tuya AI Innovators Hackathon 2025",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/037/978/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Tuya Smart",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 15 - 20, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 354,
+      "prizeText": "$<span data-currency-value>154,200</span>",
+      "time_left_to_submission": "4 days left",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://tuya-ai-innovators-hackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02d9030097f60e58279",
       "id": 26891,
       "url": "https://launchly.devpost.com/",
       "title": "Launchly Project Sprint",
@@ -15,7 +108,7 @@
       "displayed_location": "Online",
       "registrations_count": 183,
       "prizeText": "$<span data-currency-value>35,550</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 23,
@@ -34,38 +127,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebd2284cf0fae37ac2a",
-      "id": 27788,
-      "url": "https://deepseek.devpost.com/",
-      "title": "DeepSeek vs. Llama: The \"Kill The Cloud\" Challenge",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/078/028/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Singularity",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 13 - 29, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 61,
-      "prizeText": "$<span data-currency-value>150</span>",
-      "time_left_to_submission": "14 days left",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://deepseek.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ebd2284cf0fae37ac2b",
+      "_id": "6941f02d9030097f60e5827a",
       "id": 27801,
       "url": "https://global-innovation-challenge-v1.devpost.com/",
       "title": "Global Innovation Build Challenge V1",
@@ -75,9 +137,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 13, 2025 - Feb 28, 2026",
       "displayed_location": "Online",
-      "registrations_count": 19,
+      "registrations_count": 22,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "3 months left",
+      "time_left_to_submission": "2 months left",
       "themes": [
         {
           "id": 23,
@@ -96,38 +158,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebd2284cf0fae37ac2c",
-      "id": 27779,
-      "url": "https://antigravity.devpost.com/",
-      "title": "Code With antigravity by GOOGLE",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "_id": "6941f02d9030097f60e5827b",
+      "id": 27788,
+      "url": "https://deepseek.devpost.com/",
+      "title": "DeepSeek vs. Llama: The \"Kill The Cloud\" Challenge",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/078/028/datas/medium_square.png",
       "featured": false,
-      "organization_name": "The Tech Hut",
+      "organization_name": "Singularity",
       "isOpen": "open",
-      "submission_period_dates": "Dec 12 - 31, 2025",
+      "submission_period_dates": "Dec 13 - 29, 2025",
       "displayed_location": "Online",
-      "registrations_count": 65,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "16 days left",
+      "registrations_count": 70,
+      "prizeText": "$<span data-currency-value>150</span>",
+      "time_left_to_submission": "13 days left",
       "themes": [
         {
-          "id": 28,
-          "name": "Databases"
+          "id": 6,
+          "name": "Machine Learning/AI"
         },
         {
-          "id": 2,
-          "name": "DevOps"
+          "id": 26,
+          "name": "Mobile"
         },
         {
-          "id": 20,
-          "name": "E-commerce/Retail"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "start_a_submission_url": "https://antigravity.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://deepseek.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69409ebd2284cf0fae37ac2d",
+      "_id": "6941f02d9030097f60e5827c",
       "id": 27837,
       "url": "https://unstaking-using-eip-7702.devpost.com/",
       "title": "Zero-Wait Unstaking Using EIP-7702",
@@ -137,9 +199,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 15 - 23, 2025",
       "displayed_location": "Online",
-      "registrations_count": 20,
+      "registrations_count": 19,
       "prizeText": "$<span data-currency-value>200</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 23,
@@ -158,7 +220,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebd2284cf0fae37ac2e",
+      "_id": "6941f02d9030097f60e5827d",
+      "id": 27779,
+      "url": "https://antigravity.devpost.com/",
+      "title": "Code With antigravity by GOOGLE",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "featured": false,
+      "organization_name": "The Tech Hut",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 12 - 31, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 77,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "15 days left",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 20,
+          "name": "E-commerce/Retail"
+        }
+      ],
+      "start_a_submission_url": "https://antigravity.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02d9030097f60e5827e",
       "id": 26968,
       "url": "https://peerbridge-mental-health-hacks.devpost.com/",
       "title": "PeerBridge Mental Health Hacks",
@@ -168,9 +261,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 11 - 22, 2025",
       "displayed_location": "Online",
-      "registrations_count": 311,
+      "registrations_count": 319,
       "prizeText": "$<span data-currency-value>750</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 10,
@@ -189,7 +282,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebd2284cf0fae37ac2f",
+      "_id": "6941f02e9030097f60e5827f",
       "id": 27598,
       "url": "https://snapgames.devpost.com/",
       "title": " Play Everywhere: The Build with Snap Games Lensathon",
@@ -199,7 +292,7 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 10, 2025 - Feb 03, 2026",
       "displayed_location": "Online",
-      "registrations_count": 213,
+      "registrations_count": 228,
       "prizeText": "$<span data-currency-value>30,000</span>",
       "time_left_to_submission": "about 2 months left",
       "themes": [
@@ -220,38 +313,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebd2284cf0fae37ac30",
-      "id": 27760,
-      "url": "https://design-pen-pin.devpost.com/",
-      "title": "Design a combo of smart pen and holographic device ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/079/760/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "SPA Bhopal",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 09 - 31, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 8,
-      "prizeText": "$<span data-currency-value>55</span>",
-      "time_left_to_submission": "15 days left",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "start_a_submission_url": "https://design-pen-pin.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ebd2284cf0fae37ac31",
+      "_id": "6941f02e9030097f60e58280",
       "id": 27632,
       "url": "https://sota-ai-december-contest.devpost.com/",
       "title": "SOTA-AI December Contest",
@@ -263,7 +325,7 @@
       "displayed_location": "Online",
       "registrations_count": 44,
       "prizeText": "$<span data-currency-value>4,580</span>",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
           "id": 6,
@@ -274,7 +336,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebe2284cf0fae37ac32",
+      "_id": "6941f02e9030097f60e58281",
       "id": 27702,
       "url": "https://martingale-hacks.devpost.com/",
       "title": "Martingale Hacks",
@@ -284,9 +346,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 09, 2025 - Feb 28, 2026",
       "displayed_location": "Online",
-      "registrations_count": 57,
+      "registrations_count": 59,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "3 months left",
+      "time_left_to_submission": "2 months left",
       "themes": [
         {
           "id": 23,
@@ -305,7 +367,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebe2284cf0fae37ac33",
+      "_id": "6941f02e9030097f60e58282",
       "id": 27759,
       "url": "https://design-cheapest-3d-scanner.devpost.com/",
       "title": "Design the world's most cheapest 3D scanner ",
@@ -315,9 +377,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 09 - 31, 2025",
       "displayed_location": "Online",
-      "registrations_count": 7,
+      "registrations_count": 9,
       "prizeText": "$<span data-currency-value>55</span>",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "themes": [
         {
           "id": 18,
@@ -336,7 +398,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebe2284cf0fae37ac34",
+      "_id": "6941f02e9030097f60e58283",
+      "id": 27760,
+      "url": "https://design-pen-pin.devpost.com/",
+      "title": "Design a combo of smart pen and holographic device ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/079/760/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "SPA Bhopal",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 09 - 31, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 12,
+      "prizeText": "$<span data-currency-value>55</span>",
+      "time_left_to_submission": "14 days left",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "start_a_submission_url": "https://design-pen-pin.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02e9030097f60e58284",
       "id": 27049,
       "url": "https://serverpod.devpost.com/",
       "title": "Build your Flutter Butler with Serverpod",
@@ -346,9 +439,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 09, 2025 - Jan 30, 2026",
       "displayed_location": "Online",
-      "registrations_count": 404,
+      "registrations_count": 431,
       "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "about 2 months left",
+      "time_left_to_submission": "about 1 month left",
       "themes": [
         {
           "id": 26,
@@ -367,38 +460,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebe2284cf0fae37ac35",
-      "id": 27479,
-      "url": "https://cloud9.devpost.com/",
-      "title": "Sky’s the Limit - Cloud9 x JetBrains Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/016/236/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Cloud9",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 09, 2025 - Feb 03, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 292,
-      "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "about 2 months left",
-      "themes": [
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "start_a_submission_url": "https://cloud9.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ebe2284cf0fae37ac36",
+      "_id": "6941f02e9030097f60e58285",
       "id": 27474,
       "url": "https://hex-a-thon.devpost.com/",
       "title": "Hex-a-thon",
@@ -408,7 +470,7 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 09, 2025 - Jan 22, 2026",
       "displayed_location": "Online",
-      "registrations_count": 188,
+      "registrations_count": 217,
       "prizeText": "$<span data-currency-value>10,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -429,7 +491,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebe2284cf0fae37ac37",
+      "_id": "6941f02e9030097f60e58286",
+      "id": 27479,
+      "url": "https://cloud9.devpost.com/",
+      "title": "Sky’s the Limit - Cloud9 x JetBrains Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/016/236/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Cloud9",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 09, 2025 - Feb 03, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 318,
+      "prizeText": "$<span data-currency-value>25,000</span>",
+      "time_left_to_submission": "about 2 months left",
+      "themes": [
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://cloud9.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02e9030097f60e58287",
       "id": 27618,
       "url": "https://hackmars-2.devpost.com/",
       "title": "Hackmas: HackMars 2.0",
@@ -439,9 +532,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 10 - 31, 2025",
       "displayed_location": "Online",
-      "registrations_count": 87,
+      "registrations_count": 91,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 19,
@@ -460,7 +553,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebe2284cf0fae37ac38",
+      "_id": "6941f02f9030097f60e58288",
       "id": 27761,
       "url": "https://winter-classic.devpost.com/",
       "title": "Missing Amps Winter Classic",
@@ -470,9 +563,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 07, 2025 - Jan 01, 2026",
       "displayed_location": "Online",
-      "registrations_count": 111,
+      "registrations_count": 116,
       "prizeText": "$<span data-currency-value>100</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 23,
@@ -491,162 +584,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebe2284cf0fae37ac39",
-      "id": 27748,
-      "url": "https://ety.devpost.com/",
-      "title": "ety.ai Moonshot Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/059/279/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "ety.ai",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 06 - 22, 2025",
-      "displayed_location": "ITD Ukraine",
-      "registrations_count": 26,
-      "prizeText": "$<span data-currency-value>750</span>",
-      "time_left_to_submission": "6 days left",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "start_a_submission_url": "https://ety.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ebe2284cf0fae37ac3a",
-      "id": 27513,
-      "url": "https://student-hackpad-2026.devpost.com/",
-      "title": "Student HackPad 2026",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/070/148/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Student Hackpad",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 05, 2025 - Jan 15, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 235,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "about 1 month left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://student-hackpad-2026.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ebf2284cf0fae37ac3b",
-      "id": 27497,
-      "url": "https://aethra-global-brandathon-2025.devpost.com/",
-      "title": "AETHRA GLOBAL BRANDATHON 2025",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/981/941/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Aethra",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 05 - 31, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 138,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "16 days left",
-      "themes": [
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 15,
-          "name": "Music/Art"
-        }
-      ],
-      "start_a_submission_url": "https://aethra-global-brandathon-2025.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ebf2284cf0fae37ac3c",
-      "id": 27750,
-      "url": "https://techsprint-2025-.devpost.com/",
-      "title": "TechSprint Hackathon 2025 - Leveraging The Power of AI",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/061/143/datas/medium_square.jpg",
-      "featured": false,
-      "organization_name": "GDG On Campus GGITS",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 07 - 25, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 126,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "10 days left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "start_a_submission_url": "https://techsprint-2025-.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ebf2284cf0fae37ac3d",
-      "id": 27668,
-      "url": "https://byte2beat.devpost.com/",
-      "title": "Byte 2 Beat",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/045/247/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Hack4Health",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 05, 2025 - Feb 14, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 122,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "2 months left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "start_a_submission_url": "https://byte2beat.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ebf2284cf0fae37ac3e",
+      "_id": "6941f02f9030097f60e58289",
       "id": 27531,
       "url": "https://founderforge1.devpost.com/",
       "title": "FounderForge",
@@ -656,9 +594,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 05 - 25, 2025",
       "displayed_location": "Online",
-      "registrations_count": 78,
+      "registrations_count": 81,
       "prizeText": "$<span data-currency-value>200</span>",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "themes": [
         {
           "id": 17,
@@ -677,38 +615,162 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebf2284cf0fae37ac3f",
-      "id": 27683,
-      "url": "https://dreamweave-hackathon.devpost.com/",
-      "title": "DreamWeave Global Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/047/349/datas/medium_square.png",
+      "_id": "6941f02f9030097f60e5828a",
+      "id": 27668,
+      "url": "https://byte2beat.devpost.com/",
+      "title": "Byte 2 Beat",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/045/247/datas/medium_square.png",
       "featured": false,
-      "organization_name": "DreamWeave",
+      "organization_name": "Hack4Health",
       "isOpen": "open",
-      "submission_period_dates": "Dec 04, 2025 - Jan 02, 2026",
+      "submission_period_dates": "Dec 05, 2025 - Feb 14, 2026",
       "displayed_location": "Online",
-      "registrations_count": 33,
+      "registrations_count": 124,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "about 2 months left",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 16,
+          "name": "Health"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "start_a_submission_url": "https://dreamweave-hackathon.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://byte2beat.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69409ebf2284cf0fae37ac40",
+      "_id": "6941f02f9030097f60e5828b",
+      "id": 27497,
+      "url": "https://aethra-global-brandathon-2025.devpost.com/",
+      "title": "AETHRA GLOBAL BRANDATHON 2025",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/981/941/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Aethra",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 05 - 31, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 138,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "15 days left",
+      "themes": [
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 15,
+          "name": "Music/Art"
+        }
+      ],
+      "start_a_submission_url": "https://aethra-global-brandathon-2025.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02f9030097f60e5828c",
+      "id": 27750,
+      "url": "https://techsprint-2025-.devpost.com/",
+      "title": "TechSprint Hackathon 2025 - Leveraging The Power of AI",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/061/143/datas/medium_square.jpg",
+      "featured": false,
+      "organization_name": "GDG On Campus GGITS",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 07 - 25, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 135,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "9 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://techsprint-2025-.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02f9030097f60e5828d",
+      "id": 27748,
+      "url": "https://ety.devpost.com/",
+      "title": "ety.ai Moonshot Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/059/279/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "ety.ai",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 06 - 22, 2025",
+      "displayed_location": "ITD Ukraine",
+      "registrations_count": 29,
+      "prizeText": "$<span data-currency-value>750</span>",
+      "time_left_to_submission": "5 days left",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://ety.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02f9030097f60e5828e",
+      "id": 27513,
+      "url": "https://student-hackpad-2026.devpost.com/",
+      "title": "Student HackPad 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/070/148/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Student Hackpad",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 05, 2025 - Jan 15, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 241,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "30 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://student-hackpad-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f02f9030097f60e5828f",
       "id": 27670,
       "url": "https://build-from-scratch.devpost.com/",
       "title": "Build From Scratch - Season I",
@@ -718,9 +780,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 04 - 25, 2025",
       "displayed_location": "Online",
-      "registrations_count": 158,
+      "registrations_count": 160,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "themes": [
         {
           "id": 23,
@@ -739,7 +801,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebf2284cf0fae37ac41",
+      "_id": "6941f02f9030097f60e58290",
       "id": 27293,
       "url": "https://synovate.devpost.com/",
       "title": "Synovate",
@@ -749,9 +811,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 04 - 20, 2025",
       "displayed_location": "Online",
-      "registrations_count": 48,
+      "registrations_count": 49,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "themes": [
         {
           "id": 23,
@@ -770,7 +832,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebf2284cf0fae37ac42",
+      "_id": "6941f0309030097f60e58291",
+      "id": 27683,
+      "url": "https://dreamweave-hackathon.devpost.com/",
+      "title": "DreamWeave Global Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/047/349/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "DreamWeave",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 04, 2025 - Jan 02, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 34,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "16 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://dreamweave-hackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f0309030097f60e58292",
       "id": 27438,
       "url": "https://lmaedgehackathon.devpost.com/",
       "title": "LMA EDGE Hackathon",
@@ -780,9 +873,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 01, 2025 - Jan 14, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1081,
+      "registrations_count": 1271,
       "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "30 days left",
+      "time_left_to_submission": "29 days left",
       "themes": [
         {
           "id": 1,
@@ -801,38 +894,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ebf2284cf0fae37ac43",
-      "id": 27695,
-      "url": "https://hackhorizon.devpost.com/",
-      "title": "HackHorizon",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 15 - 17, 2025",
-      "displayed_location": "Jecrc University",
-      "registrations_count": 7,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "1 day left",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "start_a_submission_url": "https://hackhorizon.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec02284cf0fae37ac44",
+      "_id": "6941f0309030097f60e58293",
       "id": 27697,
       "url": "https://code-fiesta.devpost.com/",
       "title": "CODE FIESTA",
@@ -842,9 +904,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 15 - 18, 2025",
       "displayed_location": "jaipur institute of technology ",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 1,
@@ -863,40 +925,17 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec02284cf0fae37ac45",
-      "id": 27701,
-      "url": "https://raise26.devpost.com/",
-      "title": "RAISE-26",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/048/832/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "MPI Program, Bloustein School, Rutgers",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 09, 2025 - Apr 17, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 7,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "4 months left",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "start_a_submission_url": "https://raise26.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec02284cf0fae37ac46",
-      "id": 27696,
-      "url": "https://code-nova.devpost.com/",
-      "title": "Code Nova",
+      "_id": "6941f0309030097f60e58294",
+      "id": 27695,
+      "url": "https://hackhorizon.devpost.com/",
+      "title": "HackHorizon",
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "featured": false,
       "organization_name": "Major League Hacking",
       "isOpen": "open",
-      "submission_period_dates": "Dec 13 - 16, 2025",
-      "displayed_location": "Amity University, Jaipur",
-      "registrations_count": 11,
+      "submission_period_dates": "Dec 15 - 17, 2025",
+      "displayed_location": "Jecrc University",
+      "registrations_count": 9,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "about 12 hours left",
       "themes": [
@@ -913,11 +952,34 @@
           "name": "Web"
         }
       ],
-      "start_a_submission_url": "https://code-nova.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://hackhorizon.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69409ec02284cf0fae37ac47",
+      "_id": "6941f0309030097f60e58295",
+      "id": 27701,
+      "url": "https://raise26.devpost.com/",
+      "title": "RAISE-26",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/048/832/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "MPI Program, Bloustein School, Rutgers",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 09, 2025 - Apr 17, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 8,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "4 months left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://raise26.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f0309030097f60e58296",
       "id": 26536,
       "url": "https://tecstorm26.devpost.com/",
       "title": "TecStorm'26",
@@ -927,7 +989,7 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 05, 2025 - Jan 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 132,
+      "registrations_count": 170,
       "prizeText": "€<span data-currency-value>16,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -940,69 +1002,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec02284cf0fae37ac48",
-      "id": 27641,
-      "url": "https://december-ai-challenge.devpost.com/",
-      "title": "December AI Challenge",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/035/402/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "SAILea",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 13, 2025 - Jan 05, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 39,
-      "prizeText": "$<span data-currency-value>200</span>",
-      "time_left_to_submission": "20 days left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "start_a_submission_url": "https://december-ai-challenge.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec02284cf0fae37ac49",
-      "id": 27400,
-      "url": "https://aethra-global-pitchathon-2025.devpost.com/",
-      "title": "AETHRA GLOBAL PITCHATHON 2025 ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/945/282/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Aethra",
-      "isOpen": "open",
-      "submission_period_dates": "Nov 27 - Dec 31, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 175,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "16 days left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "start_a_submission_url": "https://aethra-global-pitchathon-2025.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec02284cf0fae37ac4a",
+      "_id": "6941f0309030097f60e58297",
       "id": 27558,
       "url": "https://finbilim25.devpost.com/",
       "title": "FinBilim FinTech Hackathon 2025",
@@ -1012,9 +1012,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 01 - 22, 2025",
       "displayed_location": "Online",
-      "registrations_count": 55,
+      "registrations_count": 59,
       "prizeText": "$<span data-currency-value>1,960</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 23,
@@ -1033,7 +1033,69 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec02284cf0fae37ac4b",
+      "_id": "6941f0309030097f60e58298",
+      "id": 27400,
+      "url": "https://aethra-global-pitchathon-2025.devpost.com/",
+      "title": "AETHRA GLOBAL PITCHATHON 2025 ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/945/282/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Aethra",
+      "isOpen": "open",
+      "submission_period_dates": "Nov 27 - Dec 31, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 176,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "15 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://aethra-global-pitchathon-2025.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f0309030097f60e58299",
+      "id": 27641,
+      "url": "https://december-ai-challenge.devpost.com/",
+      "title": "December AI Challenge",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/035/402/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "SAILea",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 13, 2025 - Jan 05, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 44,
+      "prizeText": "$<span data-currency-value>200</span>",
+      "time_left_to_submission": "19 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://december-ai-challenge.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f0319030097f60e5829a",
       "id": 27514,
       "url": "https://codecraze.devpost.com/",
       "title": "CodeCraze",
@@ -1041,11 +1103,11 @@
       "featured": false,
       "organization_name": "HackFixity",
       "isOpen": "open",
-      "submission_period_dates": "Nov 27 - Dec 16, 2025",
+      "submission_period_dates": "Nov 27 - Dec 17, 2025",
       "displayed_location": "Online",
-      "registrations_count": 555,
+      "registrations_count": 599,
       "prizeText": "$<span data-currency-value>5,000</span>",
-      "time_left_to_submission": "about 12 hours left",
+      "time_left_to_submission": "about 6 hours left",
       "themes": [
         {
           "id": 19,
@@ -1064,7 +1126,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec02284cf0fae37ac4c",
+      "_id": "6941f0319030097f60e5829b",
       "id": 27583,
       "url": "https://teca-hack.devpost.com/",
       "title": "Teca Hacks",
@@ -1074,9 +1136,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 25, 2025 - Jan 01, 2026",
       "displayed_location": "Online",
-      "registrations_count": 140,
+      "registrations_count": 143,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 23,
@@ -1095,7 +1157,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec22284cf0fae37ac4d",
+      "_id": "6941f0319030097f60e5829c",
       "id": 26653,
       "url": "https://sustain-a-thon-sca.devpost.com/",
       "title": "Sustain-a-thon",
@@ -1105,9 +1167,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 24, 2025 - Jan 01, 2026",
       "displayed_location": "Online",
-      "registrations_count": 110,
+      "registrations_count": 116,
       "prizeText": "$<span data-currency-value>300</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 22,
@@ -1126,7 +1188,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec22284cf0fae37ac4e",
+      "_id": "6941f0319030097f60e5829d",
       "id": 27625,
       "url": "https://octopushack.devpost.com/",
       "title": "Octopus Hackathon",
@@ -1136,9 +1198,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 01 - 29, 2025",
       "displayed_location": "Online",
-      "registrations_count": 322,
+      "registrations_count": 342,
       "prizeText": "$<span data-currency-value>3,600</span>",
-      "time_left_to_submission": "14 days left",
+      "time_left_to_submission": "13 days left",
       "themes": [
         {
           "id": 23,
@@ -1157,7 +1219,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec22284cf0fae37ac4f",
+      "_id": "6941f0319030097f60e5829e",
       "id": 27565,
       "url": "https://visaverse.devpost.com/",
       "title": "VisaVerse AI Hackathon",
@@ -1167,9 +1229,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 22 - Dec 20, 2025",
       "displayed_location": "Online",
-      "registrations_count": 850,
+      "registrations_count": 880,
       "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "themes": [
         {
           "id": 17,
@@ -1188,7 +1250,69 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec22284cf0fae37ac50",
+      "_id": "6941f0319030097f60e5829f",
+      "id": 27408,
+      "url": "https://dic-2025-finance-track.devpost.com/",
+      "title": "Digital Innovation Challenge 2025 - Finance Track",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "featured": false,
+      "organization_name": "Duke Kunshan University",
+      "isOpen": "open",
+      "submission_period_dates": "Nov 20 - Dec 24, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 66,
+      "prizeText": "$<span data-currency-value>15,500</span>",
+      "time_left_to_submission": "8 days left",
+      "themes": [
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://dic-2025-finance-track.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f0319030097f60e582a0",
+      "id": 27274,
+      "url": "https://neogenesis-hackathon.devpost.com/",
+      "title": "NeoGenesis Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/929/485/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "MyPath",
+      "isOpen": "open",
+      "submission_period_dates": "Nov 20 - Dec 31, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 213,
+      "prizeText": "₹ <span data-currency-value>33,000</span>",
+      "time_left_to_submission": "15 days left",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        }
+      ],
+      "start_a_submission_url": "https://neogenesis-hackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f0319030097f60e582a1",
       "id": 27350,
       "url": "https://africadigitalidhackathon2026.devpost.com/",
       "title": "Africa Digital ID Hackathon 2026",
@@ -1215,7 +1339,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec22284cf0fae37ac51",
+      "_id": "6941f0319030097f60e582a2",
       "id": 27327,
       "url": "https://baiduernieai.devpost.com/",
       "title": "ERNIE AI Developer Challenge",
@@ -1225,9 +1349,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 18 - Dec 23, 2025",
       "displayed_location": "Online",
-      "registrations_count": 950,
+      "registrations_count": 977,
       "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 23,
@@ -1246,65 +1370,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec22284cf0fae37ac52",
-      "id": 27274,
-      "url": "https://neogenesis-hackathon.devpost.com/",
-      "title": "NeoGenesis Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/929/485/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "MyPath",
-      "isOpen": "open",
-      "submission_period_dates": "Nov 20 - Dec 31, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 208,
-      "prizeText": "₹ <span data-currency-value>33,000</span>",
-      "time_left_to_submission": "16 days left",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "start_a_submission_url": "https://neogenesis-hackathon.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec22284cf0fae37ac53",
-      "id": 27517,
-      "url": "https://solve-hygiene-in-india.devpost.com/",
-      "title": "Solve hygiene in India ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/005/700/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "SPA Bhopal",
-      "isOpen": "open",
-      "submission_period_dates": "Nov 17 - Dec 22, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 23,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "6 days left",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://solve-hygiene-in-india.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec22284cf0fae37ac54",
+      "_id": "6941f0339030097f60e582a3",
       "id": 27402,
       "url": "https://merchandiseformovies.devpost.com/",
       "title": "Merchandise for movies",
@@ -1316,7 +1382,7 @@
       "displayed_location": "Online",
       "registrations_count": 16,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "themes": [
         {
           "id": 18,
@@ -1331,7 +1397,34 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec22284cf0fae37ac55",
+      "_id": "6941f0339030097f60e582a4",
+      "id": 27517,
+      "url": "https://solve-hygiene-in-india.devpost.com/",
+      "title": "Solve hygiene in India ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/005/700/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "SPA Bhopal",
+      "isOpen": "open",
+      "submission_period_dates": "Nov 17 - Dec 22, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 23,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "5 days left",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://solve-hygiene-in-india.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f0339030097f60e582a5",
       "id": 27314,
       "url": "https://mnee-eth.devpost.com/",
       "title": "MNEE Hackathon: Programmable Money for Agents, Commerce, and Automated Finance",
@@ -1341,9 +1434,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 17, 2025 - Jan 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 534,
+      "registrations_count": 551,
       "prizeText": "$<span data-currency-value>50,000</span>",
-      "time_left_to_submission": "28 days left",
+      "time_left_to_submission": "27 days left",
       "themes": [
         {
           "id": 1,
@@ -1362,7 +1455,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec32284cf0fae37ac56",
+      "_id": "6941f0339030097f60e582a6",
       "id": 27490,
       "url": "https://aethra-global-gamethon-2025.devpost.com/",
       "title": "AETHRA GLOBAL GAMETHON 2025 ",
@@ -1374,7 +1467,7 @@
       "displayed_location": "Online",
       "registrations_count": 194,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 23,
@@ -1393,38 +1486,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec32284cf0fae37ac57",
-      "id": 27487,
-      "url": "https://aethra-global-hackathon-2025.devpost.com/",
-      "title": "AETHRA GLOBAL HACKATHON 2025",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/980/778/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Aethra",
-      "isOpen": "open",
-      "submission_period_dates": "Nov 14 - Dec 31, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 212,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "16 days left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://aethra-global-hackathon-2025.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec32284cf0fae37ac58",
+      "_id": "6941f0339030097f60e582a7",
       "id": 27498,
       "url": "https://aethra-global-vibeathon-2025.devpost.com/",
       "title": "AETHRA GLOBAL VIBEATHON 2025",
@@ -1434,9 +1496,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 14 - Dec 31, 2025",
       "displayed_location": "Online",
-      "registrations_count": 187,
+      "registrations_count": 194,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 23,
@@ -1455,7 +1517,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec32284cf0fae37ac59",
+      "_id": "6941f0339030097f60e582a8",
+      "id": 27487,
+      "url": "https://aethra-global-hackathon-2025.devpost.com/",
+      "title": "AETHRA GLOBAL HACKATHON 2025",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/980/778/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Aethra",
+      "isOpen": "open",
+      "submission_period_dates": "Nov 14 - Dec 31, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 214,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "15 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://aethra-global-hackathon-2025.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f0339030097f60e582a9",
       "id": 27389,
       "url": "https://code-spring.devpost.com/",
       "title": "Code Spring ",
@@ -1465,9 +1558,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 13 - Dec 30, 2025",
       "displayed_location": "Online",
-      "registrations_count": 674,
+      "registrations_count": 696,
       "prizeText": "$<span data-currency-value>5,800</span>",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "themes": [
         {
           "id": 23,
@@ -1486,7 +1579,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec32284cf0fae37ac5a",
+      "_id": "6941f0339030097f60e582aa",
       "id": 27287,
       "url": "https://tableau2025.devpost.com/",
       "title": "Tableau Hackathon",
@@ -1496,9 +1589,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 12, 2025 - Jan 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1374,
+      "registrations_count": 1470,
       "prizeText": "$<span data-currency-value>45,000</span>",
-      "time_left_to_submission": "28 days left",
+      "time_left_to_submission": "27 days left",
       "themes": [
         {
           "id": 28,
@@ -1517,7 +1610,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec32284cf0fae37ac5b",
+      "_id": "6941f0339030097f60e582ab",
       "id": 27037,
       "url": "https://yelp-ai.devpost.com/",
       "title": "Yelp AI API Hackathon",
@@ -1527,9 +1620,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 10 - Dec 17, 2025",
       "displayed_location": "Online",
-      "registrations_count": 291,
+      "registrations_count": 304,
       "prizeText": "$<span data-currency-value>5,000</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 22 hours left",
       "themes": [
         {
           "id": 6,
@@ -1540,38 +1633,1107 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec32284cf0fae37ac5c",
-      "id": 26788,
-      "url": "https://arctic-league-of-code.devpost.com/",
-      "title": "Arctic League of Code",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/800/556/datas/medium_square.jpg",
+      "_id": "6941f0339030097f60e582ac",
+      "id": 28343,
+      "url": "https://events.mlh.io/events/12943",
+      "title": "Global Hack Week: AI/ML",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/480/thumb/hero.jpg?1758624453",
       "featured": false,
-      "organization_name": "HackClub  ✓⃝",
+      "organization_name": "Major League Hacking",
       "isOpen": "open",
-      "submission_period_dates": "Nov 07 - Dec 30, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 300,
-      "prizeText": "$<span data-currency-value>5,500</span>",
-      "time_left_to_submission": "14 days left",
-      "themes": [
-        {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "start_a_submission_url": "https://arctic-league-of-code.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
+      "submission_period_dates": "Dec 12th - 18th",
+      "displayed_location": "Everywhere, Online",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "2 days left",
+      "themes": [],
+      "start_a_submission_url": "https://events.mlh.io/events/12943",
+      "source": "mlh",
+      "mlh_event_type": "Digital Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/480/thumb/icon.png?1758624453",
+      "mlh_start_date": "2025-12-12",
+      "mlh_end_date": "2025-12-18"
     },
     {
-      "_id": "69409ec32284cf0fae37ac5d",
+      "_id": "6941f0339030097f60e582ad",
+      "id": 69631,
+      "url": "https://pechacks.org/",
+      "title": "PEC Hacks 3.0",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/494/thumb/MLH_EVENT_SPLASH.png?1761732324",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 27th - 28th",
+      "displayed_location": "Chennai, Tamil Nadu",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 week left",
+      "themes": [],
+      "start_a_submission_url": "https://pechacks.org/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/494/thumb/PEC_HACKS_LOGO.png?1761732324",
+      "mlh_start_date": "2025-12-27",
+      "mlh_end_date": "2025-12-28"
+    },
+    {
+      "_id": "6941f0339030097f60e582ae",
+      "id": 16056,
+      "url": "https://events.mlh.io/events/13143",
+      "title": "Hacks for Hackers",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/484/thumb/social-instagram.jpg?1761566447",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 2nd - 4th",
+      "displayed_location": "Everywhere, Worldwide",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 weeks left",
+      "themes": [],
+      "start_a_submission_url": "https://events.mlh.io/events/13143",
+      "source": "mlh",
+      "mlh_event_type": "Digital Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/484/thumb/event-icon.jpg?1760361788",
+      "mlh_start_date": "2026-01-02",
+      "mlh_end_date": "2026-01-04"
+    },
+    {
+      "_id": "6941f0339030097f60e582af",
+      "id": 37538,
+      "url": "https://events.mlh.io/events/13277",
+      "title": "Global Hack Week: Beginners",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/485/thumb/IG.jpg?1760525764",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 9th - 15th",
+      "displayed_location": "Everywhere, Online",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://events.mlh.io/events/13277",
+      "source": "mlh",
+      "mlh_event_type": "Digital Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/485/thumb/hero.jpg?1760525764",
+      "mlh_start_date": "2026-01-09",
+      "mlh_end_date": "2026-01-15"
+    },
+    {
+      "_id": "6941f0339030097f60e582b0",
+      "id": 62041,
+      "url": "https://www.shehacks.ca/",
+      "title": "SheHacks+ 10",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/538/thumb/Screenshot_2025-10-15_163246.png?1764013760",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 9th - 11th",
+      "displayed_location": "London, Ontario",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 3 weeks left",
+      "themes": [],
+      "start_a_submission_url": "https://www.shehacks.ca/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/538/thumb/Screenshot_2025-10-15_163504.png?1764013759",
+      "mlh_start_date": "2026-01-09",
+      "mlh_end_date": "2026-01-11"
+    },
+    {
+      "_id": "6941f0339030097f60e582b1",
+      "id": 94459,
+      "url": "https://www.deltahacks.com/",
+      "title": "DeltaHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/355/thumb/Copy_of_Backsplash.png?1750432939",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 10th - 11th",
+      "displayed_location": "Hamilton, Ontario",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 3 weeks left",
+      "themes": [],
+      "start_a_submission_url": "https://www.deltahacks.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/355/thumb/Copy_of_Icon.png?1750432939",
+      "mlh_start_date": "2026-01-10",
+      "mlh_end_date": "2026-01-11"
+    },
+    {
+      "_id": "6941f0339030097f60e582b2",
+      "id": 13278,
+      "url": "https://sbhacks.com/",
+      "title": "SB Hacks XII",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/542/thumb/sbhacks_xii_MLH_Banner_300x300.png?1765210372",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 10th - 11th",
+      "displayed_location": "Isla Vista, California",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 3 weeks left",
+      "themes": [],
+      "start_a_submission_url": "https://sbhacks.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/542/thumb/sbhacks_xii_logo_100x100.png?1765210371",
+      "mlh_start_date": "2026-01-10",
+      "mlh_end_date": "2026-01-11"
+    },
+    {
+      "_id": "6941f0339030097f60e582b3",
+      "id": 79462,
+      "url": "https://cruzhacks.com/",
+      "title": "CruzHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/549/thumb/CruzHacks_Splash__3_.png?1764017283",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 16th - 18th",
+      "displayed_location": "Santa Cruz, California",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://cruzhacks.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/549/thumb/CruzHacks_Logo.png?1764017283",
+      "mlh_start_date": "2026-01-16",
+      "mlh_end_date": "2026-01-18"
+    },
+    {
+      "_id": "6941f0339030097f60e582b4",
+      "id": 93409,
+      "url": "https://uofthacks.com/",
+      "title": "UofTHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/498/thumb/Screenshot_2025-11-26_at_9.36.14%E2%80%AFAM.png?1764167974",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 16th - 18th",
+      "displayed_location": "Toronto, Ontario",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://uofthacks.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/498/thumb/Screenshot_2025-11-26_at_9.39.08%E2%80%AFAM.png?1764167957",
+      "mlh_start_date": "2026-01-16",
+      "mlh_end_date": "2026-01-18"
+    },
+    {
+      "_id": "6941f0339030097f60e582b5",
+      "id": 63807,
+      "url": "https://www.uottahack.ca/",
+      "title": "uOttaHack 8",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/541/thumb/MLH_thumbnail.png?1764096423",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 16th - 18th",
+      "displayed_location": "Ottawa, Ontario",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://www.uottahack.ca/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/541/thumb/uottahack_logo.png?1764096422",
+      "mlh_start_date": "2026-01-16",
+      "mlh_end_date": "2026-01-18"
+    },
+    {
+      "_id": "6941f0339030097f60e582b6",
+      "id": 50853,
+      "url": "https://hackbi.org/",
+      "title": "Hack BI",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/377/thumb/IMG_1718_%281%29.JPG?1751977469",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 17th - 18th",
+      "displayed_location": "Alexandria, Virginia",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://hackbi.org/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/377/thumb/IMG_1716.JPG?1751029444",
+      "mlh_start_date": "2026-01-17",
+      "mlh_end_date": "2026-01-18"
+    },
+    {
+      "_id": "6941f0339030097f60e582b7",
+      "id": 41098,
+      "url": "https://hackville.io/",
+      "title": "Hackville",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/548/thumb/Event_Backsplash.png?1764016091",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 17th - 18th",
+      "displayed_location": "Mississauga, Ontario",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://hackville.io/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/548/thumb/Event_Logo.png?1764016091",
+      "mlh_start_date": "2026-01-17",
+      "mlh_end_date": "2026-01-18"
+    },
+    {
+      "_id": "6941f0339030097f60e582b8",
+      "id": 93675,
+      "url": "https://mchacks.ca/",
+      "title": "McHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/364/thumb/mchacks-backsplash.png?1753700512",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 17th - 18th",
+      "displayed_location": "Montreal, Quebec",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://mchacks.ca/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/364/thumb/mchacks-logo.png?1753700512",
+      "mlh_start_date": "2026-01-17",
+      "mlh_end_date": "2026-01-18"
+    },
+    {
+      "_id": "6941f0339030097f60e582b9",
+      "id": 70534,
+      "url": "https://nexhacks.com",
+      "title": "NexHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/564/thumb/nexhacksbackground.png?1765469924",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 17th - 18th",
+      "displayed_location": "Pittsburgh, PA",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://nexhacks.com",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/564/thumb/logonexhacks.png?1765469924",
+      "mlh_start_date": "2026-01-17",
+      "mlh_end_date": "2026-01-18"
+    },
+    {
+      "_id": "6941f0339030097f60e582ba",
+      "id": 88339,
+      "url": "https://nwhacks.io/",
+      "title": "nwHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/374/thumb/backsplash_updated.png?1763581410",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 17th - 18th",
+      "displayed_location": "Vancouver, Canada",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://nwhacks.io/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/374/thumb/logo_%2812%29.png?1763581410",
+      "mlh_start_date": "2026-01-17",
+      "mlh_end_date": "2026-01-18"
+    },
+    {
+      "_id": "6941f0339030097f60e582bb",
+      "id": 44237,
+      "url": "https://hoyahacks.georgetown.domains/",
+      "title": "Hoya Hacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/351/thumb/Screen_Shot_2025-06-18_at_10.49.45_AM.png?1750258394",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 23rd - 25th",
+      "displayed_location": "Washington, District of Columbia",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://hoyahacks.georgetown.domains/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/351/thumb/Screen_Shot_2025-06-18_at_10.50.05_AM.png?1750258394",
+      "mlh_start_date": "2026-01-23",
+      "mlh_end_date": "2026-01-25"
+    },
+    {
+      "_id": "6941f0339030097f60e582bc",
+      "id": 46150,
+      "url": "https://datathon.rice.edu/",
+      "title": "Rice Datathon",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/536/thumb/Datathon_Logo_300px__300px.png?1763585499",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 23rd - 25th",
+      "displayed_location": "Houston, Texas",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://datathon.rice.edu/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/536/thumb/Datathon_Logo_100px__100_px.png?1763585499",
+      "mlh_start_date": "2026-01-23",
+      "mlh_end_date": "2026-01-25"
+    },
+    {
+      "_id": "6941f0339030097f60e582bd",
+      "id": 40299,
+      "url": "https://xi.swamphacks.com/",
+      "title": "SwampHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/497/thumb/mlh_large_center.png?1762203516",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 23rd - 25th",
+      "displayed_location": "Gainesville, Florida",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://xi.swamphacks.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/497/thumb/mlh_small.png?1762203515",
+      "mlh_start_date": "2026-01-23",
+      "mlh_end_date": "2026-01-25"
+    },
+    {
+      "_id": "6941f0339030097f60e582be",
+      "id": 77116,
+      "url": "https://www.conuhacks.io/",
+      "title": "ConUHacks X",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/388/thumb/Hack_Concordia_%2812%29.png?1765487309",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24th - 25th",
+      "displayed_location": "Montreal, Quebec",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://www.conuhacks.io/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/388/thumb/image__18_.png?1751489458",
+      "mlh_start_date": "2026-01-24",
+      "mlh_end_date": "2026-01-25"
+    },
+    {
+      "_id": "6941f0339030097f60e582bf",
+      "id": 88426,
+      "url": "https://th26.tamuhack.org",
+      "title": "TAMUhack",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/545/thumb/TH26_Backsplash.png?1764603683",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24th - 25th",
+      "displayed_location": "College Station, Texas",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://th26.tamuhack.org",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/545/thumb/TH26_MLH_Logo.png?1764603683",
+      "mlh_start_date": "2026-01-24",
+      "mlh_end_date": "2026-01-25"
+    },
+    {
+      "_id": "6941f0339030097f60e582c0",
+      "id": 2803,
+      "url": "https://ellehacks.com/",
+      "title": "ElleHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/380/thumb/Event_Backsplash_-_300x300px_-_ElleHacks.png?1751285094",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 30th - Feb 1st",
+      "displayed_location": "Toronto, Ontario",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://ellehacks.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/380/thumb/Event_Logo_-_100x100px_-_ElleHacks.png?1751285093",
+      "mlh_start_date": "2026-01-30",
+      "mlh_end_date": "2026-02-01"
+    },
+    {
+      "_id": "6941f0339030097f60e582c1",
+      "id": 20440,
+      "url": "https://www.innerve.tech/",
+      "title": "Innerve",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/562/thumb/innerve_banner.png?1765199563",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 30th - 31st",
+      "displayed_location": "Pune, Maharashtra",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://www.innerve.tech/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/562/thumb/logo_page-0001.jpg?1765131227",
+      "mlh_start_date": "2026-01-30",
+      "mlh_end_date": "2026-01-31"
+    },
+    {
+      "_id": "6941f0339030097f60e582c2",
+      "id": 14138,
+      "url": "https://hackatbrown.org/",
+      "title": "Hack@Brown",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/553/thumb/h_b_2026.png?1764082671",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 31st - Feb 1st",
+      "displayed_location": "Providence, Rhode Island",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://hackatbrown.org/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/553/thumb/h_b_2026.png?1764082670",
+      "mlh_start_date": "2026-01-31",
+      "mlh_end_date": "2026-02-01"
+    },
+    {
+      "_id": "6941f0339030097f60e582c3",
+      "id": 47592,
+      "url": "https://main--hackviolet.netlify.app/",
+      "title": "HackViolet",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/346/thumb/Hackviolet_MLH_backsplash__2x.png?1750765877",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 31st - Feb 1st",
+      "displayed_location": "Blacksburg, Virginia",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://main--hackviolet.netlify.app/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/346/thumb/hackviolet_MLH_Logo_2x.png?1750765876",
+      "mlh_start_date": "2026-01-31",
+      "mlh_end_date": "2026-02-01"
+    },
+    {
+      "_id": "6941f0339030097f60e582c4",
+      "id": 31248,
+      "url": "https://hackathon.utra.ca/",
+      "title": "UTRA Hacks 2026",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/400/thumb/image_%289%29.png?1751900629",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 31st - Feb 1st",
+      "displayed_location": "Toronto, Ontario",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://hackathon.utra.ca/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/400/thumb/image_%289%29.png?1751900629",
+      "mlh_start_date": "2026-01-31",
+      "mlh_end_date": "2026-02-01"
+    },
+    {
+      "_id": "6941f0339030097f60e582c5",
+      "id": 71873,
+      "url": "https://mac-a-thon.gdscmcmasteru.ca/",
+      "title": "Mac-a-Thon",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/563/thumb/300x300__1_.png?1765469249",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 6th - 8th",
+      "displayed_location": "Hamilton, Ontario",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://mac-a-thon.gdscmcmasteru.ca/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/563/thumb/100x100__1_.png?1765469248",
+      "mlh_start_date": "2026-02-06",
+      "mlh_end_date": "2026-02-08"
+    },
+    {
+      "_id": "6941f0339030097f60e582c6",
+      "id": 81585,
+      "url": "https://qhacks.io/",
+      "title": "QHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/369/thumb/Screen_Shot_2025-06-25_at_3.40.50_PM.png?1750880873",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 6th - 8th",
+      "displayed_location": "Kingston, Ontario",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://qhacks.io/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/369/thumb/QHacksLogo_WhiteBG.jpg?1750880622",
+      "mlh_start_date": "2026-02-06",
+      "mlh_end_date": "2026-02-08"
+    },
+    {
+      "_id": "6941f0339030097f60e582c7",
+      "id": 74836,
+      "url": "https://11.ugahacks.com",
+      "title": "UGAHacks 11",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/471/thumb/Event_Backsplash.png?1758137736",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 6th - 8th",
+      "displayed_location": "Athens, Georgia",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://11.ugahacks.com",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/471/thumb/Profile_Picture_with_Byte.jpg?1757535997",
+      "mlh_start_date": "2026-02-06",
+      "mlh_end_date": "2026-02-08"
+    },
+    {
+      "_id": "6941f0339030097f60e582c8",
+      "id": 83998,
+      "url": "https://26-devfest.netlify.app/",
+      "title": "DevFest",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/359/thumb/Backsplash_%281%29.png?1750447421",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 7th - 8th",
+      "displayed_location": "New York, New York",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://26-devfest.netlify.app/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/359/thumb/logodf26.png?1750447421",
+      "mlh_start_date": "2026-02-07",
+      "mlh_end_date": "2026-02-08"
+    },
+    {
+      "_id": "6941f0339030097f60e582c9",
+      "id": 87784,
+      "url": "https://innovateherhacks.org/",
+      "title": "InnovateHer",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/560/thumb/Backsplash.png?1764786838",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 7th - 8th",
+      "displayed_location": "West Lafayette, Indiana",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://innovateherhacks.org/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/560/thumb/Logo2026.png?1764786837",
+      "mlh_start_date": "2026-02-07",
+      "mlh_end_date": "2026-02-08"
+    },
+    {
+      "_id": "6941f0339030097f60e582ca",
+      "id": 34871,
+      "url": "https://www.qwerhacks.com/",
+      "title": "QWER Hacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/363/thumb/Screen_Shot_2025-06-24_at_7.27.06_AM.png?1750764595",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 7th - 8th",
+      "displayed_location": "Los Angeles, California",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 1 month left",
+      "themes": [],
+      "start_a_submission_url": "https://www.qwerhacks.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/363/thumb/2023_logo__3_.png?1750764594",
+      "mlh_start_date": "2026-02-07",
+      "mlh_end_date": "2026-02-08"
+    },
+    {
+      "_id": "6941f0339030097f60e582cb",
+      "id": 52025,
+      "url": "https://events.mlh.io/events/13382",
+      "title": "Global Hack Week: Data",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/533/thumb/hero.jpg?1763119787",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 13th - 19th",
+      "displayed_location": "Everywhere, Online",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://events.mlh.io/events/13382",
+      "source": "mlh",
+      "mlh_event_type": "Digital Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/533/thumb/icon.png?1763119786",
+      "mlh_start_date": "2026-02-13",
+      "mlh_end_date": "2026-02-19"
+    },
+    {
+      "_id": "6941f0339030097f60e582cc",
+      "id": 82819,
+      "url": "https://sfhacks.io",
+      "title": "SFHacks 2026",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/381/thumb/MLH_Banner__%281%29.png?1751462433",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 13th - 15th",
+      "displayed_location": "San Francisco, California",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://sfhacks.io",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/381/thumb/2.png?1751462433",
+      "mlh_start_date": "2026-02-13",
+      "mlh_end_date": "2026-02-15"
+    },
+    {
+      "_id": "6941f0339030097f60e582cd",
+      "id": 16882,
+      "url": "https://hackncstate.org/",
+      "title": "Hack_NCState",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/354/thumb/Hack_NCState_Logo_300x300.png?1750424780",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 14th - 15th",
+      "displayed_location": "Raleigh, North Carolina",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://hackncstate.org/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/354/thumb/Hack_NCState_Logo_Red_100x100.png?1750424780",
+      "mlh_start_date": "2026-02-14",
+      "mlh_end_date": "2026-02-15"
+    },
+    {
+      "_id": "6941f0339030097f60e582ce",
+      "id": 30950,
+      "url": "https://hacklytics.io/",
+      "title": "Hacklytics",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/379/thumb/backsplash_%282%29.png?1751034157",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 20th - 22nd",
+      "displayed_location": "Atlanta, Georgia",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://hacklytics.io/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/379/thumb/logo_%282%29.png?1751034157",
+      "mlh_start_date": "2026-02-20",
+      "mlh_end_date": "2026-02-22"
+    },
+    {
+      "_id": "6941f0339030097f60e582cf",
+      "id": 32584,
+      "url": "https://wsu-acm.github.io/crimsoncode/",
+      "title": "CrimsonCode Hackathon",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/532/thumb/cch_mlh_300x300.png?1762379457",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 21st - 22nd",
+      "displayed_location": "Pullman, Washington",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://wsu-acm.github.io/crimsoncode/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/532/thumb/cch_mlh_100x100.png?1762379457",
+      "mlh_start_date": "2026-02-21",
+      "mlh_end_date": "2026-02-22"
+    },
+    {
+      "_id": "6941f0339030097f60e582d0",
+      "id": 38379,
+      "url": "https://ruhackhers.org",
+      "title": "HackHERS",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/356/thumb/Backsplash_%285%29.png?1750441264",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 21st - 22nd",
+      "displayed_location": "New Brunswick, New Jersey",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://ruhackhers.org",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/356/thumb/Logo.png?1750768980",
+      "mlh_start_date": "2026-02-21",
+      "mlh_end_date": "2026-02-22"
+    },
+    {
+      "_id": "6941f0339030097f60e582d1",
+      "id": 20401,
+      "url": "https://hackaturi.com/",
+      "title": "Hack@URI ",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/496/thumb/hackaturieventbanner.png?1761943952",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 21st - 22nd",
+      "displayed_location": "Kingston, Rhode Island",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://hackaturi.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/496/thumb/hack_uri2026logo.png?1761943952",
+      "mlh_start_date": "2026-02-21",
+      "mlh_end_date": "2026-02-22"
+    },
+    {
+      "_id": "6941f0339030097f60e582d2",
+      "id": 92469,
+      "url": "https://pearlhacks.com/",
+      "title": "Pearl Hacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/395/thumb/Pearl_Hacks_Backsplash.png?1751895453",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 21st - 22nd",
+      "displayed_location": "Chapel Hill, North Carolina",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://pearlhacks.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/395/thumb/Pearl_Hacks_Logo.png?1751895453",
+      "mlh_start_date": "2026-02-21",
+      "mlh_end_date": "2026-02-22"
+    },
+    {
+      "_id": "6941f0339030097f60e582d3",
+      "id": 20074,
+      "url": "https://www.henhackshackathon.com/",
+      "title": "HenHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/365/thumb/backlash_%281%29.png?1750776953",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 28th - Mar 1st",
+      "displayed_location": "Newark, Delaware",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://www.henhackshackathon.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/365/thumb/discord-pfp__2_.png?1750776952",
+      "mlh_start_date": "2026-02-28",
+      "mlh_end_date": "2026-03-01"
+    },
+    {
+      "_id": "6941f0339030097f60e582d4",
+      "id": 71514,
+      "url": "https://wichacks.io",
+      "title": "WiCHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/382/thumb/wichacks2026_backsplash_mlh.png?1751463035",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 28th - Mar 1st",
+      "displayed_location": "Rochester, New York",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://wichacks.io",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/382/thumb/wichacks2026_logo_mlh.png?1751463034",
+      "mlh_start_date": "2026-02-28",
+      "mlh_end_date": "2026-03-01"
+    },
+    {
+      "_id": "6941f0339030097f60e582d5",
+      "id": 36139,
+      "url": "https://cmd-f.nwplus.io/",
+      "title": "cmd-f 2026",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/367/thumb/Backsplash_cmd-f.png?1750787919",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 7th - 8th",
+      "displayed_location": "Vancouver, Canada",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://cmd-f.nwplus.io/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/367/thumb/logo_cmd-f.png?1750787919",
+      "mlh_start_date": "2026-03-07",
+      "mlh_end_date": "2026-03-08"
+    },
+    {
+      "_id": "6941f0339030097f60e582d6",
+      "id": 69633,
+      "url": "https://www.rockethacks.org/",
+      "title": "Rockethacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/571/thumb/Backsplash_RH_2026.jpg?1765561136",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 14th - 15th",
+      "displayed_location": "Toledo, Ohio",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 2 months left",
+      "themes": [],
+      "start_a_submission_url": "https://www.rockethacks.org/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/571/thumb/RH_%281%29.jpg?1765561135",
+      "mlh_start_date": "2026-03-14",
+      "mlh_end_date": "2026-03-15"
+    },
+    {
+      "_id": "6941f0339030097f60e582d7",
+      "id": 9372,
+      "url": "https://khe.io/",
+      "title": "Kent Hack Enough",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/385/thumb/300xBackground.png?1751488138",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 28th - 29th",
+      "displayed_location": "Kent, Ohio",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 3 months left",
+      "themes": [],
+      "start_a_submission_url": "https://khe.io/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/385/thumb/100xKHEwBG.png?1751488138",
+      "mlh_start_date": "2026-03-28",
+      "mlh_end_date": "2026-03-29"
+    },
+    {
+      "_id": "6941f0339030097f60e582d8",
+      "id": 17394,
+      "url": "https://revolutionuc.com/",
+      "title": "RevolutionUC",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/396/thumb/Unknown.png?1751895644",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 28th - 29th",
+      "displayed_location": "Cincinnati, Ohio",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 3 months left",
+      "themes": [],
+      "start_a_submission_url": "https://revolutionuc.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/396/thumb/Unknown.png?1751895644",
+      "mlh_start_date": "2026-03-28",
+      "mlh_end_date": "2026-03-29"
+    },
+    {
+      "_id": "6941f0339030097f60e582d9",
+      "id": 43827,
+      "url": "https://www.hackbyte.in/",
+      "title": "HackByte 4.0",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/312/thumb/hb4_topaligned_sqr.png?1748952558",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 3rd - 5th",
+      "displayed_location": "Jabalpur, Madhya Pradesh",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 3 months left",
+      "themes": [],
+      "start_a_submission_url": "https://www.hackbyte.in/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/312/thumb/hackbytelogo.png?1748952558",
+      "mlh_start_date": "2026-04-03",
+      "mlh_end_date": "2026-04-05"
+    },
+    {
+      "_id": "6941f0339030097f60e582da",
+      "id": 88671,
+      "url": "https://diamondhacks.acmucsd.com/",
+      "title": "DiamondHacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/348/thumb/Screen_Shot_2025-06-16_at_12.17.23_PM.png?1750090760",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 4th - 5th",
+      "displayed_location": "San Diego, California",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 3 months left",
+      "themes": [],
+      "start_a_submission_url": "https://diamondhacks.acmucsd.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/348/thumb/diamondhacks_pfp.png?1750090759",
+      "mlh_start_date": "2026-04-04",
+      "mlh_end_date": "2026-04-05"
+    },
+    {
+      "_id": "6941f0339030097f60e582db",
+      "id": 64762,
+      "url": "https://bit.camp/",
+      "title": "Bitcamp",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/383/thumb/Bitcamp_Logo.png?1751463705",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 10th - 12th",
+      "displayed_location": "College Park, Maryland",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 3 months left",
+      "themes": [],
+      "start_a_submission_url": "https://bit.camp/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/383/thumb/bitcamp_logo.jpeg?1751463544",
+      "mlh_start_date": "2026-04-10",
+      "mlh_end_date": "2026-04-12"
+    },
+    {
+      "_id": "6941f0339030097f60e582dc",
+      "id": 17793,
+      "url": "https://www.wehackutd.com",
+      "title": "WEHack",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/360/thumb/logo__7_.png?1750453101",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 11th - 12th",
+      "displayed_location": "Richardson, Texas",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 3 months left",
+      "themes": [],
+      "start_a_submission_url": "https://www.wehackutd.com",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/360/thumb/logo__7_.png?1750453101",
+      "mlh_start_date": "2026-04-11",
+      "mlh_end_date": "2026-04-12"
+    },
+    {
+      "_id": "6941f0339030097f60e582dd",
+      "id": 1692,
+      "url": "https://lahacks.com/",
+      "title": "LA Hacks",
+      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/537/thumb/backsplash.png?1764010034",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 24th - 26th",
+      "displayed_location": "Los Angeles, California",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": "about 4 months left",
+      "themes": [],
+      "start_a_submission_url": "https://lahacks.com/",
+      "source": "mlh",
+      "mlh_event_type": "In-Person Only",
+      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/537/thumb/logo.png?1764010033",
+      "mlh_start_date": "2026-04-24",
+      "mlh_end_date": "2026-04-26"
+    },
+    {
+      "_id": "6941f0349030097f60e582de",
       "id": 27230,
       "url": "https://sap.devpost.com/",
       "title": "SAP Business AI Innovation Challenge",
@@ -1581,9 +2743,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 01, 2025 - Jan 07, 2026",
       "displayed_location": "Online",
-      "registrations_count": 298,
+      "registrations_count": 302,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
           "id": 21,
@@ -1602,69 +2764,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec32284cf0fae37ac5e",
-      "id": 27183,
-      "url": "https://global-youth-climate-hackathon.devpost.com/",
-      "title": "Global Youth Climate Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/910/867/datas/medium_square.jpeg",
-      "featured": false,
-      "organization_name": "Youth Environmental Alliance",
-      "isOpen": "open",
-      "submission_period_dates": "Oct 31 - Dec 16, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 31,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "about 5 hours left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://global-youth-climate-hackathon.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac5f",
-      "id": 27116,
-      "url": "https://bria-ai.devpost.com/",
-      "title": "FIBO Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/934/447/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Bria",
-      "isOpen": "open",
-      "submission_period_dates": "Nov 03 - Dec 15, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 1171,
-      "prizeText": "$<span data-currency-value>30,000</span>",
-      "time_left_to_submission": "about 1 hour left",
-      "themes": [
-        {
-          "id": 20,
-          "name": "E-commerce/Retail"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "start_a_submission_url": "https://bria-ai.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac60",
+      "_id": "6941f0349030097f60e582df",
       "id": 27177,
       "url": "https://strathspace-hack-day.devpost.com/",
       "title": "Strathspace Hack Day",
@@ -1674,7 +2774,7 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 27, 2025 - Feb 26, 2026",
       "displayed_location": "Online",
-      "registrations_count": 87,
+      "registrations_count": 88,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "2 months left",
       "themes": [
@@ -1691,7 +2791,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec42284cf0fae37ac61",
+      "_id": "6941f0349030097f60e582e0",
       "id": 26670,
       "url": "https://ai-partner-catalyst.devpost.com/",
       "title": "AI Partner Catalyst: Accelerate Innovation",
@@ -1701,9 +2801,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 17 - Dec 31, 2025",
       "displayed_location": "Online",
-      "registrations_count": 4550,
+      "registrations_count": 4653,
       "prizeText": "$<span data-currency-value>75,000</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 6,
@@ -1722,7 +2822,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec42284cf0fae37ac62",
+      "_id": "6941f0349030097f60e582e1",
       "id": 27112,
       "url": "https://malim-hackathon-2025.devpost.com/",
       "title": "Malim Hackathon 2025",
@@ -1753,7 +2853,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec42284cf0fae37ac63",
+      "_id": "6941f0349030097f60e582e2",
       "id": 26217,
       "url": "https://griddb-iot-hackathon.devpost.com/",
       "title": "GridDB Cloud IoT Hackathon",
@@ -1763,9 +2863,9 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 20 - Dec 21, 2025",
       "displayed_location": "Hotel Davanam Sarovar Portico Suites",
-      "registrations_count": 235,
+      "registrations_count": 246,
       "prizeText": "$<span data-currency-value>5,000</span>",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "themes": [
         {
           "id": 7,
@@ -1784,7 +2884,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec42284cf0fae37ac64",
+      "_id": "6941f0349030097f60e582e3",
       "id": 26983,
       "url": "https://hackai-26983.devpost.com/",
       "title": "Averix Hacks ",
@@ -1794,9 +2894,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 20, 2025 - Jan 10, 2026",
       "displayed_location": "Online",
-      "registrations_count": 40,
+      "registrations_count": 41,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "26 days left",
+      "time_left_to_submission": "25 days left",
       "themes": [
         {
           "id": 23,
@@ -1811,7 +2911,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec42284cf0fae37ac65",
+      "_id": "6941f0349030097f60e582e4",
       "id": 26912,
       "url": "https://ai4alzheimers.devpost.com/",
       "title": "AI 4 Alzheimer's",
@@ -1821,9 +2921,9 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 22 - Dec 31, 2025",
       "displayed_location": "Online",
-      "registrations_count": 1208,
+      "registrations_count": 1224,
       "prizeText": "$<span data-currency-value>500</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 23,
@@ -1842,7 +2942,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec42284cf0fae37ac66",
+      "_id": "6941f0349030097f60e582e5",
       "id": 26976,
       "url": "https://hackmars-1.devpost.com/",
       "title": "HackMars 1.0",
@@ -1852,9 +2952,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 20 - Dec 20, 2025",
       "displayed_location": "Online",
-      "registrations_count": 261,
+      "registrations_count": 266,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "themes": [
         {
           "id": 19,
@@ -1873,7 +2973,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec42284cf0fae37ac67",
+      "_id": "6941f0349030097f60e582e6",
       "id": 26711,
       "url": "https://codegeistxawr.devpost.com/",
       "title": "Codegeist 2025: Atlassian Williams Racing Edition",
@@ -1883,9 +2983,9 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 27 - Dec 22, 2025",
       "displayed_location": "Online",
-      "registrations_count": 3157,
+      "registrations_count": 3219,
       "prizeText": "$<span data-currency-value>120,000</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 6,
@@ -1904,1107 +3004,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec42284cf0fae37ac68",
-      "id": 15120,
-      "url": "https://events.mlh.io/events/12943",
-      "title": "Global Hack Week: AI/ML",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/480/thumb/hero.jpg?1758624453",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 12th - 18th",
-      "displayed_location": "Everywhere, Online",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "3 days left",
-      "themes": [],
-      "start_a_submission_url": "https://events.mlh.io/events/12943",
-      "source": "mlh",
-      "mlh_event_type": "Digital Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/480/thumb/icon.png?1758624453",
-      "mlh_start_date": "2025-12-12",
-      "mlh_end_date": "2025-12-18"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac69",
-      "id": 34837,
-      "url": "https://pechacks.org/",
-      "title": "PEC Hacks 3.0",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/494/thumb/MLH_EVENT_SPLASH.png?1761732324",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 27th - 28th",
-      "displayed_location": "Chennai, Tamil Nadu",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 week left",
-      "themes": [],
-      "start_a_submission_url": "https://pechacks.org/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/494/thumb/PEC_HACKS_LOGO.png?1761732324",
-      "mlh_start_date": "2025-12-27",
-      "mlh_end_date": "2025-12-28"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac6a",
-      "id": 50774,
-      "url": "https://events.mlh.io/events/13143",
-      "title": "Hacks for Hackers",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/484/thumb/social-instagram.jpg?1761566447",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 2nd - 4th",
-      "displayed_location": "Everywhere, Worldwide",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 weeks left",
-      "themes": [],
-      "start_a_submission_url": "https://events.mlh.io/events/13143",
-      "source": "mlh",
-      "mlh_event_type": "Digital Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/484/thumb/event-icon.jpg?1760361788",
-      "mlh_start_date": "2026-01-02",
-      "mlh_end_date": "2026-01-04"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac6b",
-      "id": 48055,
-      "url": "https://events.mlh.io/events/13277",
-      "title": "Global Hack Week: Beginners",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/485/thumb/IG.jpg?1760525764",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 9th - 15th",
-      "displayed_location": "Everywhere, Online",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://events.mlh.io/events/13277",
-      "source": "mlh",
-      "mlh_event_type": "Digital Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/485/thumb/hero.jpg?1760525764",
-      "mlh_start_date": "2026-01-09",
-      "mlh_end_date": "2026-01-15"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac6c",
-      "id": 18149,
-      "url": "https://www.shehacks.ca/",
-      "title": "SheHacks+ 10",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/538/thumb/Screenshot_2025-10-15_163246.png?1764013760",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 9th - 11th",
-      "displayed_location": "London, Ontario",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 weeks left",
-      "themes": [],
-      "start_a_submission_url": "https://www.shehacks.ca/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/538/thumb/Screenshot_2025-10-15_163504.png?1764013759",
-      "mlh_start_date": "2026-01-09",
-      "mlh_end_date": "2026-01-11"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac6d",
-      "id": 81249,
-      "url": "https://www.deltahacks.com/",
-      "title": "DeltaHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/355/thumb/Copy_of_Backsplash.png?1750432939",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 10th - 11th",
-      "displayed_location": "Hamilton, Ontario",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 weeks left",
-      "themes": [],
-      "start_a_submission_url": "https://www.deltahacks.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/355/thumb/Copy_of_Icon.png?1750432939",
-      "mlh_start_date": "2026-01-10",
-      "mlh_end_date": "2026-01-11"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac6e",
-      "id": 92136,
-      "url": "https://sbhacks.com/",
-      "title": "SB Hacks XII",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/542/thumb/sbhacks_xii_MLH_Banner_300x300.png?1765210372",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 10th - 11th",
-      "displayed_location": "Isla Vista, California",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 weeks left",
-      "themes": [],
-      "start_a_submission_url": "https://sbhacks.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/542/thumb/sbhacks_xii_logo_100x100.png?1765210371",
-      "mlh_start_date": "2026-01-10",
-      "mlh_end_date": "2026-01-11"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac6f",
-      "id": 76474,
-      "url": "https://cruzhacks.com/",
-      "title": "CruzHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/549/thumb/CruzHacks_Splash__3_.png?1764017283",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 16th - 18th",
-      "displayed_location": "Santa Cruz, California",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://cruzhacks.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/549/thumb/CruzHacks_Logo.png?1764017283",
-      "mlh_start_date": "2026-01-16",
-      "mlh_end_date": "2026-01-18"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac70",
-      "id": 14131,
-      "url": "https://uofthacks.com/",
-      "title": "UofTHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/498/thumb/Screenshot_2025-11-26_at_9.36.14%E2%80%AFAM.png?1764167974",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 16th - 18th",
-      "displayed_location": "Toronto, Ontario",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://uofthacks.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/498/thumb/Screenshot_2025-11-26_at_9.39.08%E2%80%AFAM.png?1764167957",
-      "mlh_start_date": "2026-01-16",
-      "mlh_end_date": "2026-01-18"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac71",
-      "id": 67428,
-      "url": "https://www.uottahack.ca/",
-      "title": "uOttaHack 8",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/541/thumb/MLH_thumbnail.png?1764096423",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 16th - 18th",
-      "displayed_location": "Ottawa, Ontario",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://www.uottahack.ca/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/541/thumb/uottahack_logo.png?1764096422",
-      "mlh_start_date": "2026-01-16",
-      "mlh_end_date": "2026-01-18"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac72",
-      "id": 49491,
-      "url": "https://hackbi.org/",
-      "title": "Hack BI",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/377/thumb/IMG_1718_%281%29.JPG?1751977469",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 17th - 18th",
-      "displayed_location": "Alexandria, Virginia",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://hackbi.org/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/377/thumb/IMG_1716.JPG?1751029444",
-      "mlh_start_date": "2026-01-17",
-      "mlh_end_date": "2026-01-18"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac73",
-      "id": 62963,
-      "url": "https://hackville.io/",
-      "title": "Hackville",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/548/thumb/Event_Backsplash.png?1764016091",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 17th - 18th",
-      "displayed_location": "Mississauga, Ontario",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://hackville.io/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/548/thumb/Event_Logo.png?1764016091",
-      "mlh_start_date": "2026-01-17",
-      "mlh_end_date": "2026-01-18"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac74",
-      "id": 29015,
-      "url": "https://mchacks.ca/",
-      "title": "McHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/364/thumb/mchacks-backsplash.png?1753700512",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 17th - 18th",
-      "displayed_location": "Montreal, Quebec",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://mchacks.ca/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/364/thumb/mchacks-logo.png?1753700512",
-      "mlh_start_date": "2026-01-17",
-      "mlh_end_date": "2026-01-18"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac75",
-      "id": 67835,
-      "url": "https://nexhacks.com",
-      "title": "NexHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/564/thumb/nexhacksbackground.png?1765469924",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 17th - 18th",
-      "displayed_location": "Pittsburgh, PA",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://nexhacks.com",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/564/thumb/logonexhacks.png?1765469924",
-      "mlh_start_date": "2026-01-17",
-      "mlh_end_date": "2026-01-18"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac76",
-      "id": 98190,
-      "url": "https://nwhacks.io/",
-      "title": "nwHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/374/thumb/backsplash_updated.png?1763581410",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 17th - 18th",
-      "displayed_location": "Vancouver, Canada",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://nwhacks.io/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/374/thumb/logo_%2812%29.png?1763581410",
-      "mlh_start_date": "2026-01-17",
-      "mlh_end_date": "2026-01-18"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac77",
-      "id": 13253,
-      "url": "https://hoyahacks.georgetown.domains/",
-      "title": "Hoya Hacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/351/thumb/Screen_Shot_2025-06-18_at_10.49.45_AM.png?1750258394",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 23rd - 25th",
-      "displayed_location": "Washington, District of Columbia",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://hoyahacks.georgetown.domains/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/351/thumb/Screen_Shot_2025-06-18_at_10.50.05_AM.png?1750258394",
-      "mlh_start_date": "2026-01-23",
-      "mlh_end_date": "2026-01-25"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac78",
-      "id": 55339,
-      "url": "https://datathon.rice.edu/",
-      "title": "Rice Datathon",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/536/thumb/Datathon_Logo_300px__300px.png?1763585499",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 23rd - 25th",
-      "displayed_location": "Houston, Texas",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://datathon.rice.edu/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/536/thumb/Datathon_Logo_100px__100_px.png?1763585499",
-      "mlh_start_date": "2026-01-23",
-      "mlh_end_date": "2026-01-25"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac79",
-      "id": 32209,
-      "url": "https://xi.swamphacks.com/",
-      "title": "SwampHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/497/thumb/mlh_large_center.png?1762203516",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 23rd - 25th",
-      "displayed_location": "Gainesville, Florida",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://xi.swamphacks.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/497/thumb/mlh_small.png?1762203515",
-      "mlh_start_date": "2026-01-23",
-      "mlh_end_date": "2026-01-25"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac7a",
-      "id": 18974,
-      "url": "https://www.conuhacks.io/",
-      "title": "ConUHacks X",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/388/thumb/Hack_Concordia_%2812%29.png?1765487309",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 24th - 25th",
-      "displayed_location": "Montreal, Quebec",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://www.conuhacks.io/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/388/thumb/image__18_.png?1751489458",
-      "mlh_start_date": "2026-01-24",
-      "mlh_end_date": "2026-01-25"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac7b",
-      "id": 91204,
-      "url": "https://th26.tamuhack.org",
-      "title": "TAMUhack",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/545/thumb/TH26_Backsplash.png?1764603683",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 24th - 25th",
-      "displayed_location": "College Station, Texas",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://th26.tamuhack.org",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/545/thumb/TH26_MLH_Logo.png?1764603683",
-      "mlh_start_date": "2026-01-24",
-      "mlh_end_date": "2026-01-25"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac7c",
-      "id": 99999,
-      "url": "https://ellehacks.com/",
-      "title": "ElleHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/380/thumb/Event_Backsplash_-_300x300px_-_ElleHacks.png?1751285094",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 30th - Feb 1st",
-      "displayed_location": "Toronto, Ontario",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://ellehacks.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/380/thumb/Event_Logo_-_100x100px_-_ElleHacks.png?1751285093",
-      "mlh_start_date": "2026-01-30",
-      "mlh_end_date": "2026-02-01"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac7d",
-      "id": 81661,
-      "url": "https://www.innerve.tech/",
-      "title": "Innerve",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/562/thumb/innerve_banner.png?1765199563",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 30th - 31st",
-      "displayed_location": "Pune, Maharashtra",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://www.innerve.tech/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/562/thumb/logo_page-0001.jpg?1765131227",
-      "mlh_start_date": "2026-01-30",
-      "mlh_end_date": "2026-01-31"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac7e",
-      "id": 81871,
-      "url": "https://hackatbrown.org/",
-      "title": "Hack@Brown",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/553/thumb/h_b_2026.png?1764082671",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 31st - Feb 1st",
-      "displayed_location": "Providence, Rhode Island",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://hackatbrown.org/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/553/thumb/h_b_2026.png?1764082670",
-      "mlh_start_date": "2026-01-31",
-      "mlh_end_date": "2026-02-01"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac7f",
-      "id": 29559,
-      "url": "https://main--hackviolet.netlify.app/",
-      "title": "HackViolet",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/346/thumb/Hackviolet_MLH_backsplash__2x.png?1750765877",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 31st - Feb 1st",
-      "displayed_location": "Blacksburg, Virginia",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://main--hackviolet.netlify.app/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/346/thumb/hackviolet_MLH_Logo_2x.png?1750765876",
-      "mlh_start_date": "2026-01-31",
-      "mlh_end_date": "2026-02-01"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac80",
-      "id": 67679,
-      "url": "https://hackathon.utra.ca/",
-      "title": "UTRA Hacks 2026",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/400/thumb/image_%289%29.png?1751900629",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 31st - Feb 1st",
-      "displayed_location": "Toronto, Ontario",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://hackathon.utra.ca/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/400/thumb/image_%289%29.png?1751900629",
-      "mlh_start_date": "2026-01-31",
-      "mlh_end_date": "2026-02-01"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac81",
-      "id": 69974,
-      "url": "https://mac-a-thon.gdscmcmasteru.ca/",
-      "title": "Mac-a-Thon",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/563/thumb/300x300__1_.png?1765469249",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 6th - 8th",
-      "displayed_location": "Hamilton, Ontario",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://mac-a-thon.gdscmcmasteru.ca/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/563/thumb/100x100__1_.png?1765469248",
-      "mlh_start_date": "2026-02-06",
-      "mlh_end_date": "2026-02-08"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac82",
-      "id": 38762,
-      "url": "https://qhacks.io/",
-      "title": "QHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/369/thumb/Screen_Shot_2025-06-25_at_3.40.50_PM.png?1750880873",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 6th - 8th",
-      "displayed_location": "Kingston, Ontario",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://qhacks.io/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/369/thumb/QHacksLogo_WhiteBG.jpg?1750880622",
-      "mlh_start_date": "2026-02-06",
-      "mlh_end_date": "2026-02-08"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac83",
-      "id": 76741,
-      "url": "https://11.ugahacks.com",
-      "title": "UGAHacks 11",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/471/thumb/Event_Backsplash.png?1758137736",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 6th - 8th",
-      "displayed_location": "Athens, Georgia",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://11.ugahacks.com",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/471/thumb/Profile_Picture_with_Byte.jpg?1757535997",
-      "mlh_start_date": "2026-02-06",
-      "mlh_end_date": "2026-02-08"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac84",
-      "id": 20323,
-      "url": "https://26-devfest.netlify.app/",
-      "title": "DevFest",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/359/thumb/Backsplash_%281%29.png?1750447421",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 7th - 8th",
-      "displayed_location": "New York, New York",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://26-devfest.netlify.app/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/359/thumb/logodf26.png?1750447421",
-      "mlh_start_date": "2026-02-07",
-      "mlh_end_date": "2026-02-08"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac85",
-      "id": 51015,
-      "url": "https://innovateherhacks.org/",
-      "title": "InnovateHer",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/560/thumb/Backsplash.png?1764786838",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 7th - 8th",
-      "displayed_location": "West Lafayette, Indiana",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://innovateherhacks.org/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/560/thumb/Logo2026.png?1764786837",
-      "mlh_start_date": "2026-02-07",
-      "mlh_end_date": "2026-02-08"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac86",
-      "id": 55417,
-      "url": "https://www.qwerhacks.com/",
-      "title": "QWER Hacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/363/thumb/Screen_Shot_2025-06-24_at_7.27.06_AM.png?1750764595",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 7th - 8th",
-      "displayed_location": "Los Angeles, California",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 1 month left",
-      "themes": [],
-      "start_a_submission_url": "https://www.qwerhacks.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/363/thumb/2023_logo__3_.png?1750764594",
-      "mlh_start_date": "2026-02-07",
-      "mlh_end_date": "2026-02-08"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac87",
-      "id": 84251,
-      "url": "https://events.mlh.io/events/13382",
-      "title": "Global Hack Week: Data",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/533/thumb/hero.jpg?1763119787",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 13th - 19th",
-      "displayed_location": "Everywhere, Online",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://events.mlh.io/events/13382",
-      "source": "mlh",
-      "mlh_event_type": "Digital Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/533/thumb/icon.png?1763119786",
-      "mlh_start_date": "2026-02-13",
-      "mlh_end_date": "2026-02-19"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac88",
-      "id": 18661,
-      "url": "https://sfhacks.io",
-      "title": "SFHacks 2026",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/381/thumb/MLH_Banner__%281%29.png?1751462433",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 13th - 15th",
-      "displayed_location": "San Francisco, California",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://sfhacks.io",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/381/thumb/2.png?1751462433",
-      "mlh_start_date": "2026-02-13",
-      "mlh_end_date": "2026-02-15"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac89",
-      "id": 27880,
-      "url": "https://hackncstate.org/",
-      "title": "Hack_NCState",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/354/thumb/Hack_NCState_Logo_300x300.png?1750424780",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 14th - 15th",
-      "displayed_location": "Raleigh, North Carolina",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://hackncstate.org/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/354/thumb/Hack_NCState_Logo_Red_100x100.png?1750424780",
-      "mlh_start_date": "2026-02-14",
-      "mlh_end_date": "2026-02-15"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac8a",
-      "id": 67859,
-      "url": "https://hacklytics.io/",
-      "title": "Hacklytics",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/379/thumb/backsplash_%282%29.png?1751034157",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 20th - 22nd",
-      "displayed_location": "Atlanta, Georgia",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://hacklytics.io/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/379/thumb/logo_%282%29.png?1751034157",
-      "mlh_start_date": "2026-02-20",
-      "mlh_end_date": "2026-02-22"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac8b",
-      "id": 46257,
-      "url": "https://wsu-acm.github.io/crimsoncode/",
-      "title": "CrimsonCode Hackathon",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/532/thumb/cch_mlh_300x300.png?1762379457",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 21st - 22nd",
-      "displayed_location": "Pullman, Washington",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://wsu-acm.github.io/crimsoncode/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/532/thumb/cch_mlh_100x100.png?1762379457",
-      "mlh_start_date": "2026-02-21",
-      "mlh_end_date": "2026-02-22"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac8c",
-      "id": 68400,
-      "url": "https://ruhackhers.org",
-      "title": "HackHERS",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/356/thumb/Backsplash_%285%29.png?1750441264",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 21st - 22nd",
-      "displayed_location": "New Brunswick, New Jersey",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://ruhackhers.org",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/356/thumb/Logo.png?1750768980",
-      "mlh_start_date": "2026-02-21",
-      "mlh_end_date": "2026-02-22"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac8d",
-      "id": 12347,
-      "url": "https://hackaturi.com/",
-      "title": "Hack@URI ",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/496/thumb/hackaturieventbanner.png?1761943952",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 21st - 22nd",
-      "displayed_location": "Kingston, Rhode Island",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://hackaturi.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/496/thumb/hack_uri2026logo.png?1761943952",
-      "mlh_start_date": "2026-02-21",
-      "mlh_end_date": "2026-02-22"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac8e",
-      "id": 85287,
-      "url": "https://pearlhacks.com/",
-      "title": "Pearl Hacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/395/thumb/Pearl_Hacks_Backsplash.png?1751895453",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 21st - 22nd",
-      "displayed_location": "Chapel Hill, North Carolina",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://pearlhacks.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/395/thumb/Pearl_Hacks_Logo.png?1751895453",
-      "mlh_start_date": "2026-02-21",
-      "mlh_end_date": "2026-02-22"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac8f",
-      "id": 23804,
-      "url": "https://www.henhackshackathon.com/",
-      "title": "HenHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/365/thumb/backlash_%281%29.png?1750776953",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 28th - Mar 1st",
-      "displayed_location": "Newark, Delaware",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://www.henhackshackathon.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/365/thumb/discord-pfp__2_.png?1750776952",
-      "mlh_start_date": "2026-02-28",
-      "mlh_end_date": "2026-03-01"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac90",
-      "id": 76555,
-      "url": "https://wichacks.io",
-      "title": "WiCHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/382/thumb/wichacks2026_backsplash_mlh.png?1751463035",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 28th - Mar 1st",
-      "displayed_location": "Rochester, New York",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://wichacks.io",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/382/thumb/wichacks2026_logo_mlh.png?1751463034",
-      "mlh_start_date": "2026-02-28",
-      "mlh_end_date": "2026-03-01"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac91",
-      "id": 87403,
-      "url": "https://cmd-f.nwplus.io/",
-      "title": "cmd-f 2026",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/367/thumb/Backsplash_cmd-f.png?1750787919",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Mar 7th - 8th",
-      "displayed_location": "Vancouver, Canada",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 2 months left",
-      "themes": [],
-      "start_a_submission_url": "https://cmd-f.nwplus.io/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/367/thumb/logo_cmd-f.png?1750787919",
-      "mlh_start_date": "2026-03-07",
-      "mlh_end_date": "2026-03-08"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac92",
-      "id": 53922,
-      "url": "https://www.rockethacks.org/",
-      "title": "Rockethacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/571/thumb/Backsplash_RH_2026.jpg?1765561136",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Mar 14th - 15th",
-      "displayed_location": "Toledo, Ohio",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 months left",
-      "themes": [],
-      "start_a_submission_url": "https://www.rockethacks.org/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/571/thumb/RH_%281%29.jpg?1765561135",
-      "mlh_start_date": "2026-03-14",
-      "mlh_end_date": "2026-03-15"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac93",
-      "id": 81048,
-      "url": "https://khe.io/",
-      "title": "Kent Hack Enough",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/385/thumb/300xBackground.png?1751488138",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Mar 28th - 29th",
-      "displayed_location": "Kent, Ohio",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 months left",
-      "themes": [],
-      "start_a_submission_url": "https://khe.io/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/385/thumb/100xKHEwBG.png?1751488138",
-      "mlh_start_date": "2026-03-28",
-      "mlh_end_date": "2026-03-29"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac94",
-      "id": 23031,
-      "url": "https://revolutionuc.com/",
-      "title": "RevolutionUC",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/396/thumb/Unknown.png?1751895644",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Mar 28th - 29th",
-      "displayed_location": "Cincinnati, Ohio",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 months left",
-      "themes": [],
-      "start_a_submission_url": "https://revolutionuc.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/396/thumb/Unknown.png?1751895644",
-      "mlh_start_date": "2026-03-28",
-      "mlh_end_date": "2026-03-29"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac95",
-      "id": 32635,
-      "url": "https://www.hackbyte.in/",
-      "title": "HackByte 4.0",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/312/thumb/hb4_topaligned_sqr.png?1748952558",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Apr 3rd - 5th",
-      "displayed_location": "Jabalpur, Madhya Pradesh",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 months left",
-      "themes": [],
-      "start_a_submission_url": "https://www.hackbyte.in/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/312/thumb/hackbytelogo.png?1748952558",
-      "mlh_start_date": "2026-04-03",
-      "mlh_end_date": "2026-04-05"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac96",
-      "id": 85659,
-      "url": "https://diamondhacks.acmucsd.com/",
-      "title": "DiamondHacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/348/thumb/Screen_Shot_2025-06-16_at_12.17.23_PM.png?1750090760",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Apr 4th - 5th",
-      "displayed_location": "San Diego, California",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 months left",
-      "themes": [],
-      "start_a_submission_url": "https://diamondhacks.acmucsd.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/348/thumb/diamondhacks_pfp.png?1750090759",
-      "mlh_start_date": "2026-04-04",
-      "mlh_end_date": "2026-04-05"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac97",
-      "id": 22121,
-      "url": "https://bit.camp/",
-      "title": "Bitcamp",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/383/thumb/Bitcamp_Logo.png?1751463705",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Apr 10th - 12th",
-      "displayed_location": "College Park, Maryland",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 months left",
-      "themes": [],
-      "start_a_submission_url": "https://bit.camp/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/383/thumb/bitcamp_logo.jpeg?1751463544",
-      "mlh_start_date": "2026-04-10",
-      "mlh_end_date": "2026-04-12"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac98",
-      "id": 53749,
-      "url": "https://www.wehackutd.com",
-      "title": "WEHack",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/360/thumb/logo__7_.png?1750453101",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Apr 11th - 12th",
-      "displayed_location": "Richardson, Texas",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 3 months left",
-      "themes": [],
-      "start_a_submission_url": "https://www.wehackutd.com",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/360/thumb/logo__7_.png?1750453101",
-      "mlh_start_date": "2026-04-11",
-      "mlh_end_date": "2026-04-12"
-    },
-    {
-      "_id": "69409ec42284cf0fae37ac99",
-      "id": 49883,
-      "url": "https://lahacks.com/",
-      "title": "LA Hacks",
-      "thumbnail_url": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/537/thumb/backsplash.png?1764010034",
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "isOpen": "open",
-      "submission_period_dates": "Apr 24th - 26th",
-      "displayed_location": "Los Angeles, California",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": "about 4 months left",
-      "themes": [],
-      "start_a_submission_url": "https://lahacks.com/",
-      "source": "mlh",
-      "mlh_event_type": "In-Person Only",
-      "mlh_logo_url": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/537/thumb/logo.png?1764010033",
-      "mlh_start_date": "2026-04-24",
-      "mlh_end_date": "2026-04-26"
-    },
-    {
-      "_id": "69409ec52284cf0fae37ac9a",
+      "_id": "6941f0359030097f60e582e7",
       "id": 26914,
       "url": "https://pytorch-dendritic-optimization.devpost.com/",
       "title": "PyTorch Dendritic Optimization Hackathon",
@@ -3014,9 +3014,9 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 24, 2025 - Jan 05, 2026",
       "displayed_location": "Fronteir Tower",
-      "registrations_count": 122,
+      "registrations_count": 127,
       "prizeText": "$<span data-currency-value>18,500</span>",
-      "time_left_to_submission": "21 days left",
+      "time_left_to_submission": "20 days left",
       "themes": [
         {
           "id": 7,
@@ -3031,7 +3031,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec52284cf0fae37ac9b",
+      "_id": "6941f0359030097f60e582e8",
       "id": 26054,
       "url": "https://e-techh-hacks.devpost.com/",
       "title": "E-Techh Hacks",
@@ -3041,9 +3041,9 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 04 - Dec 19, 2025",
       "displayed_location": "Online",
-      "registrations_count": 227,
+      "registrations_count": 232,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "themes": [
         {
           "id": 23,
@@ -3062,7 +3062,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec52284cf0fae37ac9c",
+      "_id": "6941f0359030097f60e582e9",
       "id": 26694,
       "url": "https://ese4500f25.devpost.com/",
       "title": "2025-2026 Fall ESE Senior Design",
@@ -3074,7 +3074,7 @@
       "displayed_location": "Philadelphia, PA, USA",
       "registrations_count": 94,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 5,
@@ -3093,7 +3093,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec52284cf0fae37ac9d",
+      "_id": "6941f0359030097f60e582ea",
       "id": 26352,
       "url": "https://innovart2026.devpost.com/",
       "title": "InnovArt 2026: Art and Technology Hack Day",
@@ -3105,7 +3105,7 @@
       "displayed_location": "Online",
       "registrations_count": 286,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "19 days left",
+      "time_left_to_submission": "18 days left",
       "themes": [
         {
           "id": 18,
@@ -3124,7 +3124,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec52284cf0fae37ac9e",
+      "_id": "6941f0359030097f60e582eb",
       "id": 25957,
       "url": "https://hackonomics26.devpost.com/",
       "title": "Hackonomics 2026",
@@ -3134,7 +3134,7 @@
       "isOpen": "open",
       "submission_period_dates": "Sep 01, 2025 - Mar 30, 2026",
       "displayed_location": "Online",
-      "registrations_count": 294,
+      "registrations_count": 298,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "3 months left",
       "themes": [
@@ -3155,38 +3155,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec52284cf0fae37ac9f",
-      "id": 26029,
-      "url": "https://innovators-without-borders.devpost.com/",
-      "title": "Student Innovators Without Borders Hacks (Students; Open Ended)",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/660/655/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Batch 09",
-      "isOpen": "open",
-      "submission_period_dates": "Aug 17 - Dec 19, 2025",
-      "displayed_location": "Online",
-      "registrations_count": 860,
-      "prizeText": "$<span data-currency-value>1,600</span>",
-      "time_left_to_submission": "4 days left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://innovators-without-borders.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69409ec52284cf0fae37aca0",
+      "_id": "6941f0359030097f60e582ec",
       "id": 26028,
       "url": "https://batchhacks.devpost.com/",
       "title": "BatchHacks (Students Only; Open-Ended)",
@@ -3196,9 +3165,9 @@
       "isOpen": "open",
       "submission_period_dates": "Aug 16 - Dec 19, 2025",
       "displayed_location": "Online",
-      "registrations_count": 1194,
+      "registrations_count": 1224,
       "prizeText": "$<span data-currency-value>1,400</span>",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "themes": [
         {
           "id": 23,
@@ -3217,7 +3186,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ec52284cf0fae37aca1",
+      "_id": "6941f0359030097f60e582ed",
+      "id": 26029,
+      "url": "https://innovators-without-borders.devpost.com/",
+      "title": "Student Innovators Without Borders Hacks (Students; Open Ended)",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/660/655/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Batch 09",
+      "isOpen": "open",
+      "submission_period_dates": "Aug 17 - Dec 19, 2025",
+      "displayed_location": "Online",
+      "registrations_count": 884,
+      "prizeText": "$<span data-currency-value>1,600</span>",
+      "time_left_to_submission": "3 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://innovators-without-borders.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6941f0359030097f60e582ee",
       "id": 25689,
       "url": "https://impactx2025.devpost.com/",
       "title": "ImpactX 2025",
@@ -3227,9 +3227,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 12 - 17, 2025",
       "displayed_location": "Online",
-      "registrations_count": 141,
+      "registrations_count": 147,
       "prizeText": "$<span data-currency-value>175</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 23,
@@ -3244,7 +3244,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69409ecb2284cf0fae37aca2",
+      "_id": "6941f0389030097f60e582ef",
       "id": "ethindia-villa",
       "url": "https://ethindia-villa.devfolio.co/",
       "title": "ETHIndiaVilla",
@@ -3263,26 +3263,7 @@
       "devfolio_slug": "ethindia-villa"
     },
     {
-      "_id": "69409ecb2284cf0fae37aca3",
-      "id": "haulout",
-      "url": "https://haulout.devfolio.co/",
-      "title": "Haulout",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://haulout.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "haulout"
-    },
-    {
-      "_id": "69409ecb2284cf0fae37aca4",
+      "_id": "6941f0389030097f60e582f0",
       "id": "ethdenver2026",
       "url": "https://ethdenver2026.devfolio.co/",
       "title": "ETHDenver 2026",
@@ -3301,7 +3282,26 @@
       "devfolio_slug": "ethdenver2026"
     },
     {
-      "_id": "69409ecb2284cf0fae37aca5",
+      "_id": "6941f0389030097f60e582f1",
+      "id": "india-ascends",
+      "url": "https://india-ascends.devfolio.co/",
+      "title": "India Ascends 2026",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://india-ascends.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "india-ascends"
+    },
+    {
+      "_id": "6941f0389030097f60e582f2",
       "id": "ethindia-villa",
       "url": "https://ethindia-villa.devfolio.co/",
       "title": "ETHIndiaVilla",
@@ -3320,26 +3320,7 @@
       "devfolio_slug": "ethindia-villa"
     },
     {
-      "_id": "69409ecb2284cf0fae37aca6",
-      "id": "haulout",
-      "url": "https://haulout.devfolio.co/",
-      "title": "Haulout",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://haulout.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "haulout"
-    },
-    {
-      "_id": "69409ecb2284cf0fae37aca7",
+      "_id": "6941f0389030097f60e582f3",
       "id": "ethdenver2026",
       "url": "https://ethdenver2026.devfolio.co/",
       "title": "ETHDenver 2026",
@@ -3358,10 +3339,10 @@
       "devfolio_slug": "ethdenver2026"
     },
     {
-      "_id": "69409ecb2284cf0fae37aca8",
-      "id": "hack-space-1",
-      "url": "https://hack-space-1.devfolio.co/",
-      "title": "Hack Space 2025",
+      "_id": "6941f0389030097f60e582f4",
+      "id": "india-ascends",
+      "url": "https://india-ascends.devfolio.co/",
+      "title": "India Ascends 2026",
       "thumbnail_url": null,
       "featured": false,
       "organization_name": "Devfolio",
@@ -3372,12 +3353,12 @@
       "prizeText": null,
       "time_left_to_submission": null,
       "themes": [],
-      "start_a_submission_url": "https://hack-space-1.devfolio.co/",
+      "start_a_submission_url": "https://india-ascends.devfolio.co/",
       "source": "devfolio",
-      "devfolio_slug": "hack-space-1"
+      "devfolio_slug": "india-ascends"
     },
     {
-      "_id": "69409ecb2284cf0fae37aca9",
+      "_id": "6941f0389030097f60e582f5",
       "id": "innerve-x",
       "url": "https://innerve-x.devfolio.co/",
       "title": "Innerve X",
@@ -3396,7 +3377,7 @@
       "devfolio_slug": "innerve-x"
     },
     {
-      "_id": "69409ecb2284cf0fae37acaa",
+      "_id": "6941f0389030097f60e582f6",
       "id": "genai-hackathon-chandigarh-2025",
       "url": "https://genai-hackathon-chandigarh-2025.devfolio.co/",
       "title": "GenAI Hackathon - Chandigarh 2025",
@@ -3415,26 +3396,7 @@
       "devfolio_slug": "genai-hackathon-chandigarh-2025"
     },
     {
-      "_id": "69409ecb2284cf0fae37acab",
-      "id": "defy-26",
-      "url": "https://defy-26.devfolio.co/",
-      "title": "DeFy'26",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://defy-26.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "defy-26"
-    },
-    {
-      "_id": "69409ecb2284cf0fae37acac",
+      "_id": "6941f0389030097f60e582f7",
       "id": "winterspark",
       "url": "https://winterspark.devfolio.co/",
       "title": "WinterSpark",
@@ -3453,7 +3415,7 @@
       "devfolio_slug": "winterspark"
     },
     {
-      "_id": "69409ecb2284cf0fae37acad",
+      "_id": "6941f0389030097f60e582f8",
       "id": "hackxios2k25",
       "url": "https://hackxios2k25.devfolio.co/",
       "title": "Hackxios 2K25",
@@ -3472,7 +3434,7 @@
       "devfolio_slug": "hackxios2k25"
     },
     {
-      "_id": "69409ecb2284cf0fae37acae",
+      "_id": "6941f0389030097f60e582f9",
       "id": "duhacks5",
       "url": "https://duhacks5.devfolio.co/",
       "title": "DUHacks 5.0",
@@ -3491,7 +3453,26 @@
       "devfolio_slug": "duhacks5"
     },
     {
-      "_id": "69409ecb2284cf0fae37acaf",
+      "_id": "6941f0389030097f60e582fa",
+      "id": "defy-26",
+      "url": "https://defy-26.devfolio.co/",
+      "title": "DeFy'26",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://defy-26.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "defy-26"
+    },
+    {
+      "_id": "6941f0389030097f60e582fb",
       "id": "codequest-2025",
       "url": "https://codequest-2025.devfolio.co/",
       "title": "CodeQuest 2025",
@@ -3510,26 +3491,7 @@
       "devfolio_slug": "codequest-2025"
     },
     {
-      "_id": "69409ecb2284cf0fae37acb0",
-      "id": "hacknitr7",
-      "url": "https://hacknitr7.devfolio.co/",
-      "title": "HackNITR 7.0",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://hacknitr7.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "hacknitr7"
-    },
-    {
-      "_id": "69409ecb2284cf0fae37acb1",
+      "_id": "6941f0389030097f60e582fc",
       "id": "brainwave2",
       "url": "https://brainwave2.devfolio.co/",
       "title": "brAInwave 2.0",
@@ -3548,7 +3510,26 @@
       "devfolio_slug": "brainwave2"
     },
     {
-      "_id": "69409ecb2284cf0fae37acb2",
+      "_id": "6941f0389030097f60e582fd",
+      "id": "hacknitr7",
+      "url": "https://hacknitr7.devfolio.co/",
+      "title": "HackNITR 7.0",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://hacknitr7.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "hacknitr7"
+    },
+    {
+      "_id": "6941f0389030097f60e582fe",
       "id": "hacksprint2",
       "url": "https://hacksprint2.devfolio.co/",
       "title": "Hacksprint 2.0",
@@ -3567,7 +3548,7 @@
       "devfolio_slug": "hacksprint2"
     },
     {
-      "_id": "69409ecb2284cf0fae37acb3",
+      "_id": "6941f0389030097f60e582ff",
       "id": "code-kalari",
       "url": "https://code-kalari.devfolio.co/",
       "title": "Code Kalari",
@@ -3586,7 +3567,7 @@
       "devfolio_slug": "code-kalari"
     },
     {
-      "_id": "69409ecb2284cf0fae37acb4",
+      "_id": "6941f0389030097f60e58300",
       "id": "hack-technique2026",
       "url": "https://hack-technique2026.devfolio.co/",
       "title": "Hack Technique 2026",
@@ -3605,7 +3586,7 @@
       "devfolio_slug": "hack-technique2026"
     },
     {
-      "_id": "69409ecb2284cf0fae37acb5",
+      "_id": "6941f0389030097f60e58301",
       "id": "winter-of-code-5",
       "url": "https://winter-of-code-5.devfolio.co/",
       "title": "Winter of Code 5.0",
@@ -3624,7 +3605,7 @@
       "devfolio_slug": "winter-of-code-5"
     },
     {
-      "_id": "69409ecb2284cf0fae37acb6",
+      "_id": "6941f0389030097f60e58302",
       "id": "ethdenver2026",
       "url": "https://ethdenver2026.devfolio.co/",
       "title": "ETHDenver 2026",
@@ -3643,26 +3624,7 @@
       "devfolio_slug": "ethdenver2026"
     },
     {
-      "_id": "69409ecb2284cf0fae37acb7",
-      "id": "hackfiesta",
-      "url": "https://hackfiesta.devfolio.co/",
-      "title": "HackFiesta",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://hackfiesta.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "hackfiesta"
-    },
-    {
-      "_id": "69409ecb2284cf0fae37acb8",
+      "_id": "6941f0389030097f60e58303",
       "id": "hack-nocturne-2",
       "url": "https://hack-nocturne-2.devfolio.co/",
       "title": "Hack-Nocturne 2.O",
@@ -3681,7 +3643,26 @@
       "devfolio_slug": "hack-nocturne-2"
     },
     {
-      "_id": "69409ecb2284cf0fae37acb9",
+      "_id": "6941f0389030097f60e58304",
+      "id": "hackfiesta",
+      "url": "https://hackfiesta.devfolio.co/",
+      "title": "HackFiesta",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://hackfiesta.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "hackfiesta"
+    },
+    {
+      "_id": "6941f0389030097f60e58305",
       "id": "build-and-connect-jharkhand",
       "url": "https://build-and-connect-jharkhand.devfolio.co/",
       "title": "Build & Connect Jharkhand",
@@ -3700,7 +3681,7 @@
       "devfolio_slug": "build-and-connect-jharkhand"
     },
     {
-      "_id": "69409ecb2284cf0fae37acba",
+      "_id": "6941f0389030097f60e58306",
       "id": "beachhack-season-7",
       "url": "https://beachhack-season-7.devfolio.co/",
       "title": "BeachHack Season 7",
@@ -3719,7 +3700,7 @@
       "devfolio_slug": "beachhack-season-7"
     },
     {
-      "_id": "69409ecb2284cf0fae37acbb",
+      "_id": "6941f0389030097f60e58307",
       "id": "lisk-builders-challenge-3",
       "url": "https://lisk-builders-challenge-3.devfolio.co/",
       "title": "Lisk Builders Challenge: Round Three",
@@ -3738,7 +3719,26 @@
       "devfolio_slug": "lisk-builders-challenge-3"
     },
     {
-      "_id": "69409ecb2284cf0fae37acbc",
+      "_id": "6941f0389030097f60e58308",
+      "id": "india-ascends",
+      "url": "https://india-ascends.devfolio.co/",
+      "title": "India Ascends 2026",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://india-ascends.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "india-ascends"
+    },
+    {
+      "_id": "6941f0389030097f60e58309",
       "id": "devshouse26",
       "url": "https://devshouse26.devfolio.co/",
       "title": "DevsHouse '26",
@@ -3757,7 +3757,7 @@
       "devfolio_slug": "devshouse26"
     },
     {
-      "_id": "69409ecb2284cf0fae37acbd",
+      "_id": "6941f0389030097f60e5830a",
       "id": "ethmumbai2026",
       "url": "https://ethmumbai2026.devfolio.co/",
       "title": "ETHMumbai 2026",
@@ -3776,7 +3776,26 @@
       "devfolio_slug": "ethmumbai2026"
     },
     {
-      "_id": "69409ecb2284cf0fae37acbe",
+      "_id": "6941f0389030097f60e5830b",
+      "id": "buildfestkashmir",
+      "url": "https://buildfestkashmir.devfolio.co/",
+      "title": "BuildfestKashmir",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://buildfestkashmir.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "buildfestkashmir"
+    },
+    {
+      "_id": "6941f0389030097f60e5830c",
       "id": "diversion2k26",
       "url": "https://diversion2k26.devfolio.co/",
       "title": "Diversion 2K26",
@@ -3795,45 +3814,7 @@
       "devfolio_slug": "diversion2k26"
     },
     {
-      "_id": "69409ecb2284cf0fae37acbf",
-      "id": "cloudcraft-hackathon",
-      "url": "https://cloudcraft-hackathon.devfolio.co/",
-      "title": "CloudCraft Hackathon",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://cloudcraft-hackathon.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "cloudcraft-hackathon"
-    },
-    {
-      "_id": "69409ecb2284cf0fae37acc0",
-      "id": "build-onchain-fbi",
-      "url": "https://build-onchain-fbi.devfolio.co/",
-      "title": "Build Onchain with FBI",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://build-onchain-fbi.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "build-onchain-fbi"
-    },
-    {
-      "_id": "69409ecb2284cf0fae37acc1",
+      "_id": "6941f0389030097f60e5830d",
       "id": "codematrix-genesis",
       "url": "https://codematrix-genesis.devfolio.co/",
       "title": "CodeMatrix: Genesis",
@@ -3852,7 +3833,7 @@
       "devfolio_slug": "codematrix-genesis"
     },
     {
-      "_id": "69409ecb2284cf0fae37acc2",
+      "_id": "6941f0389030097f60e5830e",
       "id": "glytch",
       "url": "https://glytch.devfolio.co/",
       "title": "𝙂𝙇𝙔𝙏𝘾𝙃",
@@ -3871,7 +3852,7 @@
       "devfolio_slug": "glytch"
     },
     {
-      "_id": "69409ecb2284cf0fae37acc3",
+      "_id": "6941f0389030097f60e5830f",
       "id": "mahiber-connect-hackathon",
       "url": "https://mahiber-connect-hackathon.devfolio.co/",
       "title": "Mahiber Connect Hackathon",
@@ -3888,6 +3869,25 @@
       "start_a_submission_url": "https://mahiber-connect-hackathon.devfolio.co/",
       "source": "devfolio",
       "devfolio_slug": "mahiber-connect-hackathon"
+    },
+    {
+      "_id": "6941f0389030097f60e58310",
+      "id": "technocrats-hackathon",
+      "url": "https://technocrats-hackathon.devfolio.co/",
+      "title": "Technocrats Hackathon",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://technocrats-hackathon.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "technocrats-hackathon"
     }
   ]
 }
