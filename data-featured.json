@@ -1,5 +1,130 @@
 {
-  "last_updated": "2026-01-16T01:01:40.590990Z",
-  "count": 0,
-  "hackathons": []
+  "last_updated": "2026-01-17T00:58:50.924771Z",
+  "count": 4,
+  "hackathons": [
+    {
+      "_id": "696acefd1b2524932eab1552",
+      "id": 27555,
+      "url": "https://gemini3.devpost.com/",
+      "title": "Gemini 3 Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/098/038/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Google",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 17, 2025 - Feb 09, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 18255,
+      "prizeText": "$<span data-currency-value>100,000</span>",
+      "time_left_to_submission": "24 days left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://gemini3.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "696aceff1b2524932eab1557",
+      "id": 27598,
+      "url": "https://snapgames.devpost.com/",
+      "title": " Play Everywhere: The Build with Snap Games Lensathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/061/826/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Snapchat",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 10, 2025 - Feb 03, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 836,
+      "prizeText": "$<span data-currency-value>30,000</span>",
+      "time_left_to_submission": "17 days left",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "start_a_submission_url": "https://snapgames.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "696aceff1b2524932eab1559",
+      "id": 27479,
+      "url": "https://cloud9.devpost.com/",
+      "title": "Sky’s the Limit - Cloud9 x JetBrains Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/016/236/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Cloud9",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 09, 2025 - Feb 03, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 1591,
+      "prizeText": "$<span data-currency-value>25,000</span>",
+      "time_left_to_submission": "18 days left",
+      "themes": [
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://cloud9.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "696aceff1b2524932eab155b",
+      "id": 27474,
+      "url": "https://hex-a-thon.devpost.com/",
+      "title": "Hex-a-thon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/051/792/datas/medium_square.jpg",
+      "featured": true,
+      "organization_name": "Hex",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 09, 2025 - Jan 22, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 1338,
+      "prizeText": "$<span data-currency-value>10,000</span>",
+      "time_left_to_submission": "5 days left",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://hex-a-thon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    }
+  ]
 }
