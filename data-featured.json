@@ -1,9 +1,40 @@
 {
-  "last_updated": "2026-01-19T01:05:19.016868Z",
+  "last_updated": "2026-01-20T01:00:22.893165Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "696d71f2bb6df0e285c7be48",
+      "_id": "696ec3d8ba72c8d48214adb9",
+      "id": 27887,
+      "url": "https://revenuecat-shipyard-2026.devpost.com/",
+      "title": "RevenueCat Shipyard: Creator Contest ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/146/721/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "RevenueCat",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 15 - Feb 12, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 4242,
+      "prizeText": "$<span data-currency-value>140,000</span>",
+      "time_left_to_submission": "24 days left",
+      "themes": [
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "start_a_submission_url": "https://revenuecat-shipyard-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "696ec3d9ba72c8d48214adc4",
       "id": 27555,
       "url": "https://gemini3.devpost.com/",
       "title": "Gemini 3 Hackathon",
@@ -13,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 17, 2025 - Feb 09, 2026",
       "displayed_location": "Online",
-      "registrations_count": 19311,
+      "registrations_count": 19979,
       "prizeText": "$<span data-currency-value>100,000</span>",
-      "time_left_to_submission": "22 days left",
+      "time_left_to_submission": "21 days left",
       "themes": [
         {
           "id": 6,
@@ -34,38 +65,38 @@
       "source": "devpost"
     },
     {
-      "_id": "696d71f3bb6df0e285c7be4d",
-      "id": 27598,
-      "url": "https://snapgames.devpost.com/",
-      "title": " Play Everywhere: The Build with Snap Games Lensathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/061/826/datas/medium_square.png",
+      "_id": "696ec3daba72c8d48214adcb",
+      "id": 27049,
+      "url": "https://serverpod.devpost.com/",
+      "title": "Build your Flutter Butler with Serverpod",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/876/643/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Snapchat",
+      "organization_name": "serverpod",
       "isOpen": "open",
-      "submission_period_dates": "Dec 10, 2025 - Feb 03, 2026",
+      "submission_period_dates": "Dec 09, 2025 - Jan 30, 2026",
       "displayed_location": "Online",
-      "registrations_count": 859,
-      "prizeText": "$<span data-currency-value>30,000</span>",
-      "time_left_to_submission": "15 days left",
+      "registrations_count": 1149,
+      "prizeText": "$<span data-currency-value>10,000</span>",
+      "time_left_to_submission": "11 days left",
       "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
         {
           "id": 26,
           "name": "Mobile"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
         }
       ],
-      "start_a_submission_url": "https://snapgames.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://serverpod.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "696d71f3bb6df0e285c7be50",
+      "_id": "696ec3daba72c8d48214adcd",
       "id": 27479,
       "url": "https://cloud9.devpost.com/",
       "title": "Sky’s the Limit - Cloud9 x JetBrains Hackathon",
@@ -75,9 +106,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 09, 2025 - Feb 03, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1683,
+      "registrations_count": 1738,
       "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 4,
@@ -93,37 +124,6 @@
         }
       ],
       "start_a_submission_url": "https://cloud9.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "696d71f3bb6df0e285c7be51",
-      "id": 27474,
-      "url": "https://hex-a-thon.devpost.com/",
-      "title": "Hex-a-thon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/051/792/datas/medium_square.jpg",
-      "featured": true,
-      "organization_name": "Hex",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 09, 2025 - Jan 22, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 1390,
-      "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "3 days left",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "start_a_submission_url": "https://hex-a-thon.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
