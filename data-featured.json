@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-24T00:59:18.470228Z",
+  "last_updated": "2026-01-25T01:07:42.883292Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "697409a301963633deb0af67",
+      "_id": "69755aed33409d0525ff1c0b",
       "id": 27887,
       "url": "https://revenuecat-shipyard-2026.devpost.com/",
       "title": "RevenueCat Shipyard: Creator Contest ",
@@ -13,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 15 - Feb 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 5387,
+      "registrations_count": 5543,
       "prizeText": "$<span data-currency-value>140,000</span>",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "themes": [
         {
           "id": 26,
@@ -34,7 +34,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a401963633deb0af70",
+      "_id": "69755aee33409d0525ff1c14",
       "id": 27555,
       "url": "https://gemini3.devpost.com/",
       "title": "Gemini 3 Hackathon",
@@ -44,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 17, 2025 - Feb 09, 2026",
       "displayed_location": "Online",
-      "registrations_count": 22089,
+      "registrations_count": 22950,
       "prizeText": "$<span data-currency-value>100,000</span>",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "16 days left",
       "themes": [
         {
           "id": 6,
@@ -65,38 +65,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a401963633deb0af77",
-      "id": 27049,
-      "url": "https://serverpod.devpost.com/",
-      "title": "Build your Flutter Butler with Serverpod",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/876/643/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "serverpod",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 09, 2025 - Jan 30, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 1239,
-      "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "7 days left",
-      "themes": [
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
-        {
-          "id": 12,
-          "name": "Lifehacks"
-        }
-      ],
-      "start_a_submission_url": "https://serverpod.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "697409a401963633deb0af78",
+      "_id": "69755af033409d0525ff1c1b",
       "id": 27479,
       "url": "https://cloud9.devpost.com/",
       "title": "Sky’s the Limit - Cloud9 x JetBrains Hackathon",
@@ -106,9 +75,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 09, 2025 - Feb 03, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1949,
+      "registrations_count": 1969,
       "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "themes": [
         {
           "id": 4,
@@ -124,6 +93,37 @@
         }
       ],
       "start_a_submission_url": "https://cloud9.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755af033409d0525ff1c1c",
+      "id": 27049,
+      "url": "https://serverpod.devpost.com/",
+      "title": "Build your Flutter Butler with Serverpod",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/876/643/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "serverpod",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 09, 2025 - Jan 30, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 1259,
+      "prizeText": "$<span data-currency-value>10,000</span>",
+      "time_left_to_submission": "6 days left",
+      "themes": [
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        }
+      ],
+      "start_a_submission_url": "https://serverpod.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]

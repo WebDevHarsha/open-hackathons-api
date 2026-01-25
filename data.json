@@ -1,9 +1,148 @@
 {
-  "last_updated": "2026-01-24T00:59:18.470228Z",
-  "count": 92,
+  "last_updated": "2026-01-25T01:07:42.883292Z",
+  "count": 107,
   "hackathons": [
     {
-      "_id": "6974099f01963633deb0af4c",
+      "_id": "69755ae833409d0525ff1be5",
+      "id": 28126,
+      "url": "https://devdash.devpost.com/",
+      "title": "Dev_Dash",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/196/405/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "HackFinity",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24 - Feb 20, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 65,
+      "prizeText": "$<span data-currency-value>10,000</span>",
+      "time_left_to_submission": "27 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://devdash.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755ae833409d0525ff1be6",
+      "id": 28305,
+      "url": "https://ummah-hacks.devpost.com/",
+      "title": "Ummah Hacks 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/196/952/datas/medium_square.jpg",
+      "featured": false,
+      "organization_name": "Ummah Hacks",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24 - 25, 2026",
+      "displayed_location": "Builder's Club",
+      "registrations_count": 3,
+      "prizeText": "$CAD <span data-currency-value>1,000</span>",
+      "time_left_to_submission": "1 day left",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://ummah-hacks.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755ae833409d0525ff1be7",
+      "id": 28292,
+      "url": "https://falconhacks-by-google-gemini.devpost.com/",
+      "title": "FalconHacks by Google Gemini",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "featured": false,
+      "organization_name": "BGSU Developer Club",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24, 2026",
+      "displayed_location": "106, 108 Hayes Hall, BGSU",
+      "registrations_count": 17,
+      "prizeText": "$<span data-currency-value>100</span>",
+      "time_left_to_submission": "about 2 hours left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://falconhacks-by-google-gemini.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755ae833409d0525ff1be8",
+      "id": 28296,
+      "url": "https://reality-hack-2026.devpost.com/",
+      "title": "Reality Hack @ MIT 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/195/755/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Reality Hack, Inc. and VR/AR @ MIT",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24 - 25, 2026",
+      "displayed_location": "MIT - Student Center",
+      "registrations_count": 57,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 23 hours left",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://reality-hack-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755ae833409d0525ff1be9",
+      "id": 28109,
+      "url": "https://daytona-hacksprint-sf-jan-2026.devpost.com/",
+      "title": "Daytona HackSprint - SF, January 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/188/430/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "daytona",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24, 2026",
+      "displayed_location": "Sentry Office",
+      "registrations_count": 97,
+      "prizeText": "$<span data-currency-value>7,500</span>",
+      "time_left_to_submission": "24 minutes left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://daytona-hacksprint-sf-jan-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755ae833409d0525ff1bea",
       "id": 28254,
       "url": "https://techthrive-march-26.devpost.com/",
       "title": "TechThrive March",
@@ -13,7 +152,7 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 23 - Feb 28, 2026",
       "displayed_location": "Online",
-      "registrations_count": 37,
+      "registrations_count": 43,
       "prizeText": "₹ <span data-currency-value>16,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -34,7 +173,38 @@
       "source": "devpost"
     },
     {
-      "_id": "6974099f01963633deb0af4d",
+      "_id": "69755ae833409d0525ff1beb",
+      "id": 28244,
+      "url": "https://orygn-ai-open-hackathon.devpost.com/",
+      "title": "Orygn AI Open Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/190/070/datas/medium_square.jpg",
+      "featured": false,
+      "organization_name": "Orygn AI",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 23 - 31, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 128,
+      "prizeText": "$<span data-currency-value>2,000</span>",
+      "time_left_to_submission": "7 days left",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://orygn-ai-open-hackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755ae833409d0525ff1bec",
       "id": 25957,
       "url": "https://hackonomics26.devpost.com/",
       "title": "Hackonomics 2026",
@@ -44,7 +214,7 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 23 - Mar 30, 2026",
       "displayed_location": "Online",
-      "registrations_count": 758,
+      "registrations_count": 765,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "2 months left",
       "themes": [
@@ -65,7 +235,7 @@
       "source": "devpost"
     },
     {
-      "_id": "6974099f01963633deb0af4e",
+      "_id": "69755ae833409d0525ff1bed",
       "id": 26975,
       "url": "https://davinci-competition-2025.devpost.com/",
       "title": "DaVinci Competition 2026",
@@ -75,9 +245,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 23 - 25, 2026",
       "displayed_location": "UTSC -- Instructional Centre",
-      "registrations_count": 11,
+      "registrations_count": 15,
       "prizeText": "$CAD <span data-currency-value>0</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 14 hours left",
       "themes": [
         {
           "id": 23,
@@ -96,50 +266,46 @@
       "source": "devpost"
     },
     {
-      "_id": "6974099f01963633deb0af4f",
-      "id": 28244,
-      "url": "https://orygn-ai-open-hackathon.devpost.com/",
-      "title": "Orygn AI Open Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/190/070/datas/medium_square.jpg",
+      "_id": "69755ae933409d0525ff1bee",
+      "id": 28297,
+      "url": "https://uwinnipeg-hacks.devpost.com/",
+      "title": "UWinnipeg Hacks",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/194/995/datas/medium_square.png",
       "featured": false,
-      "organization_name": "Orygn AI",
+      "organization_name": "The University of Winnipeg",
       "isOpen": "open",
-      "submission_period_dates": "Jan 23 - 31, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 80,
-      "prizeText": "$<span data-currency-value>2,000</span>",
-      "time_left_to_submission": "8 days left",
+      "submission_period_dates": "Jan 24 - 25, 2026",
+      "displayed_location": "University of Winnipeg - Bulman Centre",
+      "registrations_count": 8,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 23 hours left",
       "themes": [
         {
-          "id": 9,
-          "name": "Cybersecurity"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "start_a_submission_url": "https://orygn-ai-open-hackathon.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://uwinnipeg-hacks.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "6974099f01963633deb0af50",
-      "id": 28189,
-      "url": "https://scds-techfest-2026.devpost.com/",
-      "title": "SCDS Techfest 2026",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/192/670/datas/medium_square.png",
+      "_id": "69755ae933409d0525ff1bef",
+      "id": 28174,
+      "url": "https://conuhacks-x.devpost.com/",
+      "title": "ConUHacks X",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/167/148/datas/medium_square.png",
       "featured": false,
-      "organization_name": "NTU SCDS",
+      "organization_name": "HackConcordia",
       "isOpen": "open",
-      "submission_period_dates": "Jan 22 - 24, 2026",
-      "displayed_location": "LKC-LT",
-      "registrations_count": 3,
-      "prizeText": "$<span data-currency-value>13,500</span>",
-      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Jan 24 - 25, 2026",
+      "displayed_location": "Concordia JMSB",
+      "registrations_count": 240,
+      "prizeText": "$CAD <span data-currency-value>33,231</span>",
+      "time_left_to_submission": "about 16 hours left",
       "themes": [
         {
           "id": 23,
@@ -150,15 +316,15 @@
           "name": "Education"
         },
         {
-          "id": 11,
-          "name": "Productivity"
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "start_a_submission_url": "https://scds-techfest-2026.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://conuhacks-x.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "6974099f01963633deb0af51",
+      "_id": "69755ae933409d0525ff1bf0",
       "id": 28272,
       "url": "https://prince-proto-thon-26.devpost.com/",
       "title": "PROTO-THON'26",
@@ -170,7 +336,7 @@
       "displayed_location": "prince dr k vasudevan college",
       "registrations_count": 6,
       "prizeText": "₹ <span data-currency-value>100,000</span>",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "themes": [
         {
           "id": 10,
@@ -189,7 +355,96 @@
       "source": "devpost"
     },
     {
-      "_id": "6974099f01963633deb0af52",
+      "_id": "69755ae933409d0525ff1bf1",
+      "id": 28260,
+      "url": "https://rice-datathon-2026.devpost.com/",
+      "title": "Rice Datathon 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/191/504/datas/medium_square.jpg",
+      "featured": false,
+      "organization_name": "Rice University",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 23 - 25, 2026",
+      "displayed_location": "Rice University - Duncan Hall",
+      "registrations_count": 110,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 15 hours left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 10,
+          "name": "Communication"
+        }
+      ],
+      "start_a_submission_url": "https://rice-datathon-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755ae933409d0525ff1bf2",
+      "id": 28189,
+      "url": "https://scds-techfest-2026.devpost.com/",
+      "title": "SCDS Techfest 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/192/670/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "NTU SCDS",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 22 - 24, 2026",
+      "displayed_location": "LKC-LT",
+      "registrations_count": 116,
+      "prizeText": "$<span data-currency-value>4,500</span>",
+      "time_left_to_submission": "about 2 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "start_a_submission_url": "https://scds-techfest-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755ae933409d0525ff1bf3",
+      "id": 27985,
+      "url": "https://oinkjam.devpost.com/",
+      "title": "Oink Game Jam 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/141/821/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "OinkJam Team",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 23 - Feb 07, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 16,
+      "prizeText": "$<span data-currency-value>110</span>",
+      "time_left_to_submission": "13 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        }
+      ],
+      "start_a_submission_url": "https://oinkjam.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755ae933409d0525ff1bf4",
       "id": 28063,
       "url": "https://innochallenge-2026.devpost.com/",
       "title": "Intwana Yase Kasi – Innovation Challenge 2026",
@@ -199,9 +454,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 21 - Feb 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 34,
+      "registrations_count": 33,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "themes": [
         {
           "id": 23,
@@ -220,34 +475,38 @@
       "source": "devpost"
     },
     {
-      "_id": "6974099f01963633deb0af53",
-      "id": 27985,
-      "url": "https://oinkjam.devpost.com/",
-      "title": "Oink Game Jam 2026",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/141/821/datas/medium_square.png",
+      "_id": "69755ae933409d0525ff1bf5",
+      "id": 27150,
+      "url": "https://energyhack-gt-26.devpost.com/",
+      "title": "2026 EnergyHack@GT",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/157/787/datas/medium_square.png",
       "featured": false,
-      "organization_name": "OinkJam Team",
+      "organization_name": "Energy Club at Georgia Tech",
       "isOpen": "open",
-      "submission_period_dates": "Jan 23 - Feb 07, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 14,
-      "prizeText": "$<span data-currency-value>110</span>",
-      "time_left_to_submission": "14 days left",
+      "submission_period_dates": "Jan 23 - 25, 2026",
+      "displayed_location": "GT Bill Moore Student Success Center",
+      "registrations_count": 101,
+      "prizeText": "$<span data-currency-value>1,000</span>",
+      "time_left_to_submission": "about 17 hours left",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 9,
+          "name": "Cybersecurity"
         },
         {
-          "id": 4,
-          "name": "Gaming"
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "start_a_submission_url": "https://oinkjam.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://energyhack-gt-26.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "6974099f01963633deb0af54",
+      "_id": "69755ae933409d0525ff1bf6",
       "id": 28053,
       "url": "https://elasticsearch.devpost.com/",
       "title": "Elasticsearch Agent Builder Hackathon",
@@ -257,7 +516,7 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 22 - Feb 27, 2026",
       "displayed_location": "Online",
-      "registrations_count": 226,
+      "registrations_count": 295,
       "prizeText": "$<span data-currency-value>20,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -278,38 +537,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a001963633deb0af55",
-      "id": 27150,
-      "url": "https://energyhack-gt-26.devpost.com/",
-      "title": "2026 EnergyHack@GT",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/157/787/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Energy Club at Georgia Tech",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 23 - 25, 2026",
-      "displayed_location": "GT Bill Moore Student Success Center",
-      "registrations_count": 47,
-      "prizeText": "$<span data-currency-value>1,000</span>",
-      "time_left_to_submission": "1 day left",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "start_a_submission_url": "https://energyhack-gt-26.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "697409a001963633deb0af56",
+      "_id": "69755aea33409d0525ff1bf7",
       "id": 27872,
       "url": "https://devstudiologitech2026.devpost.com/",
       "title": "DevStudio 2026 by Logitech",
@@ -319,7 +547,7 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 21 - Feb 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 286,
+      "registrations_count": 332,
       "prizeText": "$<span data-currency-value>20,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -340,38 +568,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a001963633deb0af57",
-      "id": 28009,
-      "url": "https://dvhacks2026.devpost.com/",
-      "title": "DVHacks (January 17th-February 1st, Participation Prizes)",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/140/919/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "DVHacks",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 20 - Feb 01, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 215,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "9 days left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "start_a_submission_url": "https://dvhacks2026.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "697409a001963633deb0af58",
+      "_id": "69755aea33409d0525ff1bf8",
       "id": 28235,
       "url": "https://hack-the-runway-htcj-sfw.devpost.com/",
       "title": "HTCJ Hackathon × SFWRUNWAY Technology shaping the future of fashion",
@@ -381,9 +578,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 23 - Feb 12, 2026",
       "displayed_location": "Times Square ",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "themes": [
         {
           "id": 18,
@@ -402,7 +599,38 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a001963633deb0af59",
+      "_id": "69755aea33409d0525ff1bf9",
+      "id": 27680,
+      "url": "https://codespring.devpost.com/",
+      "title": "Code Spring ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/196/663/datas/medium_square.jpg",
+      "featured": false,
+      "organization_name": "CS HacKClub USA  ✓⃝",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 20 - Feb 11, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 216,
+      "prizeText": "$<span data-currency-value>3,600</span>",
+      "time_left_to_submission": "18 days left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "start_a_submission_url": "https://codespring.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755aea33409d0525ff1bfa",
       "id": 28156,
       "url": "https://medithon.devpost.com/",
       "title": "Plaksha MediThon",
@@ -412,9 +640,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 20 - 31, 2026",
       "displayed_location": "Plaksha University ",
-      "registrations_count": 33,
+      "registrations_count": 35,
       "prizeText": "₹ <span data-currency-value>150,000</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 16,
@@ -433,38 +661,61 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a001963633deb0af5a",
-      "id": 27680,
-      "url": "https://codespring.devpost.com/",
-      "title": "Code Spring ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/045/240/datas/medium_square.png",
+      "_id": "69755aea33409d0525ff1bfb",
+      "id": 28009,
+      "url": "https://dvhacks2026.devpost.com/",
+      "title": "DVHacks (January 17th-February 1st, Participation Prizes)",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/140/919/datas/medium_square.png",
       "featured": false,
-      "organization_name": "CS HacKClub USA  ✓⃝",
+      "organization_name": "DVHacks",
       "isOpen": "open",
-      "submission_period_dates": "Jan 20 - Feb 11, 2026",
+      "submission_period_dates": "Jan 20 - Feb 01, 2026",
       "displayed_location": "Online",
-      "registrations_count": 209,
-      "prizeText": "$<span data-currency-value>3,600</span>",
-      "time_left_to_submission": "19 days left",
+      "registrations_count": 215,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "8 days left",
       "themes": [
         {
-          "id": 18,
-          "name": "Design"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 12,
-          "name": "Lifehacks"
+          "id": 13,
+          "name": "Social Good"
         },
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "start_a_submission_url": "https://codespring.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://dvhacks2026.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "697409a001963633deb0af5b",
+      "_id": "69755aea33409d0525ff1bfc",
+      "id": 28193,
+      "url": "https://devgames.devpost.com/",
+      "title": ".devGames 2025-2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/184/082/datas/medium_square.png",
+      "featured": false,
+      "organization_name": ".devClub",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 19 - 29, 2026",
+      "displayed_location": "Price Faculty of Engineering",
+      "registrations_count": 6,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "5 days left",
+      "themes": [
+        {
+          "id": 4,
+          "name": "Gaming"
+        }
+      ],
+      "start_a_submission_url": "https://devgames.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755aea33409d0525ff1bfd",
       "id": 28207,
       "url": "https://sport-injury-prevention.devpost.com/",
       "title": "Sport Injury Prevention ",
@@ -474,9 +725,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 21 - 31, 2026",
       "displayed_location": "Online",
-      "registrations_count": 7,
+      "registrations_count": 9,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 23,
@@ -495,30 +746,38 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a001963633deb0af5c",
-      "id": 28193,
-      "url": "https://devgames.devpost.com/",
-      "title": ".devGames 2025-2026",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/184/082/datas/medium_square.png",
+      "_id": "69755aea33409d0525ff1bfe",
+      "id": 28020,
+      "url": "https://th26.devpost.com/",
+      "title": "TAMUhack 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/142/501/datas/medium_square.png",
       "featured": false,
-      "organization_name": ".devClub",
+      "organization_name": "TAMUhack",
       "isOpen": "open",
-      "submission_period_dates": "Jan 19 - 29, 2026",
-      "displayed_location": "Price Faculty of Engineering",
-      "registrations_count": 6,
+      "submission_period_dates": "Jan 24 - 25, 2026",
+      "displayed_location": "Texas A&M - Memorial Student Center",
+      "registrations_count": 366,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "about 18 hours left",
       "themes": [
         {
-          "id": 4,
-          "name": "Gaming"
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "start_a_submission_url": "https://devgames.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://th26.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "697409a001963633deb0af5d",
+      "_id": "69755aea33409d0525ff1bff",
       "id": 28187,
       "url": "https://sweeyam-28187.devpost.com/",
       "title": "SWEeyam",
@@ -528,9 +787,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 22 - 24, 2026",
       "displayed_location": "SRM University Amaravati, AP",
-      "registrations_count": 4,
+      "registrations_count": 7,
       "prizeText": "₹ <span data-currency-value>100,000</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 4 hours left",
       "themes": [
         {
           "id": 9,
@@ -549,7 +808,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a101963633deb0af5e",
+      "_id": "69755aec33409d0525ff1c00",
       "id": 28121,
       "url": "https://presentation-api-agent.devpost.com/",
       "title": "Presentation Api Agent",
@@ -559,9 +818,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 16 - Feb 20, 2026",
       "displayed_location": "Online",
-      "registrations_count": 19,
+      "registrations_count": 20,
       "prizeText": "£<span data-currency-value>0</span>",
-      "time_left_to_submission": "28 days left",
+      "time_left_to_submission": "27 days left",
       "themes": [
         {
           "id": 23,
@@ -580,7 +839,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a101963633deb0af5f",
+      "_id": "69755aec33409d0525ff1c01",
       "id": 28148,
       "url": "https://on-device-bounty-mobile.devpost.com/",
       "title": "Nexa × Qualcomm On-Device Bounty Program — Mobile",
@@ -590,9 +849,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 15 - Feb 16, 2026",
       "displayed_location": "Cupertino, California, USA",
-      "registrations_count": 12,
+      "registrations_count": 15,
       "prizeText": "$<span data-currency-value>6,500</span>",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
           "id": 6,
@@ -607,7 +866,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a101963633deb0af60",
+      "_id": "69755aec33409d0525ff1c02",
       "id": 27929,
       "url": "https://redditdailygames2026.devpost.com/",
       "title": "The Reddit Daily Games Hackathon",
@@ -617,9 +876,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 15 - Feb 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1378,
+      "registrations_count": 1427,
       "prizeText": "$<span data-currency-value>40,000</span>",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "themes": [
         {
           "id": 23,
@@ -638,7 +897,38 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a101963633deb0af61",
+      "_id": "69755aec33409d0525ff1c03",
+      "id": 26854,
+      "url": "https://swamphacks-xi.devpost.com/",
+      "title": "SwampHacks XI",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/098/232/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "SwampHacks",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 23 - 25, 2026",
+      "displayed_location": "University of Florida ‒ Newell Hall",
+      "registrations_count": 199,
+      "prizeText": "$<span data-currency-value>11,500</span>",
+      "time_left_to_submission": "about 13 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://swamphacks-xi.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755aec33409d0525ff1c04",
       "id": 28145,
       "url": "https://vibe-coder-hackathon.devpost.com/",
       "title": "vibe coder hackathon",
@@ -648,9 +938,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 15 - 31, 2026",
       "displayed_location": "Online",
-      "registrations_count": 86,
+      "registrations_count": 97,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 23,
@@ -669,7 +959,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a101963633deb0af62",
+      "_id": "69755aec33409d0525ff1c05",
       "id": 27927,
       "url": "https://build-4-students.devpost.com/",
       "title": "Build4Students",
@@ -679,9 +969,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 13 - Feb 15, 2026",
       "displayed_location": "Online",
-      "registrations_count": 382,
+      "registrations_count": 391,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "22 days left",
+      "time_left_to_submission": "21 days left",
       "themes": [
         {
           "id": 23,
@@ -700,7 +990,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a101963633deb0af63",
+      "_id": "69755aec33409d0525ff1c06",
       "id": 28100,
       "url": "https://ese4510s26.devpost.com/",
       "title": "2025-2026 Spring ESE Senior Design",
@@ -731,7 +1021,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a101963633deb0af64",
+      "_id": "69755aec33409d0525ff1c07",
       "id": 27960,
       "url": "https://bitbuilders-code-race-jan-2026.devpost.com/",
       "title": "BitBuilders New Year Fun Code Race 2026",
@@ -741,9 +1031,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 12 - Feb 01, 2026",
       "displayed_location": "Online",
-      "registrations_count": 107,
+      "registrations_count": 118,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 23,
@@ -762,7 +1052,65 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a101963633deb0af65",
+      "_id": "69755aec33409d0525ff1c08",
+      "id": 28048,
+      "url": "https://washington-state-hackathon.devpost.com/",
+      "title": "The Washington State Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/154/423/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Independent",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24 - 26, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 22,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "1 day left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://washington-state-hackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755aed33409d0525ff1c09",
+      "id": 26381,
+      "url": "https://everything-but-the-byte.devpost.com/",
+      "title": "Everything But the Byte",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/716/805/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Silicon Valley Youth Robotics Org.",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 14 - Feb 25, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 38,
+      "prizeText": "$<span data-currency-value>50</span>",
+      "time_left_to_submission": "about 1 month left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "start_a_submission_url": "https://everything-but-the-byte.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755aed33409d0525ff1c0a",
       "id": 28090,
       "url": "https://codeversity.devpost.com/",
       "title": "Codeversity Naitonal Level Hackathon",
@@ -772,9 +1120,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 11 - 31, 2026",
       "displayed_location": "IIT gandhinagar",
-      "registrations_count": 170,
+      "registrations_count": 175,
       "prizeText": "₹ <span data-currency-value>600,000</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 1,
@@ -793,34 +1141,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a101963633deb0af66",
-      "id": 26381,
-      "url": "https://everything-but-the-byte.devpost.com/",
-      "title": "Everything But the Byte",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/716/805/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Silicon Valley Youth Robotics Org.",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 14 - Feb 25, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 35,
-      "prizeText": "$<span data-currency-value>50</span>",
-      "time_left_to_submission": "about 1 month left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        }
-      ],
-      "start_a_submission_url": "https://everything-but-the-byte.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "697409a301963633deb0af67",
+      "_id": "69755aed33409d0525ff1c0b",
       "id": 27887,
       "url": "https://revenuecat-shipyard-2026.devpost.com/",
       "title": "RevenueCat Shipyard: Creator Contest ",
@@ -830,9 +1151,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 15 - Feb 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 5387,
+      "registrations_count": 5543,
       "prizeText": "$<span data-currency-value>140,000</span>",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "themes": [
         {
           "id": 26,
@@ -851,7 +1172,38 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a301963633deb0af68",
+      "_id": "69755aed33409d0525ff1c0c",
+      "id": 27415,
+      "url": "https://improving-education-27415.devpost.com/",
+      "title": "Improving Our Education - Steel City Hacks 2026 Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/024/605/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Steel City Codes",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24 - Feb 07, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 6,
+      "prizeText": "$<span data-currency-value>1,575</span>",
+      "time_left_to_submission": "14 days left",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://improving-education-27415.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755aed33409d0525ff1c0d",
       "id": 28011,
       "url": "https://creatorcolosseumcompetition26.devpost.com/",
       "title": "Creator Colosseum Startup Competition: Student Founders. Real Startups. ",
@@ -861,9 +1213,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 06 - Feb 20, 2026",
       "displayed_location": "Online",
-      "registrations_count": 128,
+      "registrations_count": 136,
       "prizeText": "$<span data-currency-value>575</span>",
-      "time_left_to_submission": "27 days left",
+      "time_left_to_submission": "26 days left",
       "themes": [
         {
           "id": 23,
@@ -882,7 +1234,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a301963633deb0af69",
+      "_id": "69755aed33409d0525ff1c0e",
       "id": 27974,
       "url": "https://furthering-the-future.devpost.com/",
       "title": "EnviroCast Global Engineering Outlook: Furthering the Future Hackathon",
@@ -892,9 +1244,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 31, 2025 - Feb 13, 2026",
       "displayed_location": "Online",
-      "registrations_count": 73,
+      "registrations_count": 74,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "themes": [
         {
           "id": 22,
@@ -913,7 +1265,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a301963633deb0af6a",
+      "_id": "69755aed33409d0525ff1c0f",
       "id": 27939,
       "url": "https://ai-for-bharat-2026.devpost.com/",
       "title": "AI for Bharat 2026",
@@ -923,9 +1275,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 29, 2025 - Jan 29, 2026",
       "displayed_location": "Online",
-      "registrations_count": 662,
+      "registrations_count": 684,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "themes": [
         {
           "id": 19,
@@ -944,7 +1296,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a301963633deb0af6b",
+      "_id": "69755aed33409d0525ff1c10",
       "id": 25753,
       "url": "https://305hackjan2026.devpost.com/",
       "title": "305 Hack Jan'26 SubmissionPortal | Register@hackuniversity-hackathons.vercel.app",
@@ -954,9 +1306,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 24, 2025 - Jan 24, 2026",
       "displayed_location": "Online",
-      "registrations_count": 143,
+      "registrations_count": 148,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 1 hour left",
       "themes": [
         {
           "id": 25,
@@ -967,7 +1319,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a301963633deb0af6c",
+      "_id": "69755aed33409d0525ff1c11",
       "id": 27922,
       "url": "https://the-merge-2026-hackathon.devpost.com/",
       "title": "The Merge 2026 Hackathon",
@@ -977,9 +1329,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 21 - Feb 16, 2026",
       "displayed_location": "Online",
-      "registrations_count": 41,
+      "registrations_count": 49,
       "prizeText": "€<span data-currency-value>0</span>",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
           "id": 23,
@@ -998,7 +1350,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a301963633deb0af6d",
+      "_id": "69755aee33409d0525ff1c12",
       "id": 27926,
       "url": "https://techelevate-scamshield.devpost.com/",
       "title": "TechElevate ScamShield Hackathon",
@@ -1008,9 +1360,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 09 - 31, 2026",
       "displayed_location": "Online",
-      "registrations_count": 111,
+      "registrations_count": 116,
       "prizeText": "$<span data-currency-value>50</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 9,
@@ -1029,7 +1381,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a301963633deb0af6e",
+      "_id": "69755aee33409d0525ff1c13",
       "id": 27678,
       "url": "https://startupmed.devpost.com/",
       "title": "StartupMed",
@@ -1039,9 +1391,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 23 - 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1172,
+      "registrations_count": 1189,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 11 hours left",
       "themes": [
         {
           "id": 6,
@@ -1060,30 +1412,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a301963633deb0af6f",
-      "id": 27848,
-      "url": "https://hackrush.devpost.com/",
-      "title": "Hackrush - 16Hour Innovation Sprint",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/099/097/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Coding Club",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 23, 2026",
-      "displayed_location": "MGM College of Engineering & Technology",
-      "registrations_count": 18,
-      "prizeText": "₹ <span data-currency-value>10,000</span>",
-      "time_left_to_submission": "about 3 hours left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "start_a_submission_url": "https://hackrush.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "697409a401963633deb0af70",
+      "_id": "69755aee33409d0525ff1c14",
       "id": 27555,
       "url": "https://gemini3.devpost.com/",
       "title": "Gemini 3 Hackathon",
@@ -1093,9 +1422,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 17, 2025 - Feb 09, 2026",
       "displayed_location": "Online",
-      "registrations_count": 22089,
+      "registrations_count": 22950,
       "prizeText": "$<span data-currency-value>100,000</span>",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "16 days left",
       "themes": [
         {
           "id": 6,
@@ -1114,7 +1443,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a401963633deb0af71",
+      "_id": "69755aee33409d0525ff1c15",
       "id": 26224,
       "url": "https://cjcp-hacks-fall2025.devpost.com/",
       "title": "CJCP Hacks - 25-26",
@@ -1124,9 +1453,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 16, 2025 - Feb 16, 2026",
       "displayed_location": "Online",
-      "registrations_count": 50,
+      "registrations_count": 49,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
           "id": 6,
@@ -1145,38 +1474,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a401963633deb0af72",
-      "id": 27788,
-      "url": "https://deepseek.devpost.com/",
-      "title": "DeepSeek vs. Llama: The \"Kill The Cloud\" Challenge",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/078/028/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Singularity",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 13, 2025 - Jan 30, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 192,
-      "prizeText": "$<span data-currency-value>150</span>",
-      "time_left_to_submission": "7 days left",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://deepseek.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "697409a401963633deb0af73",
+      "_id": "69755aee33409d0525ff1c16",
       "id": 27801,
       "url": "https://global-innovation-challenge-v1.devpost.com/",
       "title": "Global Innovation Build Challenge V1",
@@ -1186,7 +1484,7 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 13, 2025 - Feb 28, 2026",
       "displayed_location": "Online",
-      "registrations_count": 217,
+      "registrations_count": 223,
       "prizeText": "€<span data-currency-value>0</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -1207,7 +1505,38 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a401963633deb0af74",
+      "_id": "69755aee33409d0525ff1c17",
+      "id": 27788,
+      "url": "https://deepseek.devpost.com/",
+      "title": "DeepSeek vs. Llama: The \"Kill The Cloud\" Challenge",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/078/028/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Singularity",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 13, 2025 - Jan 30, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 195,
+      "prizeText": "$<span data-currency-value>150</span>",
+      "time_left_to_submission": "6 days left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://deepseek.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755aee33409d0525ff1c18",
       "id": 22695,
       "url": "https://next-byte-january-2026.devpost.com/",
       "title": "Next Byte Hacks: January 2026",
@@ -1217,9 +1546,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 15 - Feb 15, 2026",
       "displayed_location": "Online",
-      "registrations_count": 198,
+      "registrations_count": 205,
       "prizeText": "$<span data-currency-value>100</span>",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
           "id": 23,
@@ -1238,7 +1567,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a401963633deb0af75",
+      "_id": "69755aee33409d0525ff1c19",
       "id": 27598,
       "url": "https://snapgames.devpost.com/",
       "title": " Play Everywhere: The Build with Snap Games Lensathon",
@@ -1248,9 +1577,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 10, 2025 - Feb 03, 2026",
       "displayed_location": "Online",
-      "registrations_count": 940,
+      "registrations_count": 948,
       "prizeText": "$<span data-currency-value>30,000</span>",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "themes": [
         {
           "id": 5,
@@ -1269,7 +1598,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a401963633deb0af76",
+      "_id": "69755aee33409d0525ff1c1a",
       "id": 27702,
       "url": "https://martingale-hacks.devpost.com/",
       "title": "Martingale Hacks",
@@ -1279,7 +1608,7 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 09, 2025 - Feb 28, 2026",
       "displayed_location": "Online",
-      "registrations_count": 111,
+      "registrations_count": 114,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -1300,38 +1629,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a401963633deb0af77",
-      "id": 27049,
-      "url": "https://serverpod.devpost.com/",
-      "title": "Build your Flutter Butler with Serverpod",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/876/643/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "serverpod",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 09, 2025 - Jan 30, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 1239,
-      "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "7 days left",
-      "themes": [
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
-        {
-          "id": 12,
-          "name": "Lifehacks"
-        }
-      ],
-      "start_a_submission_url": "https://serverpod.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "697409a401963633deb0af78",
+      "_id": "69755af033409d0525ff1c1b",
       "id": 27479,
       "url": "https://cloud9.devpost.com/",
       "title": "Sky’s the Limit - Cloud9 x JetBrains Hackathon",
@@ -1341,9 +1639,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 09, 2025 - Feb 03, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1949,
+      "registrations_count": 1969,
       "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "themes": [
         {
           "id": 4,
@@ -1362,7 +1660,38 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a501963633deb0af79",
+      "_id": "69755af033409d0525ff1c1c",
+      "id": 27049,
+      "url": "https://serverpod.devpost.com/",
+      "title": "Build your Flutter Butler with Serverpod",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/876/643/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "serverpod",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 09, 2025 - Jan 30, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 1259,
+      "prizeText": "$<span data-currency-value>10,000</span>",
+      "time_left_to_submission": "6 days left",
+      "themes": [
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        }
+      ],
+      "start_a_submission_url": "https://serverpod.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755af033409d0525ff1c1d",
       "id": 27780,
       "url": "https://circuitbreak-2025.devpost.com/",
       "title": "CircuitBreak 2025",
@@ -1372,7 +1701,7 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 01 - Mar 31, 2026",
       "displayed_location": "Online",
-      "registrations_count": 125,
+      "registrations_count": 127,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "2 months left",
       "themes": [
@@ -1393,38 +1722,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a501963633deb0af7a",
-      "id": 27531,
-      "url": "https://founderforge1.devpost.com/",
-      "title": "FounderForge",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/103/168/datas/medium_square.jpg",
-      "featured": false,
-      "organization_name": "zynova",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 05, 2025 - Jan 25, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 219,
-      "prizeText": "$<span data-currency-value>200</span>",
-      "time_left_to_submission": "2 days left",
-      "themes": [
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 27,
-          "name": "Robotic Process Automation"
-        }
-      ],
-      "start_a_submission_url": "https://founderforge1.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "697409a501963633deb0af7b",
+      "_id": "69755af033409d0525ff1c1e",
       "id": 27513,
       "url": "https://student-hackpad-2026.devpost.com/",
       "title": "Student HackPad 2026",
@@ -1434,7 +1732,7 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 05, 2025 - Feb 28, 2026",
       "displayed_location": "Online",
-      "registrations_count": 442,
+      "registrations_count": 447,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -1455,7 +1753,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a501963633deb0af7c",
+      "_id": "69755af033409d0525ff1c1f",
       "id": 27668,
       "url": "https://byte2beat.devpost.com/",
       "title": "Byte 2 Beat",
@@ -1465,9 +1763,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 05, 2025 - Feb 14, 2026",
       "displayed_location": "Online",
-      "registrations_count": 464,
+      "registrations_count": 488,
       "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "22 days left",
+      "time_left_to_submission": "21 days left",
       "themes": [
         {
           "id": 23,
@@ -1486,7 +1784,38 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a501963633deb0af7d",
+      "_id": "69755af033409d0525ff1c20",
+      "id": 27531,
+      "url": "https://founderforge1.devpost.com/",
+      "title": "FounderForge",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/103/168/datas/medium_square.jpg",
+      "featured": false,
+      "organization_name": "zynova",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 05, 2025 - Jan 25, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 233,
+      "prizeText": "$<span data-currency-value>200</span>",
+      "time_left_to_submission": "1 day left",
+      "themes": [
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 27,
+          "name": "Robotic Process Automation"
+        }
+      ],
+      "start_a_submission_url": "https://founderforge1.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755af033409d0525ff1c21",
       "id": 27701,
       "url": "https://raise26.devpost.com/",
       "title": "RAISE-26",
@@ -1509,7 +1838,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a501963633deb0af7e",
+      "_id": "69755af033409d0525ff1c22",
       "id": 26536,
       "url": "https://tecstorm26.devpost.com/",
       "title": "TecStorm'26",
@@ -1519,9 +1848,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 05, 2025 - Jan 26, 2026",
       "displayed_location": "Online",
-      "registrations_count": 659,
+      "registrations_count": 665,
       "prizeText": "€<span data-currency-value>16,000</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 23,
@@ -1532,7 +1861,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a501963633deb0af7f",
+      "_id": "69755af033409d0525ff1c23",
       "id": 27667,
       "url": "https://snow-fest.devpost.com/",
       "title": "Snow Fest",
@@ -1542,9 +1871,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 01 - 31, 2026",
       "displayed_location": "Online",
-      "registrations_count": 638,
+      "registrations_count": 654,
       "prizeText": "$<span data-currency-value>8,000</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 23,
@@ -1563,7 +1892,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a501963633deb0af80",
+      "_id": "69755af133409d0525ff1c24",
       "id": 27619,
       "url": "https://lavapunk.devpost.com/",
       "title": "LavaPunk",
@@ -1573,9 +1902,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 24, 2025 - Jan 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 461,
+      "registrations_count": 477,
       "prizeText": "$<span data-currency-value>1,400</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 13 hours left",
       "themes": [
         {
           "id": 28,
@@ -1594,7 +1923,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a501963633deb0af81",
+      "_id": "69755af133409d0525ff1c25",
       "id": 27625,
       "url": "https://octopushack.devpost.com/",
       "title": "Octopus Hackathon",
@@ -1604,28 +1933,59 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 01, 2025 - Jan 31, 2026",
       "displayed_location": "Online",
-      "registrations_count": 901,
+      "registrations_count": 912,
       "prizeText": "$<span data-currency-value>3,500</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 18,
-          "name": "Design"
-        },
-        {
           "id": 21,
           "name": "Enterprise"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
         }
       ],
       "start_a_submission_url": "https://octopushack.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "697409a601963633deb0af82",
+      "_id": "69755af133409d0525ff1c26",
+      "id": 27564,
+      "url": "https://hacksmart321.devpost.com/",
+      "title": "....",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/018/410/datas/medium_square.jpg",
+      "featured": false,
+      "organization_name": "Battery Smart",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24 - 25, 2026",
+      "displayed_location": "Gurugram, Haryana",
+      "registrations_count": 28,
+      "prizeText": "₹ <span data-currency-value>80,000</span>",
+      "time_left_to_submission": "about 12 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://hacksmart321.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755af133409d0525ff1c27",
       "id": 27274,
       "url": "https://neogenesis-hackathon.devpost.com/",
       "title": "NeoGenesis Hackathon",
@@ -1635,9 +1995,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 20, 2025 - Jan 31, 2026",
       "displayed_location": "Online",
-      "registrations_count": 453,
+      "registrations_count": 456,
       "prizeText": "₹ <span data-currency-value>33,000</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 5,
@@ -1656,7 +2016,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a601963633deb0af83",
+      "_id": "69755af133409d0525ff1c28",
       "id": 27350,
       "url": "https://africadigitalidhackathon2026.devpost.com/",
       "title": "Africa Digital ID Hackathon 2026",
@@ -1666,9 +2026,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 18, 2025 - Feb 07, 2026",
       "displayed_location": "Online",
-      "registrations_count": 241,
+      "registrations_count": 245,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "themes": [
         {
           "id": 23,
@@ -1683,7 +2043,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a601963633deb0af84",
+      "_id": "69755af133409d0525ff1c29",
       "id": 27285,
       "url": "https://health-hackx-27285.devpost.com/",
       "title": "HealTech Innovators Hackathon 2025",
@@ -1693,9 +2053,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 20, 2025 - Jan 30, 2026",
       "displayed_location": "Online",
-      "registrations_count": 159,
+      "registrations_count": 160,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 16,
@@ -1714,7 +2074,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a601963633deb0af85",
+      "_id": "69755af133409d0525ff1c2a",
       "id": 27177,
       "url": "https://strathspace-hack-day.devpost.com/",
       "title": "Strathspace Hack Day",
@@ -1724,7 +2084,7 @@
       "isOpen": "open",
       "submission_period_dates": "Oct 27, 2025 - Feb 26, 2026",
       "displayed_location": "Online",
-      "registrations_count": 149,
+      "registrations_count": 150,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -1741,7 +2101,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a601963633deb0af86",
+      "_id": "69755af133409d0525ff1c2b",
       "id": 27186,
       "url": "https://hackcwru-012025.devpost.com/",
       "title": "HackCWRU 2026: Ideas into Impact",
@@ -1751,9 +2111,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 23 - 25, 2026",
       "displayed_location": "Case Western Reserve University",
-      "registrations_count": 48,
+      "registrations_count": 65,
       "prizeText": "$<span data-currency-value>9,000</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 17 hours left",
       "themes": [
         {
           "id": 22,
@@ -1772,7 +2132,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a601963633deb0af87",
+      "_id": "69755af133409d0525ff1c2c",
       "id": 27112,
       "url": "https://malim-hackathon-2025.devpost.com/",
       "title": "Malim Hackathon 2025",
@@ -1782,9 +2142,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 03, 2025 - Jan 31, 2026",
       "displayed_location": "Online",
-      "registrations_count": 80,
+      "registrations_count": 81,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 28,
@@ -1803,7 +2163,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a601963633deb0af88",
+      "_id": "69755af233409d0525ff1c2d",
       "id": 26983,
       "url": "https://hackai-26983.devpost.com/",
       "title": "Averix Hacks ",
@@ -1813,9 +2173,9 @@
       "isOpen": "open",
       "submission_period_dates": "Nov 20, 2025 - Feb 07, 2026",
       "displayed_location": "Online",
-      "registrations_count": 113,
+      "registrations_count": 116,
       "prizeText": "$<span data-currency-value>100</span>",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "themes": [
         {
           "id": 23,
@@ -1830,7 +2190,92 @@
       "source": "devpost"
     },
     {
-      "_id": "697409a601963633deb0af89",
+      "_id": "69755af233409d0525ff1c2e",
+      "id": 26998,
+      "url": "https://hard-hack-2026.devpost.com/",
+      "title": " Hard Hack 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/844/553/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Eta Kappa Nu (HKN) at UCSD",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24 - 25, 2026",
+      "displayed_location": "Jacobs Hall",
+      "registrations_count": 13,
+      "prizeText": "$<span data-currency-value>898</span>",
+      "time_left_to_submission": "about 19 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://hard-hack-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755af233409d0525ff1c2f",
+      "id": 26478,
+      "url": "https://stang-hacks-26.devpost.com/",
+      "title": "Stang Hacks",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/730/876/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Stang Hacks Team",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24, 2026",
+      "displayed_location": "Zoho Corporation",
+      "registrations_count": 25,
+      "prizeText": "$<span data-currency-value>800</span>",
+      "time_left_to_submission": "about 2 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://stang-hacks-26.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755af233409d0525ff1c30",
+      "id": 25076,
+      "url": "https://rosehack.devpost.com/",
+      "title": "RoseHack 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/455/274/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Women in Computing at UCR",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 24 - 25, 2026",
+      "displayed_location": "University of California, Riverside",
+      "registrations_count": 52,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 18 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://rosehack.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69755af233409d0525ff1c31",
       "id": 23743,
       "url": "https://hoya-hacks-2026.devpost.com/",
       "title": "Hoya Hacks 2026 Powered By Cisco",
@@ -1840,9 +2285,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 23 - 25, 2026",
       "displayed_location": "Healey Family Student Center",
-      "registrations_count": 334,
+      "registrations_count": 411,
       "prizeText": "$<span data-currency-value>100</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 18 hours left",
       "themes": [
         {
           "id": 23,
@@ -1857,7 +2302,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697409ad01963633deb0af8a",
+      "_id": "69755af933409d0525ff1c32",
       "id": "ethdenver2026",
       "url": "https://ethdenver2026.devfolio.co/",
       "title": "ETHDenver 2026",
@@ -1876,7 +2321,7 @@
       "devfolio_slug": "ethdenver2026"
     },
     {
-      "_id": "697409ad01963633deb0af8b",
+      "_id": "69755af933409d0525ff1c33",
       "id": "buildindia2026",
       "url": "https://buildindia2026.devfolio.co/",
       "title": "Build India: Anthropic x Replit x Lightspeed Hackathon",
@@ -1895,7 +2340,7 @@
       "devfolio_slug": "buildindia2026"
     },
     {
-      "_id": "697409ad01963633deb0af8c",
+      "_id": "69755af933409d0525ff1c34",
       "id": "ethdenver2026",
       "url": "https://ethdenver2026.devfolio.co/",
       "title": "ETHDenver 2026",
@@ -1914,7 +2359,7 @@
       "devfolio_slug": "ethdenver2026"
     },
     {
-      "_id": "697409ad01963633deb0af8d",
+      "_id": "69755af933409d0525ff1c35",
       "id": "buildindia2026",
       "url": "https://buildindia2026.devfolio.co/",
       "title": "Build India: Anthropic x Replit x Lightspeed Hackathon",
@@ -1933,140 +2378,7 @@
       "devfolio_slug": "buildindia2026"
     },
     {
-      "_id": "697409ad01963633deb0af8e",
-      "id": "ethmumbai2026",
-      "url": "https://ethmumbai2026.devfolio.co/",
-      "title": "ETHMumbai 2026",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://ethmumbai2026.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "ethmumbai2026"
-    },
-    {
-      "_id": "697409ad01963633deb0af8f",
-      "id": "lumora",
-      "url": "https://lumora.devfolio.co/",
-      "title": "Lumora",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://lumora.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "lumora"
-    },
-    {
-      "_id": "697409ad01963633deb0af90",
-      "id": "knowcode-3",
-      "url": "https://knowcode-3.devfolio.co/",
-      "title": "KnowCode 3.0",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://knowcode-3.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "knowcode-3"
-    },
-    {
-      "_id": "697409ad01963633deb0af91",
-      "id": "stacktoodeep-v-3",
-      "url": "https://stacktoodeep-v-3.devfolio.co/",
-      "title": "StackTooDeep v3.0",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://stacktoodeep-v-3.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "stacktoodeep-v-3"
-    },
-    {
-      "_id": "697409ad01963633deb0af92",
-      "id": "hacktu7",
-      "url": "https://hacktu7.devfolio.co/",
-      "title": "HackTU 7.0",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://hacktu7.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "hacktu7"
-    },
-    {
-      "_id": "697409ad01963633deb0af93",
-      "id": "threx-1",
-      "url": "https://threx-1.devfolio.co/",
-      "title": "THREX",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://threx-1.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "threx-1"
-    },
-    {
-      "_id": "697409ad01963633deb0af94",
-      "id": "hack-nocturne-2",
-      "url": "https://hack-nocturne-2.devfolio.co/",
-      "title": "Hack-Nocturne 2.O",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://hack-nocturne-2.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "hack-nocturne-2"
-    },
-    {
-      "_id": "697409ad01963633deb0af95",
+      "_id": "69755af933409d0525ff1c36",
       "id": "rekkathon",
       "url": "https://rekkathon.devfolio.co/",
       "title": "Rekkathon",
@@ -2085,7 +2397,26 @@
       "devfolio_slug": "rekkathon"
     },
     {
-      "_id": "697409ad01963633deb0af96",
+      "_id": "69755af933409d0525ff1c37",
+      "id": "hack-nocturne-2",
+      "url": "https://hack-nocturne-2.devfolio.co/",
+      "title": "Hack-Nocturne 2.O",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://hack-nocturne-2.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "hack-nocturne-2"
+    },
+    {
+      "_id": "69755af933409d0525ff1c38",
       "id": "datathon-9",
       "url": "https://datathon-9.devfolio.co/",
       "title": "DATATHON",
@@ -2104,10 +2435,10 @@
       "devfolio_slug": "datathon-9"
     },
     {
-      "_id": "697409ad01963633deb0af97",
-      "id": "pay-load",
-      "url": "https://pay-load.devfolio.co/",
-      "title": "PayLoad'26",
+      "_id": "69755af933409d0525ff1c39",
+      "id": "threx-1",
+      "url": "https://threx-1.devfolio.co/",
+      "title": "THREX",
       "thumbnail_url": null,
       "featured": false,
       "organization_name": "Devfolio",
@@ -2118,12 +2449,12 @@
       "prizeText": null,
       "time_left_to_submission": null,
       "themes": [],
-      "start_a_submission_url": "https://pay-load.devfolio.co/",
+      "start_a_submission_url": "https://threx-1.devfolio.co/",
       "source": "devfolio",
-      "devfolio_slug": "pay-load"
+      "devfolio_slug": "threx-1"
     },
     {
-      "_id": "697409ad01963633deb0af98",
+      "_id": "69755af933409d0525ff1c3a",
       "id": "codesprint-4",
       "url": "https://codesprint-4.devfolio.co/",
       "title": "CodeSprint2026",
@@ -2142,7 +2473,7 @@
       "devfolio_slug": "codesprint-4"
     },
     {
-      "_id": "697409ad01963633deb0af99",
+      "_id": "69755af933409d0525ff1c3b",
       "id": "hack-the-throne",
       "url": "https://hack-the-throne.devfolio.co/",
       "title": "HACK THE THRONE",
@@ -2161,7 +2492,7 @@
       "devfolio_slug": "hack-the-throne"
     },
     {
-      "_id": "697409ad01963633deb0af9a",
+      "_id": "69755af933409d0525ff1c3c",
       "id": "zyph-1",
       "url": "https://zyph-1.devfolio.co/",
       "title": "Zyph",
@@ -2180,7 +2511,7 @@
       "devfolio_slug": "zyph-1"
     },
     {
-      "_id": "697409ad01963633deb0af9b",
+      "_id": "69755af933409d0525ff1c3d",
       "id": "codelite2o",
       "url": "https://codelite2o.devfolio.co/",
       "title": "CodeLites 2.0",
@@ -2199,7 +2530,7 @@
       "devfolio_slug": "codelite2o"
     },
     {
-      "_id": "697409ad01963633deb0af9c",
+      "_id": "69755af933409d0525ff1c3e",
       "id": "base-indonesia-hackathon-2025",
       "url": "https://base-indonesia-hackathon-2025.devfolio.co/",
       "title": "Base Indonesia Hackathon 2025",
@@ -2218,7 +2549,7 @@
       "devfolio_slug": "base-indonesia-hackathon-2025"
     },
     {
-      "_id": "697409ad01963633deb0af9d",
+      "_id": "69755af933409d0525ff1c3f",
       "id": "ghrhack2",
       "url": "https://ghrhack2.devfolio.co/",
       "title": "GHRhack 2.0",
@@ -2237,7 +2568,7 @@
       "devfolio_slug": "ghrhack2"
     },
     {
-      "_id": "697409ad01963633deb0af9e",
+      "_id": "69755af933409d0525ff1c40",
       "id": "buildindia2026",
       "url": "https://buildindia2026.devfolio.co/",
       "title": "Build India: Anthropic x Replit x Lightspeed Hackathon",
@@ -2256,26 +2587,7 @@
       "devfolio_slug": "buildindia2026"
     },
     {
-      "_id": "697409ad01963633deb0af9f",
-      "id": "hack-o-knight",
-      "url": "https://hack-o-knight.devfolio.co/",
-      "title": "Hack-O-Knight",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://hack-o-knight.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "hack-o-knight"
-    },
-    {
-      "_id": "697409ad01963633deb0afa0",
+      "_id": "69755af933409d0525ff1c41",
       "id": "electrothon-8",
       "url": "https://electrothon-8.devfolio.co/",
       "title": "Electrothon 8.0",
@@ -2294,7 +2606,26 @@
       "devfolio_slug": "electrothon-8"
     },
     {
-      "_id": "697409ad01963633deb0afa1",
+      "_id": "69755af933409d0525ff1c42",
+      "id": "hack-o-knight",
+      "url": "https://hack-o-knight.devfolio.co/",
+      "title": "Hack-O-Knight",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://hack-o-knight.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "hack-o-knight"
+    },
+    {
+      "_id": "69755af933409d0525ff1c43",
       "id": "mergeconflict",
       "url": "https://mergeconflict.devfolio.co/",
       "title": "MERGE-CONFLICT",
@@ -2313,7 +2644,121 @@
       "devfolio_slug": "mergeconflict"
     },
     {
-      "_id": "697409ad01963633deb0afa2",
+      "_id": "69755af933409d0525ff1c44",
+      "id": "pay-load",
+      "url": "https://pay-load.devfolio.co/",
+      "title": "PayLoad'26",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://pay-load.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "pay-load"
+    },
+    {
+      "_id": "69755af933409d0525ff1c45",
+      "id": "leanin-hacks-7",
+      "url": "https://leanin-hacks-7.devfolio.co/",
+      "title": "Lean In Hacks 7.0",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://leanin-hacks-7.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "leanin-hacks-7"
+    },
+    {
+      "_id": "69755af933409d0525ff1c46",
+      "id": "engineerx-hackfest",
+      "url": "https://engineerx-hackfest.devfolio.co/",
+      "title": "EngineerX HackFest",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://engineerx-hackfest.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "engineerx-hackfest"
+    },
+    {
+      "_id": "69755af933409d0525ff1c47",
+      "id": "hack-with-gdg-s3",
+      "url": "https://hack-with-gdg-s3.devfolio.co/",
+      "title": "Hack With GDG S3",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://hack-with-gdg-s3.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "hack-with-gdg-s3"
+    },
+    {
+      "_id": "69755af933409d0525ff1c48",
+      "id": "innov-77",
+      "url": "https://innov-77.devfolio.co/",
+      "title": "Innov8 4.0",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://innov-77.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "innov-77"
+    },
+    {
+      "_id": "69755af933409d0525ff1c49",
+      "id": "reckon-7",
+      "url": "https://reckon-7.devfolio.co/",
+      "title": "RECKON 7.0",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://reckon-7.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "reckon-7"
+    },
+    {
+      "_id": "69755af933409d0525ff1c4a",
       "id": "hackprix-2026",
       "url": "https://hackprix-2026.devfolio.co/",
       "title": "HackPrix Season 3",
@@ -2332,7 +2777,7 @@
       "devfolio_slug": "hackprix-2026"
     },
     {
-      "_id": "697409ad01963633deb0afa3",
+      "_id": "69755af933409d0525ff1c4b",
       "id": "hackolution2k26",
       "url": "https://hackolution2k26.devfolio.co/",
       "title": "Hackolution 2K26",
@@ -2351,7 +2796,26 @@
       "devfolio_slug": "hackolution2k26"
     },
     {
-      "_id": "697409ad01963633deb0afa4",
+      "_id": "69755af933409d0525ff1c4c",
+      "id": "yudhya-26",
+      "url": "https://yudhya-26.devfolio.co/",
+      "title": "Yudhya 26",
+      "thumbnail_url": null,
+      "featured": false,
+      "organization_name": "Devfolio",
+      "isOpen": "open",
+      "submission_period_dates": null,
+      "displayed_location": "India",
+      "registrations_count": null,
+      "prizeText": null,
+      "time_left_to_submission": null,
+      "themes": [],
+      "start_a_submission_url": "https://yudhya-26.devfolio.co/",
+      "source": "devfolio",
+      "devfolio_slug": "yudhya-26"
+    },
+    {
+      "_id": "69755af933409d0525ff1c4d",
       "id": "hacksprint2",
       "url": "https://hacksprint2.devfolio.co/",
       "title": "Hacksprint 2.0",
@@ -2370,7 +2834,7 @@
       "devfolio_slug": "hacksprint2"
     },
     {
-      "_id": "697409ad01963633deb0afa5",
+      "_id": "69755af933409d0525ff1c4e",
       "id": "india-ascends",
       "url": "https://india-ascends.devfolio.co/",
       "title": "India Ascends 2026",
@@ -2389,7 +2853,7 @@
       "devfolio_slug": "india-ascends"
     },
     {
-      "_id": "697409ad01963633deb0afa6",
+      "_id": "69755af933409d0525ff1c4f",
       "id": "hacksync-7",
       "url": "https://hacksync-7.devfolio.co/",
       "title": "HackSync 2026",
@@ -2406,25 +2870,6 @@
       "start_a_submission_url": "https://hacksync-7.devfolio.co/",
       "source": "devfolio",
       "devfolio_slug": "hacksync-7"
-    },
-    {
-      "_id": "697409ad01963633deb0afa7",
-      "id": "devfest5goa",
-      "url": "https://devfest5goa.devfolio.co/",
-      "title": "Devfest 5.0 Goa",
-      "thumbnail_url": null,
-      "featured": false,
-      "organization_name": "Devfolio",
-      "isOpen": "open",
-      "submission_period_dates": null,
-      "displayed_location": "India",
-      "registrations_count": null,
-      "prizeText": null,
-      "time_left_to_submission": null,
-      "themes": [],
-      "start_a_submission_url": "https://devfest5goa.devfolio.co/",
-      "source": "devfolio",
-      "devfolio_slug": "devfest5goa"
     }
   ]
 }
