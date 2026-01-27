@@ -1,88 +1,53 @@
 {
-  "last_updated": "2026-01-26T01:06:31.781319Z",
+  "last_updated": "2026-01-27T01:05:12.995783Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "6976aca2e09760f1edbe9287",
-      "id": 27887,
-      "url": "https://revenuecat-shipyard-2026.devpost.com/",
-      "title": "RevenueCat Shipyard: Creator Contest ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/146/721/datas/medium_square.png",
+      "_id": "6977feab7e56fb19f1347951",
+      "id": 27872,
+      "url": "https://devstudiologitech2026.devpost.com/",
+      "title": "DevStudio 2026 by Logitech",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/192/157/datas/medium_square.png",
       "featured": true,
-      "organization_name": "RevenueCat",
+      "organization_name": "Logitech",
       "isOpen": "open",
-      "submission_period_dates": "Jan 15 - Feb 12, 2026",
+      "submission_period_dates": "Jan 21 - Feb 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 5676,
-      "prizeText": "$<span data-currency-value>140,000</span>",
-      "time_left_to_submission": "18 days left",
+      "registrations_count": 410,
+      "prizeText": "$<span data-currency-value>20,000</span>",
+      "time_left_to_submission": "30 days left",
       "themes": [
         {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        }
-      ],
-      "start_a_submission_url": "https://revenuecat-shipyard-2026.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "6976aca2e09760f1edbe928e",
-      "id": 27555,
-      "url": "https://gemini3.devpost.com/",
-      "title": "Gemini 3 Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/098/038/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "Google",
-      "isOpen": "open",
-      "submission_period_dates": "Dec 17, 2025 - Feb 09, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 23731,
-      "prizeText": "$<span data-currency-value>100,000</span>",
-      "time_left_to_submission": "15 days left",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 5,
+          "name": "AR/VR"
         },
         {
           "id": 22,
           "name": "Open Ended"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 11,
+          "name": "Productivity"
         }
       ],
-      "start_a_submission_url": "https://gemini3.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://devstudiologitech2026.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "6976aca3e09760f1edbe9295",
-      "id": 27479,
-      "url": "https://cloud9.devpost.com/",
-      "title": "Sky’s the Limit - Cloud9 x JetBrains Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/016/236/datas/medium_square.png",
+      "_id": "6977feab7e56fb19f1347952",
+      "id": 28053,
+      "url": "https://elasticsearch.devpost.com/",
+      "title": "Elasticsearch Agent Builder Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/156/365/datas/medium_square.jpg",
       "featured": true,
-      "organization_name": "Cloud9",
+      "organization_name": "Elastic",
       "isOpen": "open",
-      "submission_period_dates": "Dec 09, 2025 - Feb 03, 2026",
+      "submission_period_dates": "Jan 22 - Feb 27, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1985,
-      "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "9 days left",
+      "registrations_count": 417,
+      "prizeText": "$<span data-currency-value>20,000</span>",
+      "time_left_to_submission": "about 1 month left",
       "themes": [
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
         {
           "id": 28,
           "name": "Databases"
@@ -90,40 +55,75 @@
         {
           "id": 6,
           "name": "Machine Learning/AI"
+        },
+        {
+          "id": 29,
+          "name": "Serverless"
         }
       ],
-      "start_a_submission_url": "https://cloud9.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://elasticsearch.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "6976aca3e09760f1edbe9296",
-      "id": 27049,
-      "url": "https://serverpod.devpost.com/",
-      "title": "Build your Flutter Butler with Serverpod",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/876/643/datas/medium_square.png",
+      "_id": "6977feac7e56fb19f1347959",
+      "id": 27929,
+      "url": "https://redditdailygames2026.devpost.com/",
+      "title": "The Reddit Daily Games Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/147/444/datas/medium_square.png",
       "featured": true,
-      "organization_name": "serverpod",
+      "organization_name": "reddit",
       "isOpen": "open",
-      "submission_period_dates": "Dec 09, 2025 - Jan 30, 2026",
+      "submission_period_dates": "Jan 15 - Feb 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1282,
-      "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "5 days left",
+      "registrations_count": 1534,
+      "prizeText": "$<span data-currency-value>40,000</span>",
+      "time_left_to_submission": "17 days left",
       "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://redditdailygames2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6977feaf7e56fb19f134796c",
+      "id": 27598,
+      "url": "https://snapgames.devpost.com/",
+      "title": " Play Everywhere: The Build with Snap Games Lensathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/061/826/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Snapchat",
+      "isOpen": "open",
+      "submission_period_dates": "Dec 10, 2025 - Feb 03, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 981,
+      "prizeText": "$<span data-currency-value>30,000</span>",
+      "time_left_to_submission": "7 days left",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
         {
           "id": 26,
           "name": "Mobile"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
-        {
-          "id": 12,
-          "name": "Lifehacks"
         }
       ],
-      "start_a_submission_url": "https://serverpod.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://snapgames.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
