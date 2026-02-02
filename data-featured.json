@@ -1,40 +1,9 @@
 {
-  "last_updated": "2026-02-01T01:22:37.253362Z",
+  "last_updated": "2026-02-02T01:14:25.230352Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "697e965b9845468c200a5064",
-      "id": 28053,
-      "url": "https://elasticsearch.devpost.com/",
-      "title": "Elasticsearch Agent Builder Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/156/365/datas/medium_square.jpg",
-      "featured": true,
-      "organization_name": "Elastic",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 22 - Feb 27, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 703,
-      "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "27 days left",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 29,
-          "name": "Serverless"
-        }
-      ],
-      "start_a_submission_url": "https://elasticsearch.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "697e965b9845468c200a5065",
+      "_id": "697fe85cc6704570b5844f0d",
       "id": 27872,
       "url": "https://devstudiologitech2026.devpost.com/",
       "title": "DevStudio 2026 by Logitech",
@@ -44,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 21 - Feb 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 541,
+      "registrations_count": 576,
       "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "25 days left",
+      "time_left_to_submission": "24 days left",
       "themes": [
         {
           "id": 5,
@@ -65,7 +34,38 @@
       "source": "devpost"
     },
     {
-      "_id": "697e965c9845468c200a506c",
+      "_id": "697fe85cc6704570b5844f0e",
+      "id": 28053,
+      "url": "https://elasticsearch.devpost.com/",
+      "title": "Elasticsearch Agent Builder Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/156/365/datas/medium_square.jpg",
+      "featured": true,
+      "organization_name": "Elastic",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 22 - Feb 27, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 780,
+      "prizeText": "$<span data-currency-value>20,000</span>",
+      "time_left_to_submission": "26 days left",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 29,
+          "name": "Serverless"
+        }
+      ],
+      "start_a_submission_url": "https://elasticsearch.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "697fe85dc6704570b5844f15",
       "id": 27929,
       "url": "https://redditdailygames2026.devpost.com/",
       "title": "The Reddit Daily Games Hackathon",
@@ -75,9 +75,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 15 - Feb 12, 2026",
       "displayed_location": "Online",
-      "registrations_count": 2093,
+      "registrations_count": 2188,
       "prizeText": "$<span data-currency-value>40,000</span>",
-      "time_left_to_submission": "12 days left",
+      "time_left_to_submission": "11 days left",
       "themes": [
         {
           "id": 23,
@@ -96,7 +96,7 @@
       "source": "devpost"
     },
     {
-      "_id": "697e965e9845468c200a507f",
+      "_id": "697fe85fc6704570b5844f24",
       "id": 27598,
       "url": "https://snapgames.devpost.com/",
       "title": " Play Everywhere: The Build with Snap Games Lensathon",
@@ -106,9 +106,9 @@
       "isOpen": "open",
       "submission_period_dates": "Dec 10, 2025 - Feb 03, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1042,
+      "registrations_count": 1048,
       "prizeText": "$<span data-currency-value>30,000</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 5,
