@@ -1,9 +1,40 @@
 {
-  "last_updated": "2026-02-09T01:16:50.701581Z",
+  "last_updated": "2026-02-10T01:25:13.609030Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "69892349e375057ea6bb5d55",
+      "_id": "698a7663848a0b9f9ba31aeb",
+      "id": 28106,
+      "url": "https://gitlab.devpost.com/",
+      "title": "GitLab AI Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/188/179/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "GitLab",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 09 - Mar 25, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 102,
+      "prizeText": "$<span data-currency-value>65,000</span>",
+      "time_left_to_submission": "about 1 month left",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "start_a_submission_url": "https://gitlab.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "698a7663848a0b9f9ba31af2",
       "id": 25719,
       "url": "https://amazon-nova.devpost.com/",
       "title": "Amazon Nova AI Hackathon",
@@ -13,7 +44,7 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 02 - Mar 16, 2026",
       "displayed_location": "Online",
-      "registrations_count": 2407,
+      "registrations_count": 2777,
       "prizeText": "$<span data-currency-value>40,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -34,19 +65,19 @@
       "source": "devpost"
     },
     {
-      "_id": "69892349e375057ea6bb5d5e",
-      "id": 28141,
-      "url": "https://digitalocean.devpost.com/",
-      "title": "DigitalOcean Gradient™ AI Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/188/390/datas/medium_square.png",
+      "_id": "698a7666848a0b9f9ba31b05",
+      "id": 28053,
+      "url": "https://elasticsearch.devpost.com/",
+      "title": "Elasticsearch Agent Builder Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/156/365/datas/medium_square.jpg",
       "featured": true,
-      "organization_name": "DigitalOcean",
+      "organization_name": "Elastic",
       "isOpen": "open",
-      "submission_period_dates": "Jan 28 - Mar 18, 2026",
+      "submission_period_dates": "Jan 22 - Feb 27, 2026",
       "displayed_location": "Online",
-      "registrations_count": 977,
+      "registrations_count": 1301,
       "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "about 1 month left",
+      "time_left_to_submission": "18 days left",
       "themes": [
         {
           "id": 28,
@@ -57,73 +88,42 @@
           "name": "Machine Learning/AI"
         },
         {
+          "id": 29,
+          "name": "Serverless"
+        }
+      ],
+      "start_a_submission_url": "https://elasticsearch.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "698a7666848a0b9f9ba31b07",
+      "id": 27872,
+      "url": "https://devstudiologitech2026.devpost.com/",
+      "title": "DevStudio 2026 by Logitech",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/192/157/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Logitech",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 21 - Feb 25, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 810,
+      "prizeText": "$<span data-currency-value>20,000</span>",
+      "time_left_to_submission": "16 days left",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
           "id": 22,
           "name": "Open Ended"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
         }
       ],
-      "start_a_submission_url": "https://digitalocean.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "6989234be375057ea6bb5d6f",
-      "id": 27929,
-      "url": "https://redditdailygames2026.devpost.com/",
-      "title": "The Reddit Daily Games Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/147/444/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "reddit",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 15 - Feb 12, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 2771,
-      "prizeText": "$<span data-currency-value>40,000</span>",
-      "time_left_to_submission": "4 days left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "start_a_submission_url": "https://redditdailygames2026.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "6989234be375057ea6bb5d73",
-      "id": 27887,
-      "url": "https://revenuecat-shipyard-2026.devpost.com/",
-      "title": "RevenueCat Shipyard: Creator Contest ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/146/721/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "RevenueCat",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 15 - Feb 12, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 6806,
-      "prizeText": "$<span data-currency-value>165,000</span>",
-      "time_left_to_submission": "4 days left",
-      "themes": [
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        }
-      ],
-      "start_a_submission_url": "https://revenuecat-shipyard-2026.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://devstudiologitech2026.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
