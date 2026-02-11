@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-10T01:25:13.609030Z",
+  "last_updated": "2026-02-11T01:22:46.857515Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "698a7663848a0b9f9ba31aeb",
+      "_id": "698bc821b23f04833a607d2f",
       "id": 28106,
       "url": "https://gitlab.devpost.com/",
       "title": "GitLab AI Hackathon",
@@ -13,7 +13,7 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 09 - Mar 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 102,
+      "registrations_count": 510,
       "prizeText": "$<span data-currency-value>65,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -34,7 +34,7 @@
       "source": "devpost"
     },
     {
-      "_id": "698a7663848a0b9f9ba31af2",
+      "_id": "698bc821b23f04833a607d37",
       "id": 25719,
       "url": "https://amazon-nova.devpost.com/",
       "title": "Amazon Nova AI Hackathon",
@@ -44,7 +44,7 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 02 - Mar 16, 2026",
       "displayed_location": "Online",
-      "registrations_count": 2777,
+      "registrations_count": 3311,
       "prizeText": "$<span data-currency-value>40,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -65,38 +65,7 @@
       "source": "devpost"
     },
     {
-      "_id": "698a7666848a0b9f9ba31b05",
-      "id": 28053,
-      "url": "https://elasticsearch.devpost.com/",
-      "title": "Elasticsearch Agent Builder Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/156/365/datas/medium_square.jpg",
-      "featured": true,
-      "organization_name": "Elastic",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 22 - Feb 27, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 1301,
-      "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "18 days left",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 29,
-          "name": "Serverless"
-        }
-      ],
-      "start_a_submission_url": "https://elasticsearch.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "698a7666848a0b9f9ba31b07",
+      "_id": "698bc823b23f04833a607d4d",
       "id": 27872,
       "url": "https://devstudiologitech2026.devpost.com/",
       "title": "DevStudio 2026 by Logitech",
@@ -106,9 +75,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 21 - Feb 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 810,
+      "registrations_count": 839,
       "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
           "id": 5,
@@ -124,6 +93,37 @@
         }
       ],
       "start_a_submission_url": "https://devstudiologitech2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "698bc823b23f04833a607d4e",
+      "id": 28053,
+      "url": "https://elasticsearch.devpost.com/",
+      "title": "Elasticsearch Agent Builder Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/156/365/datas/medium_square.jpg",
+      "featured": true,
+      "organization_name": "Elastic",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 22 - Feb 27, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 1414,
+      "prizeText": "$<span data-currency-value>20,000</span>",
+      "time_left_to_submission": "17 days left",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 29,
+          "name": "Serverless"
+        }
+      ],
+      "start_a_submission_url": "https://elasticsearch.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
