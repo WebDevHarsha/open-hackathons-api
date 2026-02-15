@@ -1,9 +1,40 @@
 {
-  "last_updated": "2026-02-14T01:11:41.799736Z",
-  "count": 10,
+  "last_updated": "2026-02-15T01:18:24.632096Z",
+  "count": 12,
   "hackathons": [
     {
-      "_id": "698fbaf4aa5136188cb582e0",
+      "_id": "69910bb49ba2bd1fb1c56738",
+      "id": 28690,
+      "url": "https://innov8-a-thon-28690.devpost.com/",
+      "title": "Innov8 A Thon ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/321/427/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Sarala Birla University",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 14 - 28, 2026",
+      "displayed_location": "Sarala Birla University",
+      "registrations_count": 3,
+      "prizeText": "₹ <span data-currency-value>60,000</span>",
+      "time_left_to_submission": "13 days left",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://innov8-a-thon-28690.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69910bb49ba2bd1fb1c5673c",
       "id": 26126,
       "url": "https://hackbeanpot2026.devpost.com/",
       "title": "HackBeanpot 2026",
@@ -13,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 13 - 15, 2026",
       "displayed_location": "Maven AGI",
-      "registrations_count": 8,
+      "registrations_count": 21,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 15 hours left",
       "themes": [
         {
           "id": 23,
@@ -30,7 +61,7 @@
       "source": "devpost"
     },
     {
-      "_id": "698fbaf4aa5136188cb582e2",
+      "_id": "69910bb49ba2bd1fb1c5673d",
       "id": 28652,
       "url": "https://sns-ideathon-2026.devpost.com/",
       "title": "SNS Ideathon 2026",
@@ -40,9 +71,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 12 - 15, 2026",
       "displayed_location": "Coimbatore",
-      "registrations_count": 9,
+      "registrations_count": 11,
       "prizeText": "$<span data-currency-value>4</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 22 hours left",
       "themes": [
         {
           "id": 16,
@@ -61,7 +92,7 @@
       "source": "devpost"
     },
     {
-      "_id": "698fbaf4aa5136188cb582e3",
+      "_id": "69910bb49ba2bd1fb1c5673e",
       "id": 28653,
       "url": "https://hackfax-x-patriothacks-2026.devpost.com/",
       "title": "HackFax x PatriotHacks 2026",
@@ -71,9 +102,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 13 - 15, 2026",
       "displayed_location": "Johnson Center",
-      "registrations_count": 15,
+      "registrations_count": 227,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 18 hours left",
       "themes": [
         {
           "id": 22,
@@ -84,7 +115,7 @@
       "source": "devpost"
     },
     {
-      "_id": "698fbaf4aa5136188cb582e4",
+      "_id": "69910bb49ba2bd1fb1c5673f",
       "id": 28624,
       "url": "https://gemini-hack-kigali.devpost.com/",
       "title": "Gemini Hack Kigali",
@@ -94,9 +125,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 11 - Mar 09, 2026",
       "displayed_location": "Kigali, Rwanda",
-      "registrations_count": 15,
+      "registrations_count": 17,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "24 days left",
+      "time_left_to_submission": "23 days left",
       "themes": [
         {
           "id": 19,
@@ -115,38 +146,7 @@
       "source": "devpost"
     },
     {
-      "_id": "698fbaf4aa5136188cb582e7",
-      "id": 28585,
-      "url": "https://the-upside-hack.devpost.com/",
-      "title": "The Upside Hack",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/266/934/datas/medium_square.jpg",
-      "featured": false,
-      "organization_name": "Nerdata ENSIT Club",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 13 - 15, 2026",
-      "displayed_location": "ENSIT",
-      "registrations_count": 3,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "1 day left",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "start_a_submission_url": "https://the-upside-hack.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "698fbaf5aa5136188cb582e9",
+      "_id": "69910bb59ba2bd1fb1c56743",
       "id": 28581,
       "url": "https://innov8-a-thon.devpost.com/",
       "title": "Innov8-A-Thon 2026",
@@ -158,7 +158,7 @@
       "displayed_location": "Sarala Birla University, Ranchi",
       "registrations_count": 21,
       "prizeText": "₹ <span data-currency-value>60,000</span>",
-      "time_left_to_submission": "14 days left",
+      "time_left_to_submission": "13 days left",
       "themes": [
         {
           "id": 7,
@@ -177,7 +177,69 @@
       "source": "devpost"
     },
     {
-      "_id": "698fbaf6aa5136188cb582f4",
+      "_id": "69910bb59ba2bd1fb1c56744",
+      "id": 28585,
+      "url": "https://the-upside-hack.devpost.com/",
+      "title": "The Upside Hack",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/266/934/datas/medium_square.jpg",
+      "featured": false,
+      "organization_name": "Nerdata ENSIT Club",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 13 - 15, 2026",
+      "displayed_location": "ENSIT",
+      "registrations_count": 6,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 8 hours left",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://the-upside-hack.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69910bb69ba2bd1fb1c5674d",
+      "id": 28146,
+      "url": "https://proto-thon-26.devpost.com/",
+      "title": "PROTO-THON'26",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "featured": false,
+      "organization_name": "prince dr k vasudevan college ",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 14 - 16, 2026",
+      "displayed_location": "chennai",
+      "registrations_count": 10,
+      "prizeText": "₹ <span data-currency-value>100,000</span>",
+      "time_left_to_submission": "2 days left",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 27,
+          "name": "Robotic Process Automation"
+        }
+      ],
+      "start_a_submission_url": "https://proto-thon-26.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69910bb69ba2bd1fb1c5674e",
       "id": 28413,
       "url": "https://sinhgad-hackathon-26.devpost.com/",
       "title": "Sinhgad Hackathon'26",
@@ -187,9 +249,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 01 - 21, 2026",
       "displayed_location": "SKN Sinhgad College, Pandharpur",
-      "registrations_count": 52,
+      "registrations_count": 60,
       "prizeText": "₹ <span data-currency-value>76,000</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 9,
@@ -208,38 +270,7 @@
       "source": "devpost"
     },
     {
-      "_id": "698fbaf6aa5136188cb582f5",
-      "id": 28235,
-      "url": "https://hack-the-runway-htcj-sfw.devpost.com/",
-      "title": "HTCJ Hackathon × SFWRUNWAY Technology shaping the future of fashion",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/302/927/datas/medium_square.jpeg",
-      "featured": false,
-      "organization_name": "hack the concrete jungle",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 28 - Feb 14, 2026",
-      "displayed_location": "Times Square ",
-      "registrations_count": 28,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "about 22 hours left",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://hack-the-runway-htcj-sfw.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "698fbaf6aa5136188cb582f7",
+      "_id": "69910bb69ba2bd1fb1c56752",
       "id": 28330,
       "url": "https://hack-the-future-of-stella.devpost.com/",
       "title": "HACK THE FUTURE OF STELLA",
@@ -249,9 +280,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 30 - Feb 15, 2026",
       "displayed_location": "Orlando, Florida TECH HUB ORLANDO",
-      "registrations_count": 60,
+      "registrations_count": 67,
       "prizeText": "$<span data-currency-value>80,000</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 22 hours left",
       "themes": [
         {
           "id": 2,
@@ -270,7 +301,7 @@
       "source": "devpost"
     },
     {
-      "_id": "698fbafaaa5136188cb58314",
+      "_id": "69910bbb9ba2bd1fb1c56770",
       "id": 27050,
       "url": "https://developerweek-2026-hackathon.devpost.com/",
       "title": "DeveloperWeek 2026 Hackathon",
@@ -280,9 +311,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 03 - 20, 2026",
       "displayed_location": "San Jose Convention Center + Online",
-      "registrations_count": 1332,
+      "registrations_count": 1367,
       "prizeText": "$<span data-currency-value>23,000</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 2,
@@ -298,6 +329,37 @@
         }
       ],
       "start_a_submission_url": "https://developerweek-2026-hackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69910bbb9ba2bd1fb1c56771",
+      "id": 27286,
+      "url": "https://calgaryhacks2026.devpost.com/",
+      "title": "CalgaryHacks 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/239/391/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Computer Science Undergraduate Society",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 14 - 15, 2026",
+      "displayed_location": "University of Calgary - ICT Building",
+      "registrations_count": 397,
+      "prizeText": "$CAD <span data-currency-value>1,250</span>",
+      "time_left_to_submission": "about 19 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://calgaryhacks2026.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
