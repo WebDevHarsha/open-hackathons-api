@@ -1,52 +1,21 @@
 {
-  "last_updated": "2026-02-17T01:14:48.403285Z",
+  "last_updated": "2026-02-18T01:16:42.119107Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "6993af5fb9d6246d7d051d61",
-      "id": 28106,
-      "url": "https://gitlab.devpost.com/",
-      "title": "GitLab AI Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/188/179/datas/medium_square.png",
+      "_id": "699501186aecdc53aa377c79",
+      "id": 27807,
+      "url": "https://airia-hackathon.devpost.com/",
+      "title": "Airia AI Agents Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/298/771/datas/medium_square.png",
       "featured": true,
-      "organization_name": "GitLab",
+      "organization_name": "airia",
       "isOpen": "open",
-      "submission_period_dates": "Feb 09 - Mar 25, 2026",
+      "submission_period_dates": "Feb 16 - Mar 19, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1887,
-      "prizeText": "$<span data-currency-value>65,000</span>",
+      "registrations_count": 97,
+      "prizeText": "$<span data-currency-value>7,000</span>",
       "time_left_to_submission": "about 1 month left",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "start_a_submission_url": "https://gitlab.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "6993af5fb9d6246d7d051d67",
-      "id": 25719,
-      "url": "https://amazon-nova.devpost.com/",
-      "title": "Amazon Nova AI Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/222/586/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "Amazon",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 02 - Mar 16, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 6346,
-      "prizeText": "$<span data-currency-value>40,000</span>",
-      "time_left_to_submission": "28 days left",
       "themes": [
         {
           "id": 6,
@@ -57,15 +26,77 @@
           "name": "Beginner Friendly"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 21,
+          "name": "Enterprise"
         }
       ],
-      "start_a_submission_url": "https://amazon-nova.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://airia-hackathon.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "6993af62b9d6246d7d051d74",
+      "_id": "699501186aecdc53aa377c7a",
+      "id": 28633,
+      "url": "https://geminiliveagentchallenge.devpost.com/",
+      "title": "Gemini Live Agent Challenge",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/338/662/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Google",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 16 - Mar 16, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 365,
+      "prizeText": "$<span data-currency-value>80,000</span>",
+      "time_left_to_submission": "27 days left",
+      "themes": [
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 8,
+          "name": "Voice skills"
+        }
+      ],
+      "start_a_submission_url": "https://geminiliveagentchallenge.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6995011a6aecdc53aa377c8e",
+      "id": 28141,
+      "url": "https://digitalocean.devpost.com/",
+      "title": "DigitalOcean Gradient™ AI Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/188/390/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "DigitalOcean",
+      "isOpen": "open",
+      "submission_period_dates": "Jan 28 - Mar 18, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 1514,
+      "prizeText": "$<span data-currency-value>20,000</span>",
+      "time_left_to_submission": "29 days left",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://digitalocean.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6995011b6aecdc53aa377c95",
       "id": 28053,
       "url": "https://elasticsearch.devpost.com/",
       "title": "Elasticsearch Agent Builder Hackathon",
@@ -75,9 +106,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 22 - Feb 27, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1749,
+      "registrations_count": 1803,
       "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "themes": [
         {
           "id": 28,
@@ -93,37 +124,6 @@
         }
       ],
       "start_a_submission_url": "https://elasticsearch.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "6993af62b9d6246d7d051d76",
-      "id": 27872,
-      "url": "https://devstudiologitech2026.devpost.com/",
-      "title": "DevStudio 2026 by Logitech",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/192/157/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "Logitech",
-      "isOpen": "open",
-      "submission_period_dates": "Jan 21 - Feb 25, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 1022,
-      "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "9 days left",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "start_a_submission_url": "https://devstudiologitech2026.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
