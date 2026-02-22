@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-21T01:09:44.080876Z",
-  "count": 4,
+  "last_updated": "2026-02-22T01:15:11.604422Z",
+  "count": 6,
   "hackathons": [
     {
-      "_id": "6998f539210b54f6cc0b2832",
+      "_id": "699a45f5f170fe4e7a7e9b18",
       "id": 27807,
       "url": "https://airia-hackathon.devpost.com/",
       "title": "Airia AI Agents Hackathon",
@@ -13,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 16 - Mar 19, 2026",
       "displayed_location": "Online",
-      "registrations_count": 310,
+      "registrations_count": 351,
       "prizeText": "$<span data-currency-value>7,000</span>",
-      "time_left_to_submission": "27 days left",
+      "time_left_to_submission": "26 days left",
       "themes": [
         {
           "id": 6,
@@ -34,7 +34,7 @@
       "source": "devpost"
     },
     {
-      "_id": "6998f539210b54f6cc0b2834",
+      "_id": "699a45f5f170fe4e7a7e9b19",
       "id": 28633,
       "url": "https://geminiliveagentchallenge.devpost.com/",
       "title": "Gemini Live Agent Challenge",
@@ -44,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 16 - Mar 16, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1720,
+      "registrations_count": 2237,
       "prizeText": "$<span data-currency-value>80,000</span>",
-      "time_left_to_submission": "24 days left",
+      "time_left_to_submission": "23 days left",
       "themes": [
         {
           "id": 10,
@@ -65,7 +65,7 @@
       "source": "devpost"
     },
     {
-      "_id": "6998f53d210b54f6cc0b284b",
+      "_id": "699a45f9f170fe4e7a7e9b35",
       "id": 28141,
       "url": "https://digitalocean.devpost.com/",
       "title": "DigitalOcean Gradient™ AI Hackathon",
@@ -75,9 +75,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 28 - Mar 18, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1608,
+      "registrations_count": 1642,
       "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "26 days left",
+      "time_left_to_submission": "25 days left",
       "themes": [
         {
           "id": 28,
@@ -96,7 +96,7 @@
       "source": "devpost"
     },
     {
-      "_id": "6998f53e210b54f6cc0b2853",
+      "_id": "699a45faf170fe4e7a7e9b3b",
       "id": 28053,
       "url": "https://elasticsearch.devpost.com/",
       "title": "Elasticsearch Agent Builder Hackathon",
@@ -106,9 +106,9 @@
       "isOpen": "open",
       "submission_period_dates": "Jan 22 - Feb 27, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1908,
+      "registrations_count": 1935,
       "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 28,
@@ -124,6 +124,68 @@
         }
       ],
       "start_a_submission_url": "https://elasticsearch.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "699a45faf170fe4e7a7e9b3d",
+      "id": 27836,
+      "url": "https://hopperhacks-2026.devpost.com/",
+      "title": "HopperHacks 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/157/909/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Women in Computer Science",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 21 - 22, 2026",
+      "displayed_location": "Student Activities Center (SAC)",
+      "registrations_count": 66,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 17 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://hopperhacks-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "699a45faf170fe4e7a7e9b41",
+      "id": 28104,
+      "url": "https://hacklytics-2026.devpost.com/",
+      "title": "Hacklytics 2026: Golden Byte",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/157/420/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Data Science @ Georgia Tech",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 20 - 22, 2026",
+      "displayed_location": "Klaus Advanced Computing Building",
+      "registrations_count": 316,
+      "prizeText": "$<span data-currency-value>4,600</span>",
+      "time_left_to_submission": "about 14 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://hacklytics-2026.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
