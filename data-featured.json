@@ -1,40 +1,9 @@
 {
-  "last_updated": "2026-02-23T01:14:41.140662Z",
-  "count": 4,
+  "last_updated": "2026-02-24T01:13:10.313092Z",
+  "count": 3,
   "hackathons": [
     {
-      "_id": "699b9818bb464b9c0e826584",
-      "id": 27807,
-      "url": "https://airia-hackathon.devpost.com/",
-      "title": "Airia AI Agents Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/298/771/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "airia",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 16 - Mar 19, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 381,
-      "prizeText": "$<span data-currency-value>7,000</span>",
-      "time_left_to_submission": "25 days left",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        }
-      ],
-      "start_a_submission_url": "https://airia-hackathon.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "699b9818bb464b9c0e826586",
+      "_id": "699ce9f66e51421beb4bf2c0",
       "id": 28633,
       "url": "https://geminiliveagentchallenge.devpost.com/",
       "title": "Gemini Live Agent Challenge",
@@ -44,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 16 - Mar 16, 2026",
       "displayed_location": "Online",
-      "registrations_count": 2568,
+      "registrations_count": 2929,
       "prizeText": "$<span data-currency-value>80,000</span>",
-      "time_left_to_submission": "22 days left",
+      "time_left_to_submission": "21 days left",
       "themes": [
         {
           "id": 10,
@@ -65,19 +34,19 @@
       "source": "devpost"
     },
     {
-      "_id": "699b981bbb464b9c0e82659a",
-      "id": 28141,
-      "url": "https://digitalocean.devpost.com/",
-      "title": "DigitalOcean Gradient™ AI Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/188/390/datas/medium_square.png",
+      "_id": "699ce9f76e51421beb4bf2c8",
+      "id": 28106,
+      "url": "https://gitlab.devpost.com/",
+      "title": "GitLab AI Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/188/179/datas/medium_square.png",
       "featured": true,
-      "organization_name": "DigitalOcean",
+      "organization_name": "GitLab",
       "isOpen": "open",
-      "submission_period_dates": "Jan 28 - Mar 18, 2026",
+      "submission_period_dates": "Feb 09 - Mar 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1658,
-      "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "24 days left",
+      "registrations_count": 2865,
+      "prizeText": "$<span data-currency-value>65,000</span>",
+      "time_left_to_submission": "30 days left",
       "themes": [
         {
           "id": 28,
@@ -88,42 +57,42 @@
           "name": "Machine Learning/AI"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 11,
+          "name": "Productivity"
         }
       ],
-      "start_a_submission_url": "https://digitalocean.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://gitlab.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "699b981cbb464b9c0e8265a1",
-      "id": 28053,
-      "url": "https://elasticsearch.devpost.com/",
-      "title": "Elasticsearch Agent Builder Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/156/365/datas/medium_square.jpg",
+      "_id": "699ce9f86e51421beb4bf2cd",
+      "id": 25719,
+      "url": "https://amazon-nova.devpost.com/",
+      "title": "Amazon Nova AI Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/222/586/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Elastic",
+      "organization_name": "Amazon",
       "isOpen": "open",
-      "submission_period_dates": "Jan 22 - Feb 27, 2026",
+      "submission_period_dates": "Feb 02 - Mar 16, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1963,
-      "prizeText": "$<span data-currency-value>20,000</span>",
-      "time_left_to_submission": "5 days left",
+      "registrations_count": 8864,
+      "prizeText": "$<span data-currency-value>40,000</span>",
+      "time_left_to_submission": "21 days left",
       "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
         {
           "id": 6,
           "name": "Machine Learning/AI"
         },
         {
-          "id": 29,
-          "name": "Serverless"
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "start_a_submission_url": "https://elasticsearch.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://amazon-nova.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
