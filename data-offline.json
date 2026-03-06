@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-05T01:13:26.321358Z",
+  "last_updated": "2026-03-06T01:16:51.379081Z",
   "count": 11,
   "hackathons": [
     {
-      "_id": "69a8c73942a41ab9c73eaa78",
+      "_id": "69aa26d4882039c892755322",
       "id": 29000,
       "url": "https://maestro-hack-day-29000.devpost.com/",
       "title": "Maestro Hack Day",
@@ -13,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 04 - 07, 2026",
       "displayed_location": "Eldoret, Kenya",
-      "registrations_count": 3,
+      "registrations_count": 6,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 3,
@@ -34,7 +34,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69a8c73942a41ab9c73eaa7b",
+      "_id": "69aa26d4882039c892755325",
       "id": 28964,
       "url": "https://codextreme26.devpost.com/",
       "title": "2026 CodeXtreme Ingenious Hackathon Season 1",
@@ -44,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 04 - 07, 2026",
       "displayed_location": "African Leadership University, Rwanda",
-      "registrations_count": 169,
+      "registrations_count": 186,
       "prizeText": "$<span data-currency-value>5,000</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 22,
@@ -57,38 +57,69 @@
       "source": "devpost"
     },
     {
-      "_id": "69a8c73942a41ab9c73eaa7d",
-      "id": 28920,
-      "url": "https://hardware-hackathon-3-0.devpost.com/",
-      "title": "Hardware Hackathon 3.0",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/377/265/datas/medium_square.jpg",
+      "_id": "69aa26d4882039c892755326",
+      "id": 28714,
+      "url": "https://hack-the-case.devpost.com/",
+      "title": "Hack the Case",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/334/821/datas/medium_square.jpg",
       "featured": false,
-      "organization_name": "Prathyusha engineering college ",
+      "organization_name": "Lunaris Hacks",
       "isOpen": "open",
-      "submission_period_dates": "Feb 27 - Mar 05, 2026",
-      "displayed_location": "Thiruvallur , Poonamallee road,Chennai ",
-      "registrations_count": 18,
-      "prizeText": "₹ <span data-currency-value>10,000</span>",
-      "time_left_to_submission": "about 22 hours left",
+      "submission_period_dates": "Mar 04 - 07, 2026",
+      "displayed_location": "Toronto, Canada",
+      "registrations_count": 1,
+      "prizeText": "$CAD <span data-currency-value>0</span>",
+      "time_left_to_submission": "2 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        }
+      ],
+      "start_a_submission_url": "https://hack-the-case.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69aa26d4882039c892755327",
+      "id": 28878,
+      "url": "https://hack-days-build-in-public.devpost.com/",
+      "title": "Hack Days In Lome Build In Public ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/370/266/datas/medium_square.jpeg",
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "isOpen": "open",
+      "submission_period_dates": "Feb 28 - Mar 07, 2026",
+      "displayed_location": "Lomé Business School",
+      "registrations_count": 22,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 10,
           "name": "Communication"
         },
         {
-          "id": 7,
-          "name": "IoT"
+          "id": 9,
+          "name": "Cybersecurity"
         },
         {
-          "id": 27,
-          "name": "Robotic Process Automation"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "start_a_submission_url": "https://hardware-hackathon-3-0.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://hack-days-build-in-public.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69a8c73942a41ab9c73eaa7e",
+      "_id": "69aa26d4882039c892755328",
       "id": 28613,
       "url": "https://think-smart-build-smart.devpost.com/",
       "title": " DEFI Hack Days : From Internal Problem to Digital Solution",
@@ -98,9 +129,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 27 - Mar 27, 2026",
       "displayed_location": "University of Lomé ",
-      "registrations_count": 8,
+      "registrations_count": 9,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
           "id": 3,
@@ -119,7 +150,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69a8c73942a41ab9c73eaa7f",
+      "_id": "69aa26d4882039c892755329",
       "id": 28832,
       "url": "https://tech-hacks-2-0.devpost.com/",
       "title": "TECH HACKS 2.0",
@@ -129,9 +160,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 26 - Mar 08, 2026",
       "displayed_location": "Genesys Cloud Services India Pvt.ltd",
-      "registrations_count": 67,
+      "registrations_count": 74,
       "prizeText": "₹ <span data-currency-value>30,000</span>",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "themes": [
         {
           "id": 21,
@@ -150,7 +181,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69a8c73a42a41ab9c73eaa81",
+      "_id": "69aa26d5882039c89275532b",
       "id": 28789,
       "url": "https://smart-innovation-2026.devpost.com/",
       "title": "Smart Innovation 2026",
@@ -160,9 +191,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 23 - Mar 21, 2026",
       "displayed_location": "greater noida",
-      "registrations_count": 44,
+      "registrations_count": 52,
       "prizeText": "₹ <span data-currency-value>75,000</span>",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "16 days left",
       "themes": [
         {
           "id": 7,
@@ -181,38 +212,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69a8c73a42a41ab9c73eaa83",
-      "id": 28801,
-      "url": "https://acuhit.devpost.com/",
-      "title": "ACUHIT",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/346/049/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Acibadem University",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 20 - Mar 05, 2026",
-      "displayed_location": "Acıbadem Üniversitesi ",
-      "registrations_count": 49,
-      "prizeText": "$<span data-currency-value>7,000</span>",
-      "time_left_to_submission": "about 22 hours left",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "start_a_submission_url": "https://acuhit.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69a8c73b42a41ab9c73eaa8f",
+      "_id": "69aa26d6882039c892755338",
       "id": 28624,
       "url": "https://gemini-hack-kigali.devpost.com/",
       "title": "Gemini Hack Kigali",
@@ -222,9 +222,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 11 - Mar 30, 2026",
       "displayed_location": "Digital Transformation Center Rwanda",
-      "registrations_count": 55,
+      "registrations_count": 56,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "26 days left",
+      "time_left_to_submission": "25 days left",
       "themes": [
         {
           "id": 19,
@@ -243,7 +243,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69a8c73b42a41ab9c73eaa90",
+      "_id": "69aa26d6882039c892755339",
       "id": 28456,
       "url": "https://genaizurich.devpost.com/",
       "title": "GenAI Zürich Hackathon 2026",
@@ -253,9 +253,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 02 - 18, 2026",
       "displayed_location": "Volkshaus Zürich",
-      "registrations_count": 255,
+      "registrations_count": 277,
       "prizeText": "€<span data-currency-value>13,420</span>",
-      "time_left_to_submission": "13 days left",
+      "time_left_to_submission": "12 days left",
       "themes": [
         {
           "id": 6,
@@ -270,7 +270,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69a8c73d42a41ab9c73eaa96",
+      "_id": "69aa26d7882039c89275533f",
       "id": 28330,
       "url": "https://hack-the-future-of-stella.devpost.com/",
       "title": "HACK THE FUTURE OF STELLA",
@@ -282,7 +282,7 @@
       "displayed_location": "Orlando, Florida TECH HUB ORLANDO",
       "registrations_count": 104,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "themes": [
         {
           "id": 2,
@@ -301,7 +301,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69a8c73e42a41ab9c73eaa9f",
+      "_id": "69aa26d8882039c892755347",
       "id": 27858,
       "url": "https://uwb-hacks-the-future.devpost.com/",
       "title": "UWB Hacks: The Future!",
@@ -311,7 +311,7 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 24 - Apr 26, 2026",
       "displayed_location": "University of Washington Bothell - ARC",
-      "registrations_count": 98,
+      "registrations_count": 100,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "about 2 months left",
       "themes": [
