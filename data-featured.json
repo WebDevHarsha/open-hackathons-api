@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-16T01:23:01.851057Z",
+  "last_updated": "2026-03-17T01:14:19.606579Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "69b747df07b7488963c32e43",
+      "_id": "69b8994bbd0bccd7de6058be",
       "id": 27874,
       "url": "https://agents-assemble.devpost.com/",
       "title": "Agents Assemble - The Healthcare AI Endgame",
@@ -13,7 +13,7 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 04 - May 11, 2026",
       "displayed_location": "Online",
-      "registrations_count": 833,
+      "registrations_count": 961,
       "prizeText": "$<span data-currency-value>25,000</span>",
       "time_left_to_submission": "about 2 months left",
       "themes": [
@@ -34,38 +34,61 @@
       "source": "devpost"
     },
     {
-      "_id": "69b747e207b7488963c32e52",
-      "id": 28633,
-      "url": "https://geminiliveagentchallenge.devpost.com/",
-      "title": "Gemini Live Agent Challenge",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/338/662/datas/medium_square.png",
+      "_id": "69b8994cbd0bccd7de6058c4",
+      "id": 28498,
+      "url": "https://zervehack.devpost.com/",
+      "title": "ZerveHack",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/278/921/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Google",
+      "organization_name": "Zerve AI",
       "isOpen": "open",
-      "submission_period_dates": "Feb 16 - Mar 16, 2026",
+      "submission_period_dates": "Feb 26 - Apr 29, 2026",
       "displayed_location": "Online",
-      "registrations_count": 11300,
-      "prizeText": "$<span data-currency-value>80,000</span>",
-      "time_left_to_submission": "1 day left",
+      "registrations_count": 735,
+      "prizeText": "$<span data-currency-value>10,000</span>",
+      "time_left_to_submission": "about 1 month left",
       "themes": [
         {
-          "id": 10,
-          "name": "Communication"
-        },
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://zervehack.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69b8994fbd0bccd7de6058d2",
+      "id": 28368,
+      "url": "https://authorizedtoact.devpost.com/",
+      "title": "Authorized to Act: Auth0 for AI Agents",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/397/002/datas/medium_square.png",
+      "featured": true,
+      "organization_name": "Okta",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 02 - Apr 07, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 1099,
+      "prizeText": "$<span data-currency-value>10,000</span>",
+      "time_left_to_submission": "21 days left",
+      "themes": [
         {
           "id": 6,
           "name": "Machine Learning/AI"
         },
         {
-          "id": 8,
-          "name": "Voice skills"
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
         }
       ],
-      "start_a_submission_url": "https://geminiliveagentchallenge.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://authorizedtoact.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69b747e307b7488963c32e5a",
+      "_id": "69b8994fbd0bccd7de6058d5",
       "id": 28106,
       "url": "https://gitlab.devpost.com/",
       "title": "GitLab AI Hackathon",
@@ -75,9 +98,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 09 - Mar 25, 2026",
       "displayed_location": "Online",
-      "registrations_count": 4989,
+      "registrations_count": 5116,
       "prizeText": "$<span data-currency-value>65,000</span>",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "themes": [
         {
           "id": 28,
@@ -93,37 +116,6 @@
         }
       ],
       "start_a_submission_url": "https://gitlab.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69b747e307b7488963c32e5c",
-      "id": 25719,
-      "url": "https://amazon-nova.devpost.com/",
-      "title": "Amazon Nova AI Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/222/586/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "Amazon",
-      "isOpen": "open",
-      "submission_period_dates": "Feb 02 - Mar 16, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 13206,
-      "prizeText": "$<span data-currency-value>40,000</span>",
-      "time_left_to_submission": "1 day left",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://amazon-nova.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
