@@ -1,9 +1,40 @@
 {
-  "last_updated": "2026-03-20T01:13:54.928237Z",
-  "count": 13,
+  "last_updated": "2026-03-21T01:09:13.658210Z",
+  "count": 16,
   "hackathons": [
     {
-      "_id": "69bc8db1e20916e4ec7b2d40",
+      "_id": "69bddf2ebd050c3d87a696a7",
+      "id": 27348,
+      "url": "https://mindhack-2026.devpost.com/",
+      "title": "MindHack 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/122/849/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Carleton Cognitive Science Association",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 20 - 22, 2026",
+      "displayed_location": "Carleton University",
+      "registrations_count": 11,
+      "prizeText": "$<span data-currency-value>800</span>",
+      "time_left_to_submission": "1 day left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://mindhack-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69bddf2ebd050c3d87a696aa",
       "id": 29213,
       "url": "https://cybersage.devpost.com/",
       "title": "cybersage",
@@ -13,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 17 - 26, 2026",
       "displayed_location": "Central Tribal University",
-      "registrations_count": 10,
+      "registrations_count": 13,
       "prizeText": "₹ <span data-currency-value>0</span>",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "themes": [
         {
           "id": 9,
@@ -34,19 +65,19 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db1e20916e4ec7b2d44",
-      "id": 29172,
-      "url": "https://techzeal2026.devpost.com/",
-      "title": "TECHZEAL 2026",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "_id": "69bddf2ebd050c3d87a696ad",
+      "id": 28096,
+      "url": "https://boeing-presents-truhacks-2026.devpost.com/",
+      "title": "Boeing presents TruHacks 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/461/368/datas/medium_square.jpg",
       "featured": false,
-      "organization_name": "Sona College of Technology",
+      "organization_name": "Google Developer Groups on Campus TSU",
       "isOpen": "open",
-      "submission_period_dates": "Mar 14 - 20, 2026",
-      "displayed_location": "Sona College of Technology",
-      "registrations_count": 19,
-      "prizeText": "₹ <span data-currency-value>30,000</span>",
-      "time_left_to_submission": "about 18 hours left",
+      "submission_period_dates": "Mar 20 - 22, 2026",
+      "displayed_location": "Truman State University, Baldwin Hall",
+      "registrations_count": 13,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 23,
@@ -57,15 +88,15 @@
           "name": "Machine Learning/AI"
         },
         {
-          "id": 25,
-          "name": "Web"
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "start_a_submission_url": "https://techzeal2026.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://boeing-presents-truhacks-2026.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69bc8db2e20916e4ec7b2d47",
+      "_id": "69bddf2fbd050c3d87a696b1",
       "id": 29129,
       "url": "https://introdex.devpost.com/",
       "title": "Introdex",
@@ -75,9 +106,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 11 - 24, 2026",
       "displayed_location": "Sales force tower",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "themes": [
         {
           "id": 23,
@@ -96,7 +127,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db2e20916e4ec7b2d49",
+      "_id": "69bddf2fbd050c3d87a696b3",
       "id": 29004,
       "url": "https://smart-horizon-2026.devpost.com/",
       "title": "Smart Horizon 2026: 48-Hour International Hackathon",
@@ -106,9 +137,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 10 - Apr 12, 2026",
       "displayed_location": "New Horizon College Knowledge Park",
-      "registrations_count": 44,
+      "registrations_count": 49,
       "prizeText": "₹ <span data-currency-value>2,375,000</span>",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
           "id": 3,
@@ -127,7 +158,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db2e20916e4ec7b2d4a",
+      "_id": "69bddf2fbd050c3d87a696b5",
       "id": 29085,
       "url": "https://rwa-demo-day.devpost.com/",
       "title": "RWA Demo Day",
@@ -137,9 +168,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 09 - 31, 2026",
       "displayed_location": "Hong Kong",
-      "registrations_count": 18,
+      "registrations_count": 20,
       "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "themes": [
         {
           "id": 1,
@@ -150,7 +181,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db2e20916e4ec7b2d4c",
+      "_id": "69bddf2fbd050c3d87a696b6",
       "id": 29080,
       "url": "https://interlake-hackathon.devpost.com/",
       "title": "Interlake Programming Club Hackathon",
@@ -160,9 +191,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 12 - 26, 2026",
       "displayed_location": "Interlake High School",
-      "registrations_count": 19,
+      "registrations_count": 20,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 23,
@@ -181,7 +212,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db2e20916e4ec7b2d4e",
+      "_id": "69bddf30bd050c3d87a696b9",
       "id": 28863,
       "url": "https://buildx-nagpur-gg.devpost.com/",
       "title": "BuildX Nagpur",
@@ -189,9 +220,9 @@
       "featured": false,
       "organization_name": "York",
       "isOpen": "open",
-      "submission_period_dates": "Mar 07 - Apr 07, 2026",
+      "submission_period_dates": "Mar 07 - Apr 08, 2026",
       "displayed_location": "Pce nagpur campus",
-      "registrations_count": 34,
+      "registrations_count": 42,
       "prizeText": "₹ <span data-currency-value>0</span>",
       "time_left_to_submission": "19 days left",
       "themes": [
@@ -212,7 +243,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db3e20916e4ec7b2d51",
+      "_id": "69bddf30bd050c3d87a696bc",
       "id": 29016,
       "url": "https://comma-hack-six.devpost.com/",
       "title": "comma_hack (six)",
@@ -222,9 +253,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 06 - 27, 2026",
       "displayed_location": "comma HQ",
-      "registrations_count": 48,
+      "registrations_count": 55,
       "prizeText": "$<span data-currency-value>5,000</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 7,
@@ -243,7 +274,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db3e20916e4ec7b2d57",
+      "_id": "69bddf30bd050c3d87a696c1",
       "id": 28444,
       "url": "https://foundershack-sydney-2026-28444.devpost.com/",
       "title": "FoundersHack Sydney 2026",
@@ -253,9 +284,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 19 - 22, 2026",
       "displayed_location": "Sydney, Australia",
-      "registrations_count": 9,
+      "registrations_count": 18,
       "prizeText": "$<span data-currency-value>3,000</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 23,
@@ -274,7 +305,30 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db4e20916e4ec7b2d5c",
+      "_id": "69bddf31bd050c3d87a696c3",
+      "id": 28929,
+      "url": "https://higgs-audio-hackathon-ai.devpost.com/",
+      "title": "Boson AI Higgs Audio Hackathon in collaboration with Eigen AI",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/376/403/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Boson AI",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 20 - 22, 2026",
+      "displayed_location": "Circuit Launch, Mountain View",
+      "registrations_count": 3,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "1 day left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://higgs-audio-hackathon-ai.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69bddf31bd050c3d87a696c8",
       "id": 28613,
       "url": "https://think-smart-build-smart.devpost.com/",
       "title": " DEFI Hack Days : From Internal Problem to Digital Solution",
@@ -284,9 +338,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 27 - Mar 27, 2026",
       "displayed_location": "University of Lomé ",
-      "registrations_count": 28,
+      "registrations_count": 33,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "themes": [
         {
           "id": 3,
@@ -305,7 +359,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db4e20916e4ec7b2d5e",
+      "_id": "69bddf31bd050c3d87a696ca",
       "id": 28789,
       "url": "https://smart-innovation-2026.devpost.com/",
       "title": "Smart Innovation 2026",
@@ -315,9 +369,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 23 - Mar 21, 2026",
       "displayed_location": "greater noida",
-      "registrations_count": 129,
+      "registrations_count": 135,
       "prizeText": "₹ <span data-currency-value>75,000</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 19 hours left",
       "themes": [
         {
           "id": 7,
@@ -336,7 +390,30 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db7e20916e4ec7b2d6b",
+      "_id": "69bddf32bd050c3d87a696cb",
+      "id": 28389,
+      "url": "https://entangle-designation.devpost.com/",
+      "title": "Interventions: Entangle Designathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/372/138/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Scout Interventions",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 20 - 22, 2026",
+      "displayed_location": "Northeastern University - ISEC Building",
+      "registrations_count": 21,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "1 day left",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        }
+      ],
+      "start_a_submission_url": "https://entangle-designation.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69bddf34bd050c3d87a696d6",
       "id": 28624,
       "url": "https://gemini-hack-kigali.devpost.com/",
       "title": "Gemini Hack Kigali",
@@ -346,9 +423,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 11 - Mar 30, 2026",
       "displayed_location": "Digital Transformation Center Rwanda",
-      "registrations_count": 70,
+      "registrations_count": 71,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "themes": [
         {
           "id": 19,
@@ -367,7 +444,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69bc8db8e20916e4ec7b2d75",
+      "_id": "69bddf35bd050c3d87a696e0",
       "id": 27858,
       "url": "https://uwb-hacks-the-future.devpost.com/",
       "title": "UWB Hacks: The Future!",
@@ -377,7 +454,7 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 24 - Apr 26, 2026",
       "displayed_location": "University of Washington Bothell - ARC",
-      "registrations_count": 147,
+      "registrations_count": 155,
       "prizeText": "$<span data-currency-value>0</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
