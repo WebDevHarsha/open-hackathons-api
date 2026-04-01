@@ -1,9 +1,125 @@
 {
-  "last_updated": "2026-03-31T01:23:20.365298Z",
-  "count": 9,
+  "last_updated": "2026-04-01T01:43:54.724035Z",
+  "count": 12,
   "hackathons": [
     {
-      "_id": "69cb0f905c627be7e79dcb1a",
+      "_id": "69cc6101dc2974d9216667ef",
+      "id": 29391,
+      "url": "https://future-innovators-hackathon.devpost.com/",
+      "title": "The Future Innovators Hackathon: A Road to START Hack",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/517/208/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Unicorn Factory Lisboa and START Lisbon",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 31 - Apr 25, 2026",
+      "displayed_location": "Unicorn Stage, Beato Innovation District",
+      "registrations_count": 13,
+      "prizeText": "€<span data-currency-value>2,000</span>",
+      "time_left_to_submission": "25 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "start_a_submission_url": "https://future-innovators-hackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69cc6101dc2974d9216667f0",
+      "id": 29347,
+      "url": "https://learn-ai.devpost.com/",
+      "title": "Learning Hackathon: Spec Driven Development",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/519/494/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Devpost, Inc.",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 31 - Apr 29, 2026",
+      "displayed_location": "Virtual",
+      "registrations_count": 32,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "29 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://learn-ai.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69cc6101dc2974d9216667f3",
+      "id": 29446,
+      "url": "https://hackdaysatgcet.devpost.com/",
+      "title": "HackDays",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "featured": false,
+      "organization_name": "MLH",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 31 - Apr 08, 2026",
+      "displayed_location": "Galgotias College of Engg. And Tech.",
+      "registrations_count": 1,
+      "prizeText": "₹ <span data-currency-value>0</span>",
+      "time_left_to_submission": "7 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://hackdaysatgcet.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69cc6102dc2974d9216667fa",
+      "id": 29432,
+      "url": "https://creative-lab-ai-coding-ucsd.devpost.com/",
+      "title": "Creative Lab: AI Coding Hackathon @ UCSD (TRAE & Z.ai)",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "featured": false,
+      "organization_name": "CSSA",
+      "isOpen": "open",
+      "submission_period_dates": "Mar 31 - Apr 01, 2026",
+      "displayed_location": "RIMAC - Triton Conference Room ",
+      "registrations_count": 2,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 5 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://creative-lab-ai-coding-ucsd.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69cc6102dc2974d9216667fe",
       "id": 29239,
       "url": "https://sunhacks2k26.devpost.com/",
       "title": "SUNHACKS 2K26",
@@ -13,9 +129,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 26 - Apr 05, 2026",
       "displayed_location": "Sandip University Nashik",
-      "registrations_count": 14,
+      "registrations_count": 15,
       "prizeText": "₹ <span data-currency-value>99,995</span>",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "themes": [
         {
           "id": 23,
@@ -34,7 +150,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cb0f915c627be7e79dcb23",
+      "_id": "69cc6103dc2974d921666806",
       "id": 28270,
       "url": "https://sht.devpost.com/",
       "title": "sh (testing)",
@@ -46,7 +162,7 @@
       "displayed_location": "Lorong AI @ One-North",
       "registrations_count": 14,
       "prizeText": "$<span data-currency-value>100</span>",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "themes": [
         {
           "id": 23,
@@ -65,7 +181,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cb0f925c627be7e79dcb25",
+      "_id": "69cc6105dc2974d921666809",
       "id": 29080,
       "url": "https://interlake-hackathon.devpost.com/",
       "title": "Interlake Programming Club Hackathon",
@@ -75,9 +191,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 12 - 31, 2026",
       "displayed_location": "Interlake High School",
-      "registrations_count": 30,
+      "registrations_count": 32,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 4 hours left",
       "themes": [
         {
           "id": 23,
@@ -96,30 +212,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cb0f925c627be7e79dcb26",
-      "id": 29085,
-      "url": "https://rwa-demo-day.devpost.com/",
-      "title": "RWA Demo Day",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "featured": false,
-      "organization_name": "Nanolabs",
-      "isOpen": "open",
-      "submission_period_dates": "Mar 09 - 31, 2026",
-      "displayed_location": "Hong Kong",
-      "registrations_count": 39,
-      "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "about 4 hours left",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "start_a_submission_url": "https://rwa-demo-day.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69cb0f925c627be7e79dcb28",
+      "_id": "69cc6105dc2974d92166680a",
       "id": 28998,
       "url": "https://weber-state-ai-hackathon-2026.devpost.com/",
       "title": "Weber State AI Hackathon 2026",
@@ -129,9 +222,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 21 - Apr 04, 2026",
       "displayed_location": "Weber State University Shepherd Union",
-      "registrations_count": 164,
+      "registrations_count": 171,
       "prizeText": "$<span data-currency-value>1,800</span>",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "themes": [
         {
           "id": 23,
@@ -150,7 +243,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cb0f925c627be7e79dcb2a",
+      "_id": "69cc6105dc2974d92166680b",
       "id": 28863,
       "url": "https://buildx-nagpur-gg.devpost.com/",
       "title": "BuildX Nagpur",
@@ -160,9 +253,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 07 - Apr 08, 2026",
       "displayed_location": "Pce nagpur campus",
-      "registrations_count": 104,
+      "registrations_count": 110,
       "prizeText": "₹ <span data-currency-value>0</span>",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "themes": [
         {
           "id": 6,
@@ -181,7 +274,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cb0f925c627be7e79dcb2b",
+      "_id": "69cc6105dc2974d92166680e",
       "id": 28790,
       "url": "https://hack-day-kanpur.devpost.com/",
       "title": "Hack Day Kanpur ",
@@ -191,9 +284,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 30 - Apr 02, 2026",
       "displayed_location": "KANPUR, UTTAR PRADESH",
-      "registrations_count": 70,
+      "registrations_count": 73,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 23,
@@ -212,7 +305,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cb0f945c627be7e79dcb34",
+      "_id": "69cc6106dc2974d921666816",
       "id": 28613,
       "url": "https://think-smart-build-smart.devpost.com/",
       "title": " DEFI Hack Days : From Internal Problem to Digital Solution",
@@ -224,7 +317,7 @@
       "displayed_location": "University of Lomé ",
       "registrations_count": 39,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "12 days left",
+      "time_left_to_submission": "11 days left",
       "themes": [
         {
           "id": 3,
@@ -243,7 +336,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cb0f955c627be7e79dcb3f",
+      "_id": "69cc6107dc2974d921666821",
       "id": 27858,
       "url": "https://uwb-hacks-the-future.devpost.com/",
       "title": "UWB Hacks: The Future!",
@@ -253,9 +346,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 24 - Apr 26, 2026",
       "displayed_location": "University of Washington Bothell - ARC",
-      "registrations_count": 186,
+      "registrations_count": 188,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "27 days left",
+      "time_left_to_submission": "26 days left",
       "themes": [
         {
           "id": 23,
