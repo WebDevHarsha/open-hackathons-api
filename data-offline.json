@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-02T01:20:15.717041Z",
+  "last_updated": "2026-04-03T01:22:41.862221Z",
   "count": 10,
   "hackathons": [
     {
-      "_id": "69cdb1d674b67d75dfefc047",
+      "_id": "69cf041ed55d02bb61534a25",
       "id": 29391,
       "url": "https://future-innovators-hackathon.devpost.com/",
       "title": "The Future Innovators Hackathon: A Road to START Hack",
@@ -13,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 31 - Apr 25, 2026",
       "displayed_location": "Unicorn Stage, Beato Innovation District",
-      "registrations_count": 21,
+      "registrations_count": 35,
       "prizeText": "€<span data-currency-value>2,000</span>",
-      "time_left_to_submission": "24 days left",
+      "time_left_to_submission": "23 days left",
       "themes": [
         {
           "id": 23,
@@ -30,7 +30,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cdb1d674b67d75dfefc04b",
+      "_id": "69cf041ed55d02bb61534a28",
       "id": 29446,
       "url": "https://hackdaysatgcet.devpost.com/",
       "title": "HackDays",
@@ -40,9 +40,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 31 - Apr 08, 2026",
       "displayed_location": "Galgotias College of Engg. And Tech.",
-      "registrations_count": 1,
+      "registrations_count": 4,
       "prizeText": "₹ <span data-currency-value>0</span>",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "themes": [
         {
           "id": 23,
@@ -61,7 +61,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cdb1d674b67d75dfefc04d",
+      "_id": "69cf041ed55d02bb61534a2a",
       "id": 29474,
       "url": "https://genz-can-hack-2026.devpost.com/",
       "title": "GenZ Can Hack 2026",
@@ -71,7 +71,7 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 01 - Aug 22, 2026",
       "displayed_location": "Toronto",
-      "registrations_count": 3,
+      "registrations_count": 6,
       "prizeText": "$<span data-currency-value>5,000</span>",
       "time_left_to_submission": "5 months left",
       "themes": [
@@ -92,7 +92,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cdb1d874b67d75dfefc056",
+      "_id": "69cf041fd55d02bb61534a33",
       "id": 29239,
       "url": "https://sunhacks2k26.devpost.com/",
       "title": "SUNHACKS 2K26",
@@ -102,9 +102,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 26 - Apr 05, 2026",
       "displayed_location": "Sandip University Nashik",
-      "registrations_count": 18,
+      "registrations_count": 21,
       "prizeText": "₹ <span data-currency-value>99,995</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 23,
@@ -123,7 +123,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69cdb1d974b67d75dfefc05f",
+      "_id": "69cf0420d55d02bb61534a35",
+      "id": 28760,
+      "url": "https://ku-high-stakes-gamathon.devpost.com/",
+      "title": "AI Club x WiC X SASE Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/496/780/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "KU Artificial Intelligence Club",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 02 - 03, 2026",
+      "displayed_location": "KU School of Engineering",
+      "registrations_count": 11,
+      "prizeText": "$<span data-currency-value>0</span>",
+      "time_left_to_submission": "about 5 hours left",
+      "themes": [
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://ku-high-stakes-gamathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69cf0420d55d02bb61534a3c",
       "id": 28270,
       "url": "https://sht.devpost.com/",
       "title": "sh (testing)",
@@ -133,9 +164,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 15 - Apr 05, 2026",
       "displayed_location": "Lorong AI @ One-North",
-      "registrations_count": 16,
+      "registrations_count": 17,
       "prizeText": "$<span data-currency-value>100</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 23,
@@ -154,7 +185,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cdb1db74b67d75dfefc063",
+      "_id": "69cf0421d55d02bb61534a3f",
       "id": 28998,
       "url": "https://weber-state-ai-hackathon-2026.devpost.com/",
       "title": "Weber State AI Hackathon 2026",
@@ -164,9 +195,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 21 - Apr 04, 2026",
       "displayed_location": "Weber State University Shepherd Union",
-      "registrations_count": 178,
+      "registrations_count": 187,
       "prizeText": "$<span data-currency-value>1,800</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 23,
@@ -185,7 +216,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cdb1db74b67d75dfefc064",
+      "_id": "69cf0421d55d02bb61534a40",
       "id": 28863,
       "url": "https://buildx-nagpur-gg.devpost.com/",
       "title": "BuildX Nagpur",
@@ -195,9 +226,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 07 - Apr 08, 2026",
       "displayed_location": "Pce nagpur campus",
-      "registrations_count": 114,
+      "registrations_count": 120,
       "prizeText": "₹ <span data-currency-value>0</span>",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
           "id": 6,
@@ -216,38 +247,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cdb1db74b67d75dfefc066",
-      "id": 28790,
-      "url": "https://hack-day-kanpur.devpost.com/",
-      "title": "Hack Day Kanpur ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/343/762/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "AITD EVENTS",
-      "isOpen": "open",
-      "submission_period_dates": "Mar 30 - Apr 02, 2026",
-      "displayed_location": "KANPUR, UTTAR PRADESH",
-      "registrations_count": 75,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "about 12 hours left",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://hack-day-kanpur.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69cdb1dc74b67d75dfefc06e",
+      "_id": "69cf0422d55d02bb61534a48",
       "id": 28613,
       "url": "https://think-smart-build-smart.devpost.com/",
       "title": " DEFI Hack Days : From Internal Problem to Digital Solution",
@@ -259,7 +259,7 @@
       "displayed_location": "University of Lomé ",
       "registrations_count": 40,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "themes": [
         {
           "id": 3,
@@ -278,7 +278,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69cdb1dd74b67d75dfefc07a",
+      "_id": "69cf0423d55d02bb61534a54",
       "id": 27858,
       "url": "https://uwb-hacks-the-future.devpost.com/",
       "title": "UWB Hacks: The Future!",
@@ -288,9 +288,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 24 - Apr 26, 2026",
       "displayed_location": "University of Washington Bothell - ARC",
-      "registrations_count": 189,
+      "registrations_count": 193,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "25 days left",
+      "time_left_to_submission": "24 days left",
       "themes": [
         {
           "id": 23,
