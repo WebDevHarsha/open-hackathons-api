@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-06T01:26:19.674164Z",
-  "count": 4,
+  "last_updated": "2026-04-07T01:24:09.132153Z",
+  "count": 2,
   "hackathons": [
     {
-      "_id": "69d2f8546a3ca00dfa61c574",
+      "_id": "69d44a271766575973ac380b",
       "id": 29347,
       "url": "https://learn-ai.devpost.com/",
       "title": "Learning Hackathon: Spec Driven Development",
@@ -13,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 31 - Apr 29, 2026",
       "displayed_location": "Online",
-      "registrations_count": 564,
+      "registrations_count": 601,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "24 days left",
+      "time_left_to_submission": "23 days left",
       "themes": [
         {
           "id": 23,
@@ -34,38 +34,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69d2f8576a3ca00dfa61c58d",
-      "id": 27874,
-      "url": "https://agents-assemble.devpost.com/",
-      "title": "Agents Assemble - The Healthcare AI Endgame",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/397/260/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "Prompt Opinion (Darena Health)",
-      "isOpen": "open",
-      "submission_period_dates": "Mar 04 - May 11, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 2224,
-      "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "about 1 month left",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "start_a_submission_url": "https://agents-assemble.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69d2f8586a3ca00dfa61c593",
+      "_id": "69d44a2b1766575973ac3828",
       "id": 28498,
       "url": "https://zervehack.devpost.com/",
       "title": "ZerveHack",
@@ -75,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 26 - Apr 29, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1344,
+      "registrations_count": 1374,
       "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "24 days left",
+      "time_left_to_submission": "23 days left",
       "themes": [
         {
           "id": 6,
@@ -85,37 +54,6 @@
         }
       ],
       "start_a_submission_url": "https://zervehack.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69d2f8586a3ca00dfa61c596",
-      "id": 28368,
-      "url": "https://authorizedtoact.devpost.com/",
-      "title": "Authorized to Act: Auth0 for AI Agents",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/397/002/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "Okta",
-      "isOpen": "open",
-      "submission_period_dates": "Mar 02 - Apr 07, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 2788,
-      "prizeText": "$<span data-currency-value>10,000</span>",
-      "time_left_to_submission": "1 day left",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "start_a_submission_url": "https://authorizedtoact.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
