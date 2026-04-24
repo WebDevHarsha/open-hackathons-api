@@ -1,9 +1,67 @@
 {
-  "last_updated": "2026-04-23T01:47:12.548391Z",
-  "count": 11,
+  "last_updated": "2026-04-24T01:46:16.584546Z",
+  "count": 13,
   "hackathons": [
     {
-      "_id": "69e97233e9a60eedb6e94a4a",
+      "_id": "69eac39a5102199a9c958a30",
+      "id": 29699,
+      "url": "https://perfectcorphackathon.devpost.com/",
+      "title": "The Silicon Valley Hackathon: Perfect Corp x Pegasus",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/600/146/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Perfect Corp",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 23 - May 07, 2026",
+      "displayed_location": "Computer History Museum ",
+      "registrations_count": 3,
+      "prizeText": "$<span data-currency-value>2,500</span>",
+      "time_left_to_submission": "14 days left",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 20,
+          "name": "E-commerce/Retail"
+        }
+      ],
+      "start_a_submission_url": "https://perfectcorphackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69eac39a5102199a9c958a31",
+      "id": 29845,
+      "url": "https://test-kean-hackathon.devpost.com/",
+      "title": "Test Kean Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/600/280/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "ACM Student Chapter at Kean University",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 23 - 24, 2026",
+      "displayed_location": "STEM Building ",
+      "registrations_count": 1,
+      "prizeText": "$<span data-currency-value>1,500</span>",
+      "time_left_to_submission": "about 20 hours left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://test-kean-hackathon.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69eac39a5102199a9c958a32",
       "id": 29826,
       "url": "https://algiers-up-4.devpost.com/",
       "title": "Algiers'UP 4",
@@ -13,9 +71,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 22 - 25, 2026",
       "displayed_location": "École Nationale Supérieure Informatique",
-      "registrations_count": 2,
+      "registrations_count": 3,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 2,
@@ -34,7 +92,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69e97233e9a60eedb6e94a4c",
+      "_id": "69eac39a5102199a9c958a35",
       "id": 28291,
       "url": "https://lionhackss.devpost.com/",
       "title": "LionHacks",
@@ -44,9 +102,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 22 - 25, 2026",
       "displayed_location": "Southeastern Louisiana University",
-      "registrations_count": 6,
+      "registrations_count": 13,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 23,
@@ -65,7 +123,30 @@
       "source": "devpost"
     },
     {
-      "_id": "69e97233e9a60eedb6e94a4e",
+      "_id": "69eac39a5102199a9c958a37",
+      "id": 29794,
+      "url": "https://social-services.devpost.com/",
+      "title": "Social Services and AI Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/594/792/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Builders Vault",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 21 - 25, 2026",
+      "displayed_location": "Bob Wright Centre b150 Flurry Hall",
+      "registrations_count": 10,
+      "prizeText": "$CAD <span data-currency-value>1,000</span>",
+      "time_left_to_submission": "1 day left",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "start_a_submission_url": "https://social-services.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69eac39b5102199a9c958a39",
       "id": 29788,
       "url": "https://aiventra.devpost.com/",
       "title": "AIVENTRA",
@@ -75,9 +156,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 19 - 26, 2026",
       "displayed_location": "StartupTN, ",
-      "registrations_count": 48,
+      "registrations_count": 52,
       "prizeText": "₹ <span data-currency-value>45,000</span>",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "themes": [
         {
           "id": 1,
@@ -96,30 +177,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69e97233e9a60eedb6e94a50",
-      "id": 29794,
-      "url": "https://social-services.devpost.com/",
-      "title": "Social Services and AI Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/594/792/datas/medium_square.png",
-      "featured": false,
-      "organization_name": "Builders Vault",
-      "isOpen": "open",
-      "submission_period_dates": "Apr 21 - 25, 2026",
-      "displayed_location": "Bob Wright Centre b150 Flurry Hall",
-      "registrations_count": 8,
-      "prizeText": "$CAD <span data-currency-value>1,000</span>",
-      "time_left_to_submission": "3 days left",
-      "themes": [
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://social-services.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "69e97234e9a60eedb6e94a51",
+      "_id": "69eac39b5102199a9c958a3a",
       "id": 29778,
       "url": "https://innolympics-2026.devpost.com/",
       "title": "Innolympics 2026: GDGoC PLM Hackathon",
@@ -129,9 +187,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 19 - 25, 2026",
       "displayed_location": "KMC Solutions EXXA Tower",
-      "registrations_count": 15,
+      "registrations_count": 18,
       "prizeText": "$<span data-currency-value>200</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 23,
@@ -150,7 +208,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69e97234e9a60eedb6e94a55",
+      "_id": "69eac39b5102199a9c958a3e",
       "id": 29728,
       "url": "https://zero-to-one-startup-a-thon.devpost.com/",
       "title": "Zero to One Startup-a-thon ",
@@ -160,9 +218,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 15 - 24, 2026",
       "displayed_location": "Seattle, WA, USA",
-      "registrations_count": 40,
+      "registrations_count": 44,
       "prizeText": "$<span data-currency-value>5,750</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 23 hours left",
       "themes": [
         {
           "id": 23,
@@ -181,7 +239,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69e97234e9a60eedb6e94a58",
+      "_id": "69eac39c5102199a9c958a41",
       "id": 29609,
       "url": "https://305hackshellsapril2026.devpost.com/",
       "title": "305 HackShells Edition April 2026 ",
@@ -193,7 +251,7 @@
       "displayed_location": "Florida International University",
       "registrations_count": 27,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 23,
@@ -212,7 +270,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69e97236e9a60eedb6e94a64",
+      "_id": "69eac39e5102199a9c958a4b",
       "id": 29391,
       "url": "https://future-innovators-hackathon.devpost.com/",
       "title": "The Future Innovators Hackathon: A Road to START Hack",
@@ -222,9 +280,9 @@
       "isOpen": "open",
       "submission_period_dates": "Mar 31 - Apr 25, 2026",
       "displayed_location": "Unicorn Stage, Beato Innovation District",
-      "registrations_count": 184,
+      "registrations_count": 186,
       "prizeText": "€<span data-currency-value>2,000</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "themes": [
         {
           "id": 23,
@@ -239,7 +297,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69e97236e9a60eedb6e94a68",
+      "_id": "69eac39e5102199a9c958a51",
       "id": 29474,
       "url": "https://genz-can-hack-2026.devpost.com/",
       "title": "GenZ Can Hack 2026",
@@ -270,7 +328,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69e97238e9a60eedb6e94a79",
+      "_id": "69eac3a15102199a9c958a5f",
       "id": 27858,
       "url": "https://uwb-hacks-the-future.devpost.com/",
       "title": "UWB Hacks: The Future!",
@@ -280,9 +338,9 @@
       "isOpen": "open",
       "submission_period_dates": "Feb 24 - Apr 26, 2026",
       "displayed_location": "University of Washington Bothell - ARC",
-      "registrations_count": 368,
+      "registrations_count": 396,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "themes": [
         {
           "id": 23,
@@ -293,7 +351,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69e97238e9a60eedb6e94a7a",
+      "_id": "69eac3a15102199a9c958a60",
       "id": 26211,
       "url": "https://fwtx.devpost.com/",
       "title": "HackFW",
@@ -303,9 +361,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 03 - May 02, 2026",
       "displayed_location": "Fort Worth",
-      "registrations_count": 100,
+      "registrations_count": 101,
       "prizeText": "$<span data-currency-value>4,025</span>",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "themes": [
         {
           "id": 1,
