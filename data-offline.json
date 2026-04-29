@@ -1,9 +1,71 @@
 {
-  "last_updated": "2026-04-28T01:59:38.941436Z",
-  "count": 5,
+  "last_updated": "2026-04-29T02:01:24.825334Z",
+  "count": 8,
   "hackathons": [
     {
-      "_id": "69f00bea6fc0ce957da83e68",
+      "_id": "69f15d9adb7a4117e72eeb68",
+      "id": 29899,
+      "url": "https://sproutsc-buildfest-x-akash.devpost.com/",
+      "title": "SproutSC x Akash Buildfest",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/623/230/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "SproutSC",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 28 - 30, 2026",
+      "displayed_location": "SLH 102",
+      "registrations_count": 6,
+      "prizeText": "$<span data-currency-value>150</span>",
+      "time_left_to_submission": "2 days left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://sproutsc-buildfest-x-akash.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69f15d9adb7a4117e72eeb69",
+      "id": 29890,
+      "url": "https://devsoc-starlight-2026.devpost.com/",
+      "title": "DevSoc Starlight 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/622/209/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "DevSoc",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 28 - Jul 10, 2026",
+      "displayed_location": "UNSW Roundhouse",
+      "registrations_count": 2,
+      "prizeText": "$<span data-currency-value>1,050</span>",
+      "time_left_to_submission": "2 months left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://devsoc-starlight-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69f15d9bdb7a4117e72eeb6e",
       "id": 29699,
       "url": "https://perfectcorphackathon.devpost.com/",
       "title": "The Silicon Valley Hackathon: Perfect Corp x Startup World Cup",
@@ -13,9 +75,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 23 - May 07, 2026",
       "displayed_location": "Computer History Museum ",
-      "registrations_count": 43,
+      "registrations_count": 49,
       "prizeText": "$<span data-currency-value>2,500</span>",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "themes": [
         {
           "id": 5,
@@ -34,7 +96,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69f00beb6fc0ce957da83e6a",
+      "_id": "69f15d9bdb7a4117e72eeb71",
       "id": 29827,
       "url": "https://devfest-ai-hack-apr2026.devpost.com/",
       "title": "DevFest + AI Hackathon Spring 2026 — Build with AI",
@@ -46,7 +108,7 @@
       "displayed_location": "Florida International University, Miami",
       "registrations_count": 10,
       "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 23,
@@ -65,7 +127,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69f00beb6fc0ce957da83e6d",
+      "_id": "69f15d9bdb7a4117e72eeb73",
       "id": 29788,
       "url": "https://aiventra.devpost.com/",
       "title": "AIVENTRA",
@@ -75,9 +137,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 19 - May 03, 2026",
       "displayed_location": "Intro Works",
-      "registrations_count": 73,
+      "registrations_count": 76,
       "prizeText": "₹ <span data-currency-value>45,000</span>",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "themes": [
         {
           "id": 1,
@@ -96,7 +158,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69f00bee6fc0ce957da83e80",
+      "_id": "69f15d9ddb7a4117e72eeb82",
       "id": 29474,
       "url": "https://genz-can-hack-2026.devpost.com/",
       "title": "GenZ Can Hack 2026",
@@ -127,7 +189,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69f00bf06fc0ce957da83e8e",
+      "_id": "69f15d9edb7a4117e72eeb8f",
+      "id": 27968,
+      "url": "https://conhacks-2026.devpost.com/",
+      "title": "ConHacks 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/127/535/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "Conestoga Computing Society (CCS)",
+      "isOpen": "open",
+      "submission_period_dates": "Apr 28 - 30, 2026",
+      "displayed_location": "Conestoga College, Waterloo Campus",
+      "registrations_count": 112,
+      "prizeText": "$CAD <span data-currency-value>0</span>",
+      "time_left_to_submission": "1 day left",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://conhacks-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69f15d9fdb7a4117e72eeb91",
       "id": 26211,
       "url": "https://fwtx.devpost.com/",
       "title": "HackFW",
@@ -137,9 +230,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 03 - May 02, 2026",
       "displayed_location": "Fort Worth",
-      "registrations_count": 108,
+      "registrations_count": 110,
       "prizeText": "$<span data-currency-value>4,025</span>",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "themes": [
         {
           "id": 1,
