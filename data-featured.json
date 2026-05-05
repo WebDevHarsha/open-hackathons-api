@@ -1,67 +1,67 @@
 {
-  "last_updated": "2026-05-04T01:55:57.286901Z",
+  "last_updated": "2026-05-05T01:56:29.094250Z",
   "count": 2,
   "hackathons": [
     {
-      "_id": "69f7f462f6c0acac8f48d108",
-      "id": 29127,
-      "url": "https://findevil.devpost.com/",
-      "title": "FIND EVIL!",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/521/059/datas/medium_square.png",
+      "_id": "69f945812266877b07dea2ad",
+      "id": 29423,
+      "url": "https://mod-tools-migration.devpost.com/",
+      "title": "Reddit Mod Tools and Migrated Apps Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/498/306/datas/medium_square.png",
       "featured": true,
-      "organization_name": "sans",
+      "organization_name": "reddit",
       "isOpen": "open",
-      "submission_period_dates": "Apr 15 - Jun 15, 2026",
+      "submission_period_dates": "Apr 29 - May 27, 2026",
       "displayed_location": "Online",
-      "registrations_count": 2517,
-      "prizeText": "$<span data-currency-value>22,000</span>",
-      "time_left_to_submission": "about 1 month left",
+      "registrations_count": 897,
+      "prizeText": "$<span data-currency-value>45,000</span>",
+      "time_left_to_submission": "23 days left",
       "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
         {
           "id": 23,
           "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "start_a_submission_url": "https://findevil.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://mod-tools-migration.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69f7f464f6c0acac8f48d10e",
-      "id": 27874,
-      "url": "https://agents-assemble.devpost.com/",
-      "title": "Agents Assemble - The Healthcare AI Endgame",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/397/260/datas/medium_square.png",
+      "_id": "69f945832266877b07dea2bd",
+      "id": 29377,
+      "url": "https://medo.devpost.com/",
+      "title": "Build with MeDo Hackathon ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/516/528/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Prompt Opinion (Darena Health)",
+      "organization_name": "Baidu",
       "isOpen": "open",
-      "submission_period_dates": "Mar 04 - May 11, 2026",
+      "submission_period_dates": "Apr 09 - May 20, 2026",
       "displayed_location": "Online",
-      "registrations_count": 3831,
-      "prizeText": "$<span data-currency-value>25,000</span>",
-      "time_left_to_submission": "8 days left",
+      "registrations_count": 5748,
+      "prizeText": "$<span data-currency-value>50,000</span>",
+      "time_left_to_submission": "15 days left",
       "themes": [
         {
-          "id": 16,
-          "name": "Health"
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
         },
         {
           "id": 6,
           "name": "Machine Learning/AI"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
         }
       ],
-      "start_a_submission_url": "https://agents-assemble.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://medo.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
