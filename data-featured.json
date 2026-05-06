@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-05T01:56:29.094250Z",
-  "count": 2,
+  "last_updated": "2026-05-06T01:55:09.571124Z",
+  "count": 3,
   "hackathons": [
     {
-      "_id": "69f945812266877b07dea2ad",
+      "_id": "69fa96b69f40768d821fe3af",
       "id": 29423,
       "url": "https://mod-tools-migration.devpost.com/",
       "title": "Reddit Mod Tools and Migrated Apps Hackathon",
@@ -13,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 29 - May 27, 2026",
       "displayed_location": "Online",
-      "registrations_count": 897,
+      "registrations_count": 1127,
       "prizeText": "$<span data-currency-value>45,000</span>",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
           "id": 23,
@@ -34,7 +34,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69f945832266877b07dea2bd",
+      "_id": "69fa96b79f40768d821fe3b7",
+      "id": 29711,
+      "url": "https://rapid-agent.devpost.com/",
+      "title": "Google Cloud Rapid Agent Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/595/623/datas/medium_square.jpg",
+      "featured": true,
+      "organization_name": "Google",
+      "isOpen": "open",
+      "submission_period_dates": "May 05 - Jun 11, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 2277,
+      "prizeText": "$<span data-currency-value>30,000</span>",
+      "time_left_to_submission": "about 1 month left",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "start_a_submission_url": "https://rapid-agent.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69fa96b89f40768d821fe3bf",
       "id": 29377,
       "url": "https://medo.devpost.com/",
       "title": "Build with MeDo Hackathon ",
@@ -44,9 +75,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 09 - May 20, 2026",
       "displayed_location": "Online",
-      "registrations_count": 5748,
+      "registrations_count": 6034,
       "prizeText": "$<span data-currency-value>50,000</span>",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "themes": [
         {
           "id": 23,
