@@ -1,40 +1,32 @@
 {
-  "last_updated": "2026-05-06T01:55:09.571124Z",
+  "last_updated": "2026-05-07T01:58:54.582619Z",
   "count": 4,
   "hackathons": [
     {
-      "_id": "69fa96b69f40768d821fe3aa",
-      "id": 29954,
-      "url": "https://valsea-edtech-sprint-hcm.devpost.com/",
-      "title": "VALSEA Edtech Sprint (HCM)",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/641/144/datas/medium_square.jpg",
+      "_id": "69fbe98d7b6676e42347e68c",
+      "id": 29989,
+      "url": "https://hackthedroneunibo.devpost.com/",
+      "title": "HACK THE DRONE",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/646/721/datas/medium_square.png",
       "featured": false,
-      "organization_name": "valsea",
+      "organization_name": "Mathworks",
       "isOpen": "open",
-      "submission_period_dates": "May 03 - 06, 2026",
-      "displayed_location": "AWS Office Ho Chi Minh",
-      "registrations_count": 312,
-      "prizeText": "$<span data-currency-value>0</span>",
-      "time_left_to_submission": "about 9 hours left",
+      "submission_period_dates": "May 06 - 29, 2026",
+      "displayed_location": "Università degli Studi di Bologna",
+      "registrations_count": 3,
+      "prizeText": "€<span data-currency-value>50</span>",
+      "time_left_to_submission": "22 days left",
       "themes": [
         {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 8,
-          "name": "Voice skills"
+          "id": 23,
+          "name": "Beginner Friendly"
         }
       ],
-      "start_a_submission_url": "https://valsea-edtech-sprint-hcm.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://hackthedroneunibo.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69fa96b79f40768d821fe3b1",
+      "_id": "69fbe98e7b6676e42347e696",
       "id": 29890,
       "url": "https://devsoc-starlight-2026.devpost.com/",
       "title": "DevSoc Starlight 2026",
@@ -44,7 +36,7 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 28 - Jul 10, 2026",
       "displayed_location": "UNSW Roundhouse",
-      "registrations_count": 24,
+      "registrations_count": 29,
       "prizeText": "$<span data-currency-value>1,050</span>",
       "time_left_to_submission": "2 months left",
       "themes": [
@@ -65,7 +57,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69fa96b79f40768d821fe3b5",
+      "_id": "69fbe98e7b6676e42347e69a",
       "id": 29699,
       "url": "https://perfectcorphackathon.devpost.com/",
       "title": "The Silicon Valley Hackathon: Perfect Corp x Startup World Cup",
@@ -75,9 +67,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 23 - May 07, 2026",
       "displayed_location": "Computer History Museum ",
-      "registrations_count": 137,
+      "registrations_count": 175,
       "prizeText": "$<span data-currency-value>2,500</span>",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 20 hours left",
       "themes": [
         {
           "id": 5,
@@ -96,7 +88,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69fa96ba9f40768d821fe3c5",
+      "_id": "69fbe9907b6676e42347e6ab",
       "id": 29474,
       "url": "https://genz-can-hack-2026.devpost.com/",
       "title": "GenZ Can Hack 2026",
@@ -106,7 +98,7 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 01 - Aug 22, 2026",
       "displayed_location": "Toronto",
-      "registrations_count": 58,
+      "registrations_count": 61,
       "prizeText": "$<span data-currency-value>1,000</span>",
       "time_left_to_submission": "4 months left",
       "themes": [
