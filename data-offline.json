@@ -1,9 +1,40 @@
 {
-  "last_updated": "2026-05-07T01:58:54.582619Z",
-  "count": 4,
+  "last_updated": "2026-05-08T02:04:46.327462Z",
+  "count": 5,
   "hackathons": [
     {
-      "_id": "69fbe98d7b6676e42347e68c",
+      "_id": "69fd3b7cd5370ab6d67d5e68",
+      "id": 29961,
+      "url": "https://greenhack-29961.devpost.com/",
+      "title": "GreenHack By Grevoro",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/645/464/datas/medium_square.png",
+      "featured": false,
+      "organization_name": "grevoro",
+      "isOpen": "open",
+      "submission_period_dates": "May 07 - 28, 2026",
+      "displayed_location": "GREVORO",
+      "registrations_count": 5,
+      "prizeText": "₹ <span data-currency-value>15,000</span>",
+      "time_left_to_submission": "21 days left",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "start_a_submission_url": "https://greenhack-29961.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "69fd3b7cd5370ab6d67d5e6a",
       "id": 29989,
       "url": "https://hackthedroneunibo.devpost.com/",
       "title": "HACK THE DRONE",
@@ -15,7 +46,7 @@
       "displayed_location": "Università degli Studi di Bologna",
       "registrations_count": 3,
       "prizeText": "€<span data-currency-value>50</span>",
-      "time_left_to_submission": "22 days left",
+      "time_left_to_submission": "21 days left",
       "themes": [
         {
           "id": 23,
@@ -26,7 +57,7 @@
       "source": "devpost"
     },
     {
-      "_id": "69fbe98e7b6676e42347e696",
+      "_id": "69fd3b7dd5370ab6d67d5e74",
       "id": 29890,
       "url": "https://devsoc-starlight-2026.devpost.com/",
       "title": "DevSoc Starlight 2026",
@@ -36,7 +67,7 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 28 - Jul 10, 2026",
       "displayed_location": "UNSW Roundhouse",
-      "registrations_count": 29,
+      "registrations_count": 31,
       "prizeText": "$<span data-currency-value>1,050</span>",
       "time_left_to_submission": "2 months left",
       "themes": [
@@ -57,38 +88,38 @@
       "source": "devpost"
     },
     {
-      "_id": "69fbe98e7b6676e42347e69a",
-      "id": 29699,
-      "url": "https://perfectcorphackathon.devpost.com/",
-      "title": "The Silicon Valley Hackathon: Perfect Corp x Startup World Cup",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/600/146/datas/medium_square.png",
+      "_id": "69fd3b80d5370ab6d67d5e87",
+      "id": 29481,
+      "url": "https://spitiaihackathon.devpost.com/",
+      "title": "Spiti-AI Hackathon",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/519/728/datas/medium_square.png",
       "featured": false,
-      "organization_name": "Perfect Corp",
+      "organization_name": "Quantum Veda AI Solution",
       "isOpen": "open",
-      "submission_period_dates": "Apr 23 - May 07, 2026",
-      "displayed_location": "Computer History Museum ",
-      "registrations_count": 175,
-      "prizeText": "$<span data-currency-value>2,500</span>",
-      "time_left_to_submission": "about 20 hours left",
+      "submission_period_dates": "May 07 - 14, 2026",
+      "displayed_location": "Spiti",
+      "registrations_count": 41,
+      "prizeText": "₹ <span data-currency-value>200,000</span>",
+      "time_left_to_submission": "6 days left",
       "themes": [
         {
-          "id": 5,
-          "name": "AR/VR"
+          "id": 6,
+          "name": "Machine Learning/AI"
         },
         {
-          "id": 11,
-          "name": "Productivity"
+          "id": 26,
+          "name": "Mobile"
         },
         {
-          "id": 20,
-          "name": "E-commerce/Retail"
+          "id": 3,
+          "name": "Fintech"
         }
       ],
-      "start_a_submission_url": "https://perfectcorphackathon.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://spitiaihackathon.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     },
     {
-      "_id": "69fbe9907b6676e42347e6ab",
+      "_id": "69fd3b80d5370ab6d67d5e8a",
       "id": 29474,
       "url": "https://genz-can-hack-2026.devpost.com/",
       "title": "GenZ Can Hack 2026",
@@ -98,7 +129,7 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 01 - Aug 22, 2026",
       "displayed_location": "Toronto",
-      "registrations_count": 61,
+      "registrations_count": 67,
       "prizeText": "$<span data-currency-value>1,000</span>",
       "time_left_to_submission": "4 months left",
       "themes": [
