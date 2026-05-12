@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T02:08:13.161076Z",
+  "last_updated": "2026-05-12T02:04:04.588754Z",
   "count": 3,
   "hackathons": [
     {
-      "_id": "6a0131472bba7aff5a2ffb96",
+      "_id": "6a02813d933fafb02be11466",
       "id": 29423,
       "url": "https://mod-tools-migration.devpost.com/",
       "title": "Reddit Mod Tools and Migrated Apps Hackathon",
@@ -13,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 29 - May 27, 2026",
       "displayed_location": "Online",
-      "registrations_count": 1541,
+      "registrations_count": 1770,
       "prizeText": "$<span data-currency-value>45,000</span>",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "16 days left",
       "themes": [
         {
           "id": 23,
@@ -34,7 +34,7 @@
       "source": "devpost"
     },
     {
-      "_id": "6a0131492bba7aff5a2ffba0",
+      "_id": "6a02813e933fafb02be1146c",
       "id": 29711,
       "url": "https://rapid-agent.devpost.com/",
       "title": "Google Cloud Rapid Agent Hackathon",
@@ -44,7 +44,7 @@
       "isOpen": "open",
       "submission_period_dates": "May 05 - Jun 11, 2026",
       "displayed_location": "Online",
-      "registrations_count": 3810,
+      "registrations_count": 4444,
       "prizeText": "$<span data-currency-value>50,000</span>",
       "time_left_to_submission": "about 1 month left",
       "themes": [
@@ -65,34 +65,34 @@
       "source": "devpost"
     },
     {
-      "_id": "6a0131492bba7aff5a2ffba8",
-      "id": 29377,
-      "url": "https://medo.devpost.com/",
-      "title": "Build with MeDo Hackathon ",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/516/528/datas/medium_square.png",
+      "_id": "6a02813f933fafb02be1147a",
+      "id": 29127,
+      "url": "https://findevil.devpost.com/",
+      "title": "FIND EVIL!",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/521/059/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Baidu",
+      "organization_name": "sans",
       "isOpen": "open",
-      "submission_period_dates": "Apr 09 - May 20, 2026",
+      "submission_period_dates": "Apr 15 - Jun 15, 2026",
       "displayed_location": "Online",
-      "registrations_count": 6749,
-      "prizeText": "$<span data-currency-value>50,000</span>",
-      "time_left_to_submission": "9 days left",
+      "registrations_count": 3052,
+      "prizeText": "$<span data-currency-value>22,000</span>",
+      "time_left_to_submission": "about 1 month left",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
+          "id": 9,
+          "name": "Cybersecurity"
         },
         {
           "id": 6,
           "name": "Machine Learning/AI"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
         }
       ],
-      "start_a_submission_url": "https://medo.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://findevil.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]

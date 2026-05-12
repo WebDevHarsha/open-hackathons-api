@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T02:08:13.161076Z",
+  "last_updated": "2026-05-12T02:04:04.588754Z",
   "count": 6,
   "hackathons": [
     {
-      "_id": "6a0131462bba7aff5a2ffb8a",
+      "_id": "6a02813c933fafb02be1145d",
       "id": 29961,
       "url": "https://greenhack-29961.devpost.com/",
       "title": "GreenHack By Grevoro",
@@ -13,9 +13,9 @@
       "isOpen": "open",
       "submission_period_dates": "May 07 - 28, 2026",
       "displayed_location": "GREVORO",
-      "registrations_count": 25,
+      "registrations_count": 33,
       "prizeText": "₹ <span data-currency-value>15,000</span>",
-      "time_left_to_submission": "18 days left",
+      "time_left_to_submission": "17 days left",
       "themes": [
         {
           "id": 6,
@@ -34,7 +34,7 @@
       "source": "devpost"
     },
     {
-      "_id": "6a0131462bba7aff5a2ffb8d",
+      "_id": "6a02813c933fafb02be1145e",
       "id": 29989,
       "url": "https://hackthedroneunibo.devpost.com/",
       "title": "HACK THE DRONE",
@@ -46,7 +46,7 @@
       "displayed_location": "Università degli Studi di Bologna",
       "registrations_count": 4,
       "prizeText": "€<span data-currency-value>50</span>",
-      "time_left_to_submission": "18 days left",
+      "time_left_to_submission": "17 days left",
       "themes": [
         {
           "id": 23,
@@ -57,7 +57,7 @@
       "source": "devpost"
     },
     {
-      "_id": "6a0131482bba7aff5a2ffb97",
+      "_id": "6a02813d933fafb02be11467",
       "id": 29890,
       "url": "https://devsoc-starlight-2026.devpost.com/",
       "title": "DevSoc Starlight 2026",
@@ -67,9 +67,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 28 - Jul 10, 2026",
       "displayed_location": "UNSW Roundhouse",
-      "registrations_count": 37,
+      "registrations_count": 40,
       "prizeText": "$<span data-currency-value>1,050</span>",
-      "time_left_to_submission": "2 months left",
+      "time_left_to_submission": "about 2 months left",
       "themes": [
         {
           "id": 23,
@@ -88,7 +88,7 @@
       "source": "devpost"
     },
     {
-      "_id": "6a01314a2bba7aff5a2ffbad",
+      "_id": "6a02813f933fafb02be11479",
       "id": 29481,
       "url": "https://spitiaihackathon.devpost.com/",
       "title": "Spiti-AI Hackathon",
@@ -98,9 +98,9 @@
       "isOpen": "open",
       "submission_period_dates": "May 07 - 14, 2026",
       "displayed_location": "Spiti",
-      "registrations_count": 60,
+      "registrations_count": 74,
       "prizeText": "₹ <span data-currency-value>200,000</span>",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "themes": [
         {
           "id": 6,
@@ -119,38 +119,7 @@
       "source": "devpost"
     },
     {
-      "_id": "6a01314a2bba7aff5a2ffbaf",
-      "id": 29461,
-      "url": "https://ali-hackathon.devpost.com/",
-      "title": "ALI Builds Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/515/902/datas/medium_square.jpeg",
-      "featured": false,
-      "organization_name": "Asian Leadership Initiative",
-      "isOpen": "open",
-      "submission_period_dates": "May 10 - 11, 2026",
-      "displayed_location": "Chicago Booth Harper Center - Room 104",
-      "registrations_count": 117,
-      "prizeText": "$<span data-currency-value>3,999</span>",
-      "time_left_to_submission": "about 3 hours left",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "start_a_submission_url": "https://ali-hackathon.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "6a01314a2bba7aff5a2ffbb0",
+      "_id": "6a028140933fafb02be1147b",
       "id": 29474,
       "url": "https://genz-can-hack-2026.devpost.com/",
       "title": "GenZ Can Hack 2026",
@@ -178,6 +147,37 @@
         }
       ],
       "start_a_submission_url": "https://genz-can-hack-2026.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6a028140933fafb02be11483",
+      "id": 27541,
+      "url": "https://devnetwork-ai-ml-hack-2026.devpost.com/",
+      "title": "DevNetwork [AI + ML] Hackathon 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/474/092/datas/medium_square.jpg",
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "isOpen": "open",
+      "submission_period_dates": "May 11 - 28, 2026",
+      "displayed_location": "South San Francisco Conf Ctr + Online",
+      "registrations_count": 658,
+      "prizeText": "$<span data-currency-value>8,000</span>",
+      "time_left_to_submission": "17 days left",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "start_a_submission_url": "https://devnetwork-ai-ml-hack-2026.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
