@@ -1,9 +1,40 @@
 {
-  "last_updated": "2026-05-18T02:27:07.287859Z",
+  "last_updated": "2026-05-19T02:26:24.923250Z",
   "count": 3,
   "hackathons": [
     {
-      "_id": "6a0a6cc2af40651264600359",
+      "_id": "6a0bbe0d7489d390c9181b90",
+      "id": 29624,
+      "url": "https://uipath-agenthack.devpost.com/",
+      "title": "UiPath AgentHack",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/624/515/datas/medium_square.jpg",
+      "featured": true,
+      "organization_name": "UiPath",
+      "isOpen": "open",
+      "submission_period_dates": "May 15 - Jun 30, 2026",
+      "displayed_location": "Online",
+      "registrations_count": 403,
+      "prizeText": "$<span data-currency-value>50,000</span>",
+      "time_left_to_submission": "about 1 month left",
+      "themes": [
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 27,
+          "name": "Robotic Process Automation"
+        }
+      ],
+      "start_a_submission_url": "https://uipath-agenthack.devpost.com/challenges/start_a_submission",
+      "source": "devpost"
+    },
+    {
+      "_id": "6a0bbe107489d390c9181ba0",
       "id": 29423,
       "url": "https://mod-tools-migration.devpost.com/",
       "title": "Reddit Mod Tools and Migrated Apps Hackathon",
@@ -13,9 +44,9 @@
       "isOpen": "open",
       "submission_period_dates": "Apr 29 - May 27, 2026",
       "displayed_location": "Online",
-      "registrations_count": 2470,
+      "registrations_count": 2529,
       "prizeText": "$<span data-currency-value>45,000</span>",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "themes": [
         {
           "id": 23,
@@ -34,65 +65,34 @@
       "source": "devpost"
     },
     {
-      "_id": "6a0a6cc4af4065126460035e",
-      "id": 29711,
-      "url": "https://rapid-agent.devpost.com/",
-      "title": "Google Cloud Rapid Agent Hackathon",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/595/623/datas/medium_square.jpg",
+      "_id": "6a0bbe117489d390c9181bac",
+      "id": 29377,
+      "url": "https://medo.devpost.com/",
+      "title": "Build with MeDo Hackathon ",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/516/528/datas/medium_square.png",
       "featured": true,
-      "organization_name": "Google",
+      "organization_name": "Baidu",
       "isOpen": "open",
-      "submission_period_dates": "May 05 - Jun 11, 2026",
+      "submission_period_dates": "Apr 09 - May 20, 2026",
       "displayed_location": "Online",
-      "registrations_count": 7305,
-      "prizeText": "$<span data-currency-value>60,000</span>",
-      "time_left_to_submission": "25 days left",
+      "registrations_count": 8129,
+      "prizeText": "$<span data-currency-value>50,000</span>",
+      "time_left_to_submission": "1 day left",
       "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "start_a_submission_url": "https://rapid-agent.devpost.com/challenges/start_a_submission",
-      "source": "devpost"
-    },
-    {
-      "_id": "6a0a6cc5af40651264600368",
-      "id": 29127,
-      "url": "https://findevil.devpost.com/",
-      "title": "FIND EVIL!",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/521/059/datas/medium_square.png",
-      "featured": true,
-      "organization_name": "sans",
-      "isOpen": "open",
-      "submission_period_dates": "Apr 15 - Jun 15, 2026",
-      "displayed_location": "Online",
-      "registrations_count": 3426,
-      "prizeText": "$<span data-currency-value>22,000</span>",
-      "time_left_to_submission": "29 days left",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
         {
           "id": 23,
           "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "start_a_submission_url": "https://findevil.devpost.com/challenges/start_a_submission",
+      "start_a_submission_url": "https://medo.devpost.com/challenges/start_a_submission",
       "source": "devpost"
     }
   ]
